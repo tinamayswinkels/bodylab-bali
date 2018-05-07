@@ -3,6 +3,11 @@
 <head>
   
   <title> Spa Website Bali </title>
+  
+  <!-- gridlex -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/gridlex/2.7.1/gridlex.min.css">
+  <!-- Google fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800" rel="stylesheet">
   <link href="style.css" rel="stylesheet"/>
   
 </head>
@@ -10,11 +15,13 @@
   
   
   <!-- HEADER SECTION -->
-  <header>
-    <a class="logo">
-      <h2> LOGO </h2>
-    </a>
-    <nav>
+  <header class="grid-middle">
+    <div class="col-4">
+      <a class="logo" href="#">
+        <h2> LOGO </h2>
+      </a>
+    </div>
+    <nav class="col-8 right">
       <a href="#"> Home </a>
       <a href="#"> About </a>
       <a href="#"> Services </a>
@@ -22,57 +29,64 @@
     </nav>
   </header>
   
-  <section>
+  <!-- banner --> 
+  <section class="padded bg-banner grid-middle">
+    <div class="col">
+        <h2> An award winning <br /> beauty spa in Bali </h2>
+    </div>
+  </section>
+  
+  <section class="grid">
     <!-- First row -->
-    <div class="bg-image"></div>
-    <div>
+    <div class="bg-image col-6"></div>
+    <div class="col-6 padded">
       <h2> Skin <span>Lifting </span></h2>
       <h3> Facials </h3>
       <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
     </div>
     <!-- Second row -->
-    <div>
+    <div class="col-6 padded">
       <h2> Body <span>Tightening </span></h2>
       <h3> Treatments </h3>
       <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
     </div>
-    <div class="bg-image"></div>
+    <div class="bg-image col-6"></div>
   </section>
   
   <!-- Call to action --> 
-  <section>
+  <section class="padded center">
     <h2> What are you waiting for </h2>
     <a href="#" class="button">Book Now </a>
   </section>
   
   <!-- Testimonials Section  --> 
-  <section>
-    <h2> Happy <span>Customers </span></h2>
-    <h3> Testimonials </h3>
-    <div> <!-- container -->
-      <div>
+  <section class="padded">
+    <h2 class="center"> Happy <span>Customers </span></h2>
+    <h3 class="center"> Testimonials </h3>
+    <div class="grid"> <!-- container -->
+      <div class="col-4 padded-2">
         <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
       </div>
-      <div>
+      <div class="col-4 padded-2">
         <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
       </div>
-      <div>
+      <div class="col-4 padded-2">
         <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
       </div>
     </div>
   </section>
   
   <!-- Map Section --> 
-  <section>
+  <section class="padded">
     <h2> THIS IS FOR MAP </h2>
   </section>
   
-  <footer>
-    <div>
+  <footer class="grid padded">
+    <div class="col-6">
       <h2> Let's <span>Connect </span></h2>
       <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
     </div>
-    <div>
+    <div class="col-6">
       <h2> THIS IS A FORM </h2>
     </div>
   </footer>

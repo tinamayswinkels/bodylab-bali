@@ -4,10 +4,82 @@
   box-sizing: border-box;
 }
 
+body {
+  font-family: 'Open Sans';
+  color: rgb(60,60,65);
+}
+
 header,
 footer,
 section,
 div {
   border: 1px solid rgb(230,230,230);
-  padding: 1%;
+}
+
+/* Universal Styles & Typography */
+
+h2, h3 {
+  color: #8998A2;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 1.7rem;
+}
+h2 span {
+  color: #DC245E;
+}
+h3 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  margin-bottom: 0.5rem;
+}
+
+/* Utility Classes */
+
+.padded     { padding: 5%; }
+.padded-2   { padding: 2%; }
+
+.left   { text-align: left;   }
+.right  { text-align: right;  }
+.center { text-align: center; }
+
+/* Header & Nav */
+
+header {
+  padding: 1% 5%;
+}
+
+header [class*=col-] {
+  padding:0;
+}
+
+header a {
+  text-decoration: none;
+  padding: 5px;
+  display: inline-block;
+  text-transform: uppercase;
+  border-bottom: 2px solid white;
+  color: #8998A2;
+}
+
+header nav a:hover {
+  border-bottom: 2px solid #DC245E;
+}
+
+/* Background images */
+.bg-image,
+.bg-banner {
+  background-image: url('images/placeholder-2.jpg');
+  background-size: cover;
+  background-position: center;
+}
+.bg-banner {
+    background-image: url('images/placeholder-1.png');
+    min-height: 50vh;
+}
+
+.bg-banner h2 {
+  font-weight: 300;
+  font-size: 2rem;
 }
