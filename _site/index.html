@@ -1,7 +1,36 @@
----
-layout: default
----
-  <!-- banner --> 
+<!DOCTYPE html>
+<html>
+<head>
+  
+  <title> Spa Website Bali </title>
+  
+  <!-- gridlex -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/gridlex/2.7.1/gridlex.min.css">
+  <!-- Google fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800" rel="stylesheet">
+  <link href="style.css" rel="stylesheet"/>
+  
+</head>
+<body>
+  
+  
+  <!-- HEADER SECTION -->
+  <header class="grid-middle">
+    <div class="col-4_sm-12">
+      <a class="logo" href="#">
+        <h2> LOGO </h2>
+      </a>
+    </div>
+    <nav class="col-8_sm-12 right">
+      <a href="#"> Home </a>
+      <a href="#"> About </a>
+      <a href="#"> Services </a>
+      <a href="#"> Contact </a>
+    </nav>
+  </header>
+  
+  <!-- CONTENT GOES HERE -->
+    <!-- banner --> 
   <section class="padded bg-banner grid-middle">
     <div class="col">
         <h2> An award winning <br /> beauty spa in Bali </h2>
@@ -48,3 +77,27 @@ layout: default
       </div>
     </div>
   </section>
+  
+  <!-- Map Section --> 
+  <section>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31554.730477290006!2d115.1232313098122!3d-8.659053177076089!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd2477980de0b4d%3A0xa85dfcf1a23369e!2sBody+Temple+Spa+Bali!5e0!3m2!1sen!2sid!4v1525698534369" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+  </section>
+  
+  <footer class="grid padded dark">
+    <div class="col-6_sm-12">
+      <h2> Let's <span>Connect </span></h2>
+      <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    </div>
+    <div class="col-6_sm-12 right">
+      <form action="https://formspree.io/your@email.com"
+      method="POST">
+            <input type="text" name="name" placeholder="Your Name">
+            <input type="email" name="_replyto" placeholder ="Your Email">
+            <textarea placeholder="Your Message"></textarea>
+            <input type="submit" value="Send">
+      </form>
+    </div>
+  </footer>
+  
+</body>
+</html>
