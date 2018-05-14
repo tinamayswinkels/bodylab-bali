@@ -1,0 +1,110 @@
+---
+layout: default
+face-treatments:
+  - title: Electic
+    title-highlighted: Skin
+    subtitle: facial
+    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    image_path: /images/placeholder-2.jpg
+  - title: Hydrating
+    title-highlighted: Skin
+    subtitle: facial
+    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    image_path: /images/placeholder-2.jpg
+body-treatments:
+  - title: 3D Slimming
+    title-highlighted: Skin
+    subtitle: facial
+    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    image_path: /images/placeholder-2.jpg
+  - title: Vacume Roller
+    title-highlighted: Skin
+    subtitle: facial
+    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    image_path: /images/placeholder-2.jpg
+injectable-treatments:
+  - title: Botox
+    title-highlighted: Skin
+    subtitle: facial
+    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    image_path: /images/placeholder-2.jpg
+  - title: Dermal Fillers
+    title-highlighted: Skin
+    subtitle: facial
+    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    image_path: /images/placeholder-2.jpg
+---
+
+<section class="padded light editable">
+  <h2> Body Lab Treatments </h2>
+  <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p> Scroll to ...
+      <a href="#face"> Face Lifting Treatments </a> |
+      <a href="#body"> Body Tightening Treatments </a> |
+      <a href="#face"> Injectable Rejuvenation Treatments </a> |
+  </p>
+</section>
+
+<section class="padded center featured" id="face">
+  <h2> Face Lifting Treatments </h2>
+  <p>Body Lab is a medical spa located in the heart of Seminyak, Bali. We offer a variety of beauty and skincare treatments customised to your needs. Our highly trained therapists are providing the safest procedures and imlpementing the latest technologies in the beauty industry. </p>
+</section>
+
+<!-- Services grid section -->
+<section class="services-grid">
+  {% for item in page.face-treatments %}
+  <div class="grid">
+    <div class="bg-image col-6_sm-12" style="background-image: url({{item.image_path}});"></div>
+    <div class="col-6_sm-12 padded">
+      <h2> {{item.title}}<span> {{item.title-highlighted}} </span></h2>
+      <h3> {{item.subtitle}}</h3>
+      <p> {{item.description}}</p>
+    </div>
+  </div>
+ {% endfor %}
+</section>
+
+<section class="padded center featured" id="face">
+  <h2> Body Tightening Treatments </h2>
+  <p>Body Lab is a medical spa located in the heart of Seminyak, Bali. We offer a variety of beauty and skincare treatments customised to your needs. Our highly trained therapists are providing the safest procedures and imlpementing the latest technologies in the beauty industry. </p>
+</section>
+
+<!-- Services grid section -->
+<section class="services-grid">
+  {% for item in page.body-treatments %}
+  <div class="grid">
+    <div class="bg-image col-6_sm-12" style="background-image: url({{item.image_path}});"></div>
+    <div class="col-6_sm-12 padded">
+      <h2> {{item.title}}<span> {{item.title-highlighted}} </span></h2>
+      <h3> {{item.subtitle}}</h3>
+      <p> {{item.description}}</p>
+    </div>
+  </div>
+ {% endfor %}
+</section>
+
+<section class="padded center featured" id="face">
+  <h2> Injectible Rejuvenation Treatments </h2>
+  <p>Body Lab is a medical spa located in the heart of Seminyak, Bali. We offer a variety of beauty and skincare treatments customised to your needs. Our highly trained therapists are providing the safest procedures and imlpementing the latest technologies in the beauty industry. </p>
+</section>
+
+<!-- Services grid section -->
+<section class="services-grid">
+  {% for item in page.injectable-treatments %}
+  <div class="grid">
+    <div class="bg-image col-6_sm-12" style="background-image: url({{item.image_path}});"></div>
+    <div class="col-6_sm-12 padded">
+      <h2> {{item.title}}<span> {{item.title-highlighted}} </span></h2>
+      <h3> {{item.subtitle}}</h3>
+      <p> {{item.description}}</p>
+    </div>
+  </div>
+ {% endfor %}
+</section>
+
+<!-- Call to action -->
+<section class="padded center featured">
+  <h2> Only the best </h2>
+  <p> Body lab is Bali's only spa clinic to have medically certified practitioners, and uses only professionally recognised international cosmetic brands. </p>
+  <a href="#" class="button">Book Now </a>
+</section>
