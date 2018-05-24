@@ -10,7 +10,6 @@ face-treatments:
       levels and causes the collagen to build up. It can influence independently
       shallow dermis, deep dermis and SMAS.
 
-
       BENEFITS:
 
       -Face contouring 
@@ -60,7 +59,7 @@ face-treatments:
       -Increases blood circulation
 
       -Removes muscle spasms
-    image_path:
+    image_path: /images/placeholder-2.jpg
   - title:
     title-highlighted: Microcurrents
     subtitle: Facial
@@ -124,7 +123,7 @@ face-treatments:
       -Relaxing and painless experience
 
       -Firm plump and refreshed skin
-    image_path:
+    image_path: /images/placeholder-2.jpg
   - title: Detox
     title-highlighted: Facial
     subtitle: Comedo Extraction
@@ -184,7 +183,7 @@ face-treatments:
       -Reduces puffiness 
 
       -Increased cell metabolism
-    image_path:
+    image_path: /images/placeholder-2.jpg
   - title: Combination
     title-highlighted: Facial
     subtitle: Ultrasound + Detox
@@ -218,7 +217,7 @@ face-treatments:
       -Refreshing effect 
 
       -Youthful appearance
-    image_path:
+    image_path: /images/placeholder-2.jpg
   - title:
     title-highlighted: Microdermabration
     subtitle: Peel off Pigmentation
@@ -227,7 +226,7 @@ face-treatments:
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
       veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
       commodo consequat.
-    image_path:
+    image_path: /images/placeholder-2.jpg
   - title: Fruit Acid
     title-highlighted: Peel
     subtitle: Shrink Pores & Fine Lines
@@ -252,7 +251,7 @@ face-treatments:
       - reduce the appearance of acne scars and environmental damage,
 
       -reduce pigmentation .
-    image_path:
+    image_path: /images/placeholder-2.jpg
   - title: Vacuum Lifting
     title-highlighted: Massage
     subtitle: Lymph drainage & lifting
@@ -261,7 +260,7 @@ face-treatments:
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
       veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
       commodo consequat.
-    image_path:
+    image_path: /images/placeholder-2.jpg
 body-treatments:
   - title: 3D Slimming
     title-highlighted: Skin
@@ -325,7 +324,7 @@ injectable-treatments:
     <div class="col-6_sm-12 padded">
       <h2> {{item.title}}<span> {{item.title-highlighted}} </span></h2>
       <h3> {{item.subtitle}}</h3>
-      <p> {{item.description}}</p>
+      <p> {{item.description_html}}</p>
     </div>
   </div>
  {% endfor %}
@@ -344,7 +343,7 @@ injectable-treatments:
     <div class="col-6_sm-12 padded">
       <h2> {{item.title}}<span> {{item.title-highlighted}} </span></h2>
       <h3> {{item.subtitle}}</h3>
-      <p> {{item.description}}</p>
+      <p> {{item.description_html}}</p>
     </div>
   </div>
  {% endfor %}
@@ -363,7 +362,7 @@ injectable-treatments:
     <div class="col-6_sm-12 padded">
       <h2> {{item.title}}<span> {{item.title-highlighted}} </span></h2>
       <h3> {{item.subtitle}}</h3>
-      <p> {{item.description}}</p>
+      {{item.description_html}}
     </div>
   </div>
  {% endfor %}
