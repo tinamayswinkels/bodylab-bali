@@ -75,7 +75,7 @@ ul {
 
 header {
   padding: 0 5%;
-  background-color: rgb(245,245,250);
+  background-color: white;
 }
 
 header [class*=col-] {
@@ -87,12 +87,17 @@ header a {
   padding: 5px;
   display: inline-block;
   text-transform: uppercase;
-  border-bottom: 2px solid rgb(245,245,250);
+  border-bottom: 2px solid white;
   color: #8998A2;
 }
 
-header nav a:hover {
+header nav a:hover,
+footer a:hover {
   border-bottom: 2px solid #DC245E;
+}
+
+footer a {
+  text-decoration: none;
 }
 
 .logo img {
@@ -102,14 +107,13 @@ header nav a:hover {
 /* Background images & Banners */
 .bg-image,
 .bg-banner {
-  background-image: url('images/placeholder-2.jpg');
+  background-image: url('images/bodylab-8.jpeg');
   background-size: cover;
   background-position: center;
   min-height: 30vh;
 }
 .bg-banner {
-    background-image: url('images/placeholder-1.png');
-    min-height: 50vh;
+    min-height: 80vh;
 }
 
 .bg-banner h2 {
@@ -130,6 +134,10 @@ header nav a:hover {
   border-radius: 9px;
   margin-top: 1.5rem;
   transition: all 0.5s;
+}
+.button.pink {
+  border: 2px solid #DC245E;
+  color: #DC245E;
 }
 
 .button:hover {
