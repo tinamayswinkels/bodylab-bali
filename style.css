@@ -173,7 +173,15 @@ input[type="submit"] {
 .services-grid .grid:nth-child(odd) {
     flex-direction: row-reverse;
 }
+
+.social-nav img {
+    padding: 5px;
+    max-width: 50px;
+}
+
 /* Media Queries */
+
+
 
 @media(max-width:676px) {
   header div,
