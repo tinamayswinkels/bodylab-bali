@@ -1,0 +1,21 @@
+---
+layout: default
+title: Blog
+---
+
+<!-- banner -->
+<section class="padded bg-banner grid-middle" style="background-image:url('images/bodylab-10.jpeg');background-position: top;">
+  <div class="col right">
+      <h2> Body Lab Blog </h2>
+  </div>
+</section>
+<section class="padded editable grid-center">
+  {% for post in site.posts %}
+  <div class="col-9 padded">
+    <div class="post-image" style="background-image:url({{post.featured_image}})"></div>
+    <h2> {{post.title}}</h2>
+    <p> {{post.description}}</p>
+    <a href="{{post.url}}" class="pink button">Read More </a>
+  </div>
+  {% endfor %}
+</section>

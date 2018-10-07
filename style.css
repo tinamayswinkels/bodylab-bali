@@ -59,6 +59,8 @@ ul {
 .right  { text-align: right;  }
 .center { text-align: center; }
 
+.tall { min-height:80vh; }
+
 .dark {  background-color: rgb(60,60,65);  }
 .dark h2,
 .dark h3,
@@ -111,10 +113,11 @@ footer a {
 /* Background images & Banners */
 .bg-image,
 .bg-banner {
-  background-image: url('images/bodylab-8.jpeg');
+  background-image: url('/images/bodylab-8.jpeg');
   background-size: cover;
   background-position: center;
   min-height: 30vh;
+  position: relative;
 }
 .bg-banner {
     min-height: 60vh;
@@ -126,6 +129,24 @@ footer a {
   text-transform: none;
   color: rgb(60,60,65);
 }
+
+.post-image {
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 60%;
+  margin-bottom: 1rem;
+}
+
+.sticky-pink {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-image: linear-gradient(rgba(1,1,1,0), #f1a5bd);
+  padding: 15% 5% 5%;
+  text-align: center;
+}
+
 
 /* Buttons */
 
@@ -196,6 +217,24 @@ form label {
   color: #DC245E;
   font-weight: bold;
   display: inline-block; /* This ads margin above each label. You need display inline block, because by default it's an inline element that won't accept vertical margin.*/
+}
+
+/* blog posts */
+
+.post h2 {
+  font-weight: normal;
+  color: #DC245E;
+  font-size: 2.2rem;
+}
+
+.post h3 {
+  font-size: 1.5rem;
+  font-weight: 400;
+  text-transform: none;
+}
+
+.post img {
+  margin: 1rem 0;
 }
 
 
