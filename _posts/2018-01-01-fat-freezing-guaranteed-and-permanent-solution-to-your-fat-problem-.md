@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fat freezing: garanteed and permanent solution to your fat problem.'
+title: 'Fat freezing: guaranteed and permanent solution to your fat problem.'
 description: >-
   Today more and more people are struggling to stay fit and healthy. Modern pace
   of life forces us to eat on the run. Fast food restaurants are now an integral
