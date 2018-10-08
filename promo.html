@@ -1,16 +1,25 @@
 ---
 layout: default
-featured_image: /images/bodylab-6.png
+promo_1_image: /images/bodylab-6.png
+promo_1_html:
+promo_2_image: /images/bodylab-6.png
+promo_2_html:
 ---
   <section>
-    <div class="grid tall">
-      <div class="bg-image col-6_sm-12" style="background-image: url({{page.featured_image}});"></div>
+    <div class="grid">
+      <div class="bg-image col-6_sm-12" style="background-image: url({{page.promo_1_image}});"></div>
       <div class="col-6_sm-12 grid editable featured">
         <div class="col-12-middle padded">
-          <h2> October <span> Promo </span></h2>
-          <h3> Ultimate Rejuvenation </h3>
-          <p> This month we're giving 50% off all facials, to redeem just send mention this promo when you book. Get your skin glowing in time for summer. </p>
+          {{page.promo_1_html}}
         </div>
       </div>
+
+      <div class="col-6_sm-12 grid editable featured">
+        <div class="col-12-middle padded">
+          {{page.promo_2_html }}
+        </div>
+      </div>
+      <div class="bg-image col-6_sm-12" style="background-image: url({{page.promo_2_image}});"></div>
+
     </div>
 </section>
