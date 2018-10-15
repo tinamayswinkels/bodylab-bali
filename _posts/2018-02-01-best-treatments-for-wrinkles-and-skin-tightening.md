@@ -12,6 +12,8 @@ featured_image: /untitled-101.jpg
 
 Aging is an inherent process of our life and face is the first body part suffering from it. Weak blood flow to facial blood vessels, reduction of cell reproduction, stress, smoking and poor environmental conditions – all this leads to appearance of wrinkles and general deterioration of skin structure. However, modern scientists are able to fight this problem! &nbsp; &nbsp;
 
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/h6\_R0jnADak" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+
 ## Thermolift treatment&nbsp;
 
 Thermolift is considered the most effective non-invasive procedure for restoring the natural skin beauty. Unlike surgical face lifting, this method is not associated with any incisions and dramatic cosmetic changes.&nbsp;
