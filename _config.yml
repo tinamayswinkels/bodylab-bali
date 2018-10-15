@@ -1,3 +1,21 @@
 _options:
   content:
+    format: p h1 h2 h3 h4 h5 h6 pre address div
+    bold: true
+    numberedlist: true
+    bulletedlist: true
+    image: true
+    code: true
+    table: true
     embed: true
+    italic: true
+    removeformat: true	 
+    link: true
+    undo: true
+    redo: true
+    underline: true	 
+    strike: true
+    subscript: true 	 
+    superscript: true 
+    blockquote: true
+    horizontalrule: true
