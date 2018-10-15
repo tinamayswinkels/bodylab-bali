@@ -12,7 +12,7 @@ featured_image: /untitled-101.jpg
 
 Aging is an inherent process of our life and face is the first body part suffering from it. Weak blood flow to facial blood vessels, reduction of cell reproduction, stress, smoking and poor environmental conditions – all this leads to appearance of wrinkles and general deterioration of skin structure. However, modern scientists are able to fight this problem! &nbsp; &nbsp;
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/h6\_R0jnADak" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI0MTUiIHNyYz0iaHR0cHM6Ly93d3cueW91dHViZS5jb20vZW1iZWQvWTc0bXR0ZFhGMUkiIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYXV0b3BsYXk7IGVuY3J5cHRlZC1tZWRpYSIgYWxsb3dmdWxsc2NyZWVuPjwvaWZyYW1lPgo="><iframe width="100%" height="415" src="https://www.youtube.com/embed/Y74mttdXF1I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></div>
 
 ## Thermolift treatment&nbsp;
 
