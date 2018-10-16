@@ -6,7 +6,7 @@ description: >-
   once and for all! Getting excited? And guess what? We, Body Lab, are the only
   company in Bali having necessary equipment and expertise to perform this
   massage!
-featured_image: 'https://www.youtube.com/watch?v=1PVCdJsGGjY'
+featured_image: /images/bodylab-11.jpg
 ---
 
 Cellulite is the rightful enemy of any women. People are still arguing  whether it can be considered a real disease, but it is definitely an esthetic problem.Cellulite is a microcirculation defect in the fat tissue and local increase of fat cell volume. When fat cells grow you can see the consequences on your skin surface, so-called “orange peel”. But there is a solution which will definitely help you to eliminate this undesirable skin issue.
