@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Instant glowing and radiance ?Oxygeneo Facial
+title: Instant glowing and radiance ?     Oxygeneo Facial
 description: >-
   The Oxygeneo Facial has been in aesthetic cosmetics market for a while. It is
   still popular in beauty clinics all over the world. Many popular celebrities
