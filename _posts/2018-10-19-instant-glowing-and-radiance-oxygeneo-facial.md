@@ -11,8 +11,6 @@ description: >-
 featured_image: /uploads/20180412-IMG_0536.jpg
 ---
 
-&nbsp;
-
 The Oxygeneo Facial has been in aesthetic cosmetics market for a while. It is still popular in beauty clinics all over the world. Many popular celebrities take it to be always ready for a red carpet appearance or a perfect photo session. This procedure is a natural choice for those who want to ready for an important event or a party. Let’s look at Oxygeneo Facial and understand what makes is so great.
 
 What is Oxygeneo Facial?
@@ -23,11 +21,11 @@ Oxygeneo Facial is a 3-in-1 super facial procedure designed to improve the condi
 
 The first thing you have to do is to remove a layer of dead skin cells. This makes the skin smoother, refreshes and prepares it to receive oxygen and active nutrients.
 
-2. Infusion
+1. Infusion
 
 At this stage the skin is infused with active ingredients like antioxidants, peptides and hyaluronic acid.
 
-3. Oxygenation
+1. Oxygenation
 
 When the skin is cleansed and infused, the device begins to produce CO2 bubbles. They penetrate the skin and trigger a natural response of the body, consisting in sending the oxygen-rich blood towards this area, increasing skin metabolism and capillary flow. Due to all this, all the nutrients from the second stage are optimally absorbed.
 
@@ -35,16 +33,16 @@ What are the benefits?
 
 Among the uncontested advantages of the Oxygeneo Facial are:
 
-- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;youthful radiance;
+* youthful radiance;
 
-- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;stimulation of new cell production;
+* stimulation of new cell production;
 
-- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;improving of collagen production;
+* improving of collagen production;
 
-- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;reduction of wrinkles and hyperpigmentation.
+* reduction of wrinkles and hyperpigmentation.
 
 Schedule of sessions
 
 You are recommended to take this procedure once per week, if necessary. One session is approximately 60 minutes.
 
-<br>&nbsp;
+<br>
