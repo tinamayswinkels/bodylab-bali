@@ -11,6 +11,8 @@ featured_image: /uploads/brazzilian-butt.jpg
 
 Explore some of our treatments through our video library&nbsp;
 
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI0MTUiIHNyYz0iaHR0cHM6Ly93d3cueW91dHViZS5jb20vZW1iZWQveW40YkMyTVU0VzgiIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYXV0b3BsYXk7IGVuY3J5cHRlZC1tZWRpYSIgYWxsb3dmdWxsc2NyZWVuPjwvaWZyYW1lPg=="><iframe width="100%" height="415" src="https://www.youtube.com/embed/yn4bC2MU4W8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></div>
+
 <div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI0MTUiIHNyYz0iaHR0cHM6Ly93d3cueW91dHViZS5jb20vZW1iZWQvcVk3U3Q4ejRoanciIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYXV0b3BsYXk7IGVuY3J5cHRlZC1tZWRpYSIgYWxsb3dmdWxsc2NyZWVuPjwvaWZyYW1lPg=="><iframe width="100%" height="415" src="https://www.youtube.com/embed/qY7St8z4hjw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></div>
 
 <div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI0MTUiIHNyYz0iaHR0cHM6Ly93d3cueW91dHViZS5jb20vZW1iZWQvUTBMLV9IOW0yWHMiIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYXV0b3BsYXk7IGVuY3J5cHRlZC1tZWRpYSIgYWxsb3dmdWxsc2NyZWVuPjwvaWZyYW1lPg=="><iframe width="100%" height="415" src="https://www.youtube.com/embed/Q0L-_H9m2Xs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></div>
