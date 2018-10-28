@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: videos
 title: Bodylab Video Library
 description: >-
   Explore some of the body lab treatments by watching our treatment
