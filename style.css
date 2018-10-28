@@ -241,6 +241,20 @@ form label {
 /* Media Queries */
 
 
+.video .cms-embed {
+    width: 49%;
+    margin: 0;
+    display: inline-block;
+    border: 10px solid white;
+}
+
+.video iframe {
+    height: 315px;
+}
+
+
+
+
 
 @media(max-width:676px) {
   header div,
@@ -252,4 +266,9 @@ form label {
     margin: auto;
     max-width: 100%;
   }
+  
+  .video .cms-embed {
+    width: 100%;
+    border: 10px solid white;
+    }
 }
