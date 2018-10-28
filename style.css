@@ -241,18 +241,16 @@ form label {
 /* Media Queries */
 
 
-.video .cms-embed {
+.video-grid .cms-embed {
     width: 49%;
     margin: 0;
     display: inline-block;
     border: 10px solid white;
 }
 
-.video iframe {
+.video-grid iframe {
     height: 315px;
 }
-
-
 
 
 
