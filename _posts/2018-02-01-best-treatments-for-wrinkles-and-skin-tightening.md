@@ -2,28 +2,29 @@
 layout: post
 title: Best treatments for wrinkles and skin tightening
 description: >-
-  Aging is an inherent process of our life and face is the first body part
-  suffering from it. Weak blood flow to facial blood vessels, reduction of cell
-  reproduction, stress, smoking, and poor environmental conditions – all this
-  leads to the appearance of wrinkles and general deterioration of skin
-  structure. However, modern scientists are able to fight this problem!
+  Aging is an inherent part of life. Unfortunately, our face is the first part
+  to suffer from it. Weak blood flow to facial blood vessels, reduction of cell
+  reproduction, stress, smoking and poor environmental conditions all lead to an
+  increase in wrinkles and general deterioration of skin structure.
 featured_image: /untitled-101.jpg
 ---
 
-Aging is an inherent process of our life and face is the first body part suffering from it. Weak blood flow to facial blood vessels, reduction of cell reproduction, stress, smoking and poor environmental conditions – all this leads to appearance of wrinkles and general deterioration of skin structure. However, modern scientists are able to fight this problem! &nbsp; &nbsp;
+&nbsp;
 
 <div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI0MTUiIHNyYz0iaHR0cHM6Ly93d3cueW91dHViZS5jb20vZW1iZWQvWTc0bXR0ZFhGMUkiIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYXV0b3BsYXk7IGVuY3J5cHRlZC1tZWRpYSIgYWxsb3dmdWxsc2NyZWVuPjwvaWZyYW1lPgo="><iframe width="100%" height="415" src="https://www.youtube.com/embed/Y74mttdXF1I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></div>
 
-## Thermolift treatment&nbsp;
+Aging is an inherent part of life. Unfortunately, our face is the first part to suffer from it. Weak blood flow to facial blood vessels, reduction of cell reproduction, stress, smoking and poor environmental conditions all lead to an increase in wrinkles and general deterioration of skin structure.
 
-Thermolift is considered the most effective non-invasive procedure for restoring the natural skin beauty. Unlike surgical face lifting, this method is not associated with any incisions and dramatic cosmetic changes.&nbsp;
+However, modern scientists are able to fight this problem using the thermolift procedure!
 
-Thermolift uses high focused radio frequencies to heat different skin layers. The key factor here is collagen. The collagen is a basic component of human connective tissue and is responsible for smoothness of skin. Thermolift send energy pulses towards the skin in controlled and measures amounts. Body is tricked in the way it thinks a skin layer is damaged, and it starts to generate collagen to restore these damages. You have nothing to worry about! This procedure is harmless and you don’t feel any discomfort.
+&nbsp;&nbsp;
 
-Thermolift procedure is carried out on face (significantly tightens facial contours, eliminates wrinkles and ensures solid skin structure) and body (removes cellulite manifestations and lifts sagged skin). &nbsp; &nbsp; &nbsp;&nbsp;
+Thermolift is considered the most effective non-invasive procedure for restoring the natural skin beauty. Unlike surgical face lifts, this method does not use any incisions or dramatic cosmetic changes. Instead, thermolift uses high focused radio frequencies to heat different skin layers to target collagen in the skin. Collagen is a basic component of human connective tissue and is responsible for smoothness of skin. During the thermolift procedure, the beautician sends energy pulses through the skin in controlled quantities. The body starts to regenerate collagen that leads to smoother looking and feeling skin. Patients usually feel very little to no discomfort during the procedure. One session might take from 60 up to 120 minutes depending on the areas being treated.
 
-The results can be seen even after the first session! In order to see the full benefit you need to undergo 5-7 sessions, once in 5 days. The result usually lasts about two years. Surgical methods offer much longstanding results (about ten years), but such invasive methods imply more expenses, longer recovery time and other relative risks. Thermolift, on the other hand, is much safer, cost efficient and quicker.
+The thermolift procedure is carried out mostly on the face (through which it significantly tightens facial contours, eliminates wrinkles and ensures solid skin structure) and the body (removes cellulite manifestations and lifts sagging skin). &nbsp; &nbsp; &nbsp;&nbsp;
 
-One session might take from 60 up to 120 minutes depending on the areas to be treated. It is recommended to consult your physician before and after the procedure to be completely aware of what is going on with your body.
+The results can be seen as soon as the first session! However, in order to see the full benefit you will need to undergo at least 5-7 sessions, once every 5 days. The results usually last about two years. While surgical methods offer much longstanding results, these are much more invasive methods that also require more expenses, longer recovery time and potential health risks. Thermolift, on the other hand, is much safer, cost efficient and quicker. Nonetheless, it is recommended to consult your physician before and after the procedure to be completely aware of what is going on with your body.
 
-Come and see for yourself how your whole appearance can be changed without any efforts and risks. Sit back, relax and enjoy the beauty!
+Come and see for yourself how your whole appearance can be changed without any efforts and risks. Sit back, relax and enjoy the beauty! &nbsp; &nbsp; &nbsp;&nbsp;
+
+## &nbsp;
