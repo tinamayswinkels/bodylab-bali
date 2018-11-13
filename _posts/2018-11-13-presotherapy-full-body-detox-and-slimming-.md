@@ -17,15 +17,15 @@ Pressotherapy is a very popular and completely painless technique used in medici
 
 How is Pressotherapy carried out?
 
-Firstly, you should lie on a comfortable bed. Then our specialist applies a special natural plant‑origin STYX Austria cream. The reason for this will be explained in the following paragraphs. &nbsp;After that the limbs to be treated are wrapped in garments. By the way, it is allowed to treat several limbs simultaneously. So after the preparatory stage is over the actual treatment starts. This procedure is controlled by a specialized computer program. It starts the pump which alternatively inflates and deflates the garments. In this way, the body experiences something like a ‘lymph drain massage’.
+Firstly, you should lie on a comfortable bed. Then our specialist applies a special natural plant‑origin STYX Austria cream. The reason for this will be explained in the following paragraphs.  After that the limbs to be treated are wrapped in garments. By the way, it is allowed to treat several limbs simultaneously. So after the preparatory stage is over the actual treatment starts. This procedure is controlled by a specialized computer program. It starts the pump which alternatively inflates and deflates the garments. In this way, the body experiences something like a ‘lymph drain massage’.
 
-&nbsp;
+ 
 
 When the garment is inflated, the lymphatic nodes are squeezed, and when it is deflated, they are expanding. In such a manner excessive cell fluids are washed away from the body through the kidney system.
 
 During the treatment the temperature is increased up to 60 oC which causes quickening of the heart rate and intense perspiration. This whole process replaces cardio practice at a gym, i.e. fat burn and detoxification take place at the same time. The STYX Austria cream which was mentioned earlier has anti cellulite and detoxification properties. At high temperatures the cream penetrates the skin through pores and helps to decrease cellulite and lift the skin.
 
-Such a complex approach contributes to weight loss, enhancement of the skin quality and detoxification process. &nbsp; &nbsp; &nbsp;&nbsp;
+Such a complex approach contributes to weight loss, enhancement of the skin quality and detoxification process.       
 
 What Pressotherapy is good for?
 
@@ -38,5 +38,3 @@ The treatment course is 10-15 sessions every 2-3 days.
 What is the duration of a Pressotherapy session?
 
 One session lasts 60 minutes.
-
-&nbsp;
