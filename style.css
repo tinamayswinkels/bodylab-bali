@@ -45,10 +45,17 @@ p {
   margin-bottom: 0.5rem;
 }
 
-ul {
+ul, 
+ol{
   margin-left: 2rem;
   margin-bottom: 1rem;
 }
+
+li {
+    margin-left: 1.5rem;
+    padding-left: 1rem;
+}
+
 
 /* Utility Classes */
 
