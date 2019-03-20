@@ -7,7 +7,7 @@ description: >-
 featured_image: /uploads/brazzilian-butt.jpg
 ---
 
-Explore some of our treatments through our video library&nbsp;
+Explore some of our treatments through our video library .
 
 &nbsp;
 
