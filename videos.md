@@ -9,6 +9,10 @@ featured_image: /uploads/brazzilian-butt.jpg
 
 Explore some of our treatments through our video library .
 
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIzMTUiIHNyYz0iaHR0cHM6Ly93d3cueW91dHViZS5jb20vZW1iZWQvWmlPdnNyQ3VkcnMiIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYWNjZWxlcm9tZXRlcjsgYXV0b3BsYXk7IGVuY3J5cHRlZC1tZWRpYTsgZ3lyb3Njb3BlOyBwaWN0dXJlLWluLXBpY3R1cmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4="><iframe width="100%" height="315" src="https://www.youtube.com/embed/ZiOvsrCudrs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIzMTUiIHNyYz0iaHR0cHM6Ly93d3cueW91dHViZS5jb20vZW1iZWQvU2VVQXNkMUFpUkEiIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYWNjZWxlcm9tZXRlcjsgYXV0b3BsYXk7IGVuY3J5cHRlZC1tZWRpYTsgZ3lyb3Njb3BlOyBwaWN0dXJlLWluLXBpY3R1cmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4="><iframe width="100%" height="315" src="https://www.youtube.com/embed/SeUAsd1AiRA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+
 <div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIzMTUiIHNyYz0iaHR0cHM6Ly93d3cueW91dHViZS5jb20vZW1iZWQvb05IVldCLU93MjAiIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYWNjZWxlcm9tZXRlcjsgYXV0b3BsYXk7IGVuY3J5cHRlZC1tZWRpYTsgZ3lyb3Njb3BlOyBwaWN0dXJlLWluLXBpY3R1cmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4="><iframe width="100%" height="315" src="https://www.youtube.com/embed/oNHVWB-Ow20" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 <div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIzMTUiIHNyYz0iaHR0cHM6Ly93d3cueW91dHViZS5jb20vZW1iZWQvbUpKNjNrZlpQMWciIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYWNjZWxlcm9tZXRlcjsgYXV0b3BsYXk7IGVuY3J5cHRlZC1tZWRpYTsgZ3lyb3Njb3BlOyBwaWN0dXJlLWluLXBpY3R1cmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4="><iframe width="100%" height="315" src="https://www.youtube.com/embed/mJJ63kfZP1g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
@@ -54,3 +58,5 @@ Explore some of our treatments through our video library .
 <div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI0MTUiIHNyYz0iaHR0cHM6Ly93d3cueW91dHViZS5jb20vZW1iZWQvN3Z3V0I3WUgyNnMiIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYXV0b3BsYXk7IGVuY3J5cHRlZC1tZWRpYSIgYWxsb3dmdWxsc2NyZWVuPjwvaWZyYW1lPg=="><iframe width="100%" height="415" src="https://www.youtube.com/embed/7vwWB7YH26s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></div>
 
 <div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI0MTUiIHNyYz0iaHR0cHM6Ly93d3cueW91dHViZS5jb20vZW1iZWQvaDZfUjBqbkFEYWsiIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYXV0b3BsYXk7IGVuY3J5cHRlZC1tZWRpYSIgYWxsb3dmdWxsc2NyZWVuPjwvaWZyYW1lPg=="><iframe width="100%" height="415" src="https://www.youtube.com/embed/h6_R0jnADak" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></div>
+
+<div class="cms-embed" data-cms-embed=""></div>
