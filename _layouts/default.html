@@ -9,6 +9,9 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/gridlex/2.7.1/gridlex.min.css">
   <!-- Google fonts -->
   <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,600" rel="stylesheet">
+  
+  <link href="/assets/slick/slick.css" rel="stylesheet"/>
+  
   <link href="/style.css" rel="stylesheet"/>
 
 </head>
@@ -16,23 +19,65 @@
 
 
   <!-- HEADER SECTION -->
-  <header class="grid-middle">
+  <header class="grid-middle headers">
     <div class="col-4_sm-12">
+    <div id="nav-icon3" class="nav-list-menu">
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+    
       <a class="logo" href="/index">
         <img src="/images/body-lab-logo.png" />
       </a>
+      <div class="nav-mobile">
+          <ul class="mobile-menu">
+                <li class="main-mobile-menu"><a href="/index"> Home </a></li>
+                <li class="main-mobile-menu"><a href="/about"> About </a></li>
+                <li class="main-mobile-menu">
+                    <a href="javascript:void(0)"> Treatments </a><span class="pic arrow-right" align="right"></span>
+                    <ul class="mobile-sub-menu">
+                        <li><a href="/treatments/face-treatments">Face Treatments</a></li>
+                        <li><a href="/treatments/body-treatments">Body Treatments</a></li>
+                        <li><a href="/treatments/rejuvenation-treatments">Injectable Treatments</a></li>
+                    </ul>
+                </li>
+                <li class="main-mobile-menu"><a href="/promo"> Promo </a></li>
+                <li class="main-mobile-menu"><a href="/videos"> Videos </a></li>
+                <li class="main-mobile-menu"><a href="/uploads/combinepdf-6.pdf" target="_blank"> Prices </a></li>
+                <!--<li class="main-mobile-menu"><a href="{{site.data.price-list.price-list_path}}" target="_blank"> Prices </a></li>-->
+                <li class="main-mobile-menu"><a href="/contact"> Contact</a></li>
+            </ul>
+        </div>
     </div>
+    
     <nav class="col-8_sm-12 right">
-      <a href="/index"> Home </a>
-      <a href="/about"> About </a>
-      <a href="/treatments"> Treatments </a>
-      <a href="/promo"> Promo </a>
-      <a href="/blog"> Blog </a>
-      <a href="/videos"> Videos </a>
-      <a href="{{site.data.price-list.price-list_path}}" target="_blank"> Prices </a>
-      <a href="/contact"> Contact</a>
+        <ul class="nav-menu">
+            <li class="main-menu"><a href="/index"> Home </a></li>
+            <li class="main-menu"><a href="/about"> About </a></li>
+            <li class="main-menu">
+                <a href="/treatments"> Treatments </a>
+                <ul class="sub-menu sub-menu-desktop">
+                    <li><a href="/treatments/face-treatments">Face Treatments</a></li>
+                    <li><a href="/treatments/body-treatments">Body Treatments</a></li>
+                    <li><a href="/treatments/rejuvenation-treatments">Injectable Treatments</a></li>
+                </ul>
+            </li>
+            <li class="main-menu"><a href="/promo"> Promo </a></li>
+            <li class="main-menu"><a href="/videos"> Videos </a></li>
+            <!--<li class="main-menu"><a href="{{site.data.price-list.price-list_path}}" target="_blank"> Prices </a></li>-->
+            <li class="main-menu"><a href="/uploads/combinepdf-6.pdf" target="_blank"> Prices </a></li>
+            <li class="main-menu"><a href="/contact"> Contact</a></li>
+        </ul>
     </nav>
+    
+    
+    
   </header>
+  
+  
+
 
   <!-- CONTENT GOES HERE -->
   {{content}}
@@ -70,6 +115,8 @@
 <!-- jQuery -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.0/jquery.js"></script>
 
+<script src="/assets/slick/slick.min.js"></script>
+
 <!-- WhatsHelp.io widget -->
 <script type="text/javascript">
   (function () {
@@ -88,6 +135,66 @@
 
 <!-- Smooth Scrolling -->
 <script type="text/javascript">
+    //Sample slider
+    (function($){
+      $(document).ready(function(){
+          
+        $('.dekstop-banner').slick({
+          dots: false,
+          infinite: true,
+          speed: 300,
+          slidesToShow: 1,
+          arrows: false,
+          autoplay: true,
+          autoplaySpeed: 3000,
+        });
+        
+        $('.mobile-banner').slick({
+          dots: false,
+          infinite: true,
+          speed: 300,
+          slidesToShow: 1,
+          arrows: false,
+          autoplay: true,
+          autoplaySpeed: 3000,
+        });
+        
+        $(window).scroll(function(){
+            if ($(window).scrollTop() >= 110) {
+                $('.headers').addClass('fixed-header');
+                $('body').addClass('scroll-header');
+            }
+            else {
+                $('.headers').removeClass('fixed-header');
+                $('body').removeClass('scroll-header');
+            }
+        });
+
+      });
+      
+      $(document).ready(function(){
+    	$('.nav-list-menu').click(function(){
+    		$(this).toggleClass('open');
+    	});
+    	
+    	$("#nav-icon3").click(function(){
+            var target = $('.mobile-menu');
+            $(target).slideToggle();
+          });
+          
+        $('.main-mobile-menu').click(function(){
+    		$(this).toggleClass('open');
+    	});
+    	
+    	$('.mobile-menu').height($(window).height());
+  
+    });
+        
+    })(jQuery);
+
+
+
+
   // Select all links with hashes
   $('a[href*="#"]')
   // Remove links that don't actually link to anything
