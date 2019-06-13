@@ -8,7 +8,7 @@ description: >-
   stimulated by alternating compression and decompression cycles of the
   Pressotherapy equipment. Thus, it improves blood and lymphatic flow and
   increases extra fluid cleansing.
-featured_image: /uploads/pressotherapy.jpg
+featured_image: /uploads/soins-corps-pressotherapie-1.jpg
 ---
 
 ## What is Pressotherapy?
