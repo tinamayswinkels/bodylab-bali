@@ -4,7 +4,7 @@ title: Bodylab Video Library
 description: >-
   Explore some of the body lab treatments by watching our treatment
   demonstrations in the video library.
-featured_image: /uploads/brazzilian-butt.jpg
+featured_image: /uploads/33590222-de0b-4934-a908-b7a9d5d7686f.jpeg
 ---
 
 Explore some of our treatments through our video library .
