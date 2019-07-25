@@ -51,7 +51,7 @@ p {
 span.pink {
     color: #DC245E;
 }
-ul, 
+ul,
 ol{
   margin-left: 1.5rem;
   margin-bottom: 1rem;
@@ -132,8 +132,8 @@ footer a {
   background-position: center;
   min-height: 60vh;
   position: relative;
-  
-  
+
+
     /*background-size: contain;*/
     /*background-position: center;*/
     /*min-height: 60vh;*/
@@ -324,7 +324,7 @@ form label {
     font-size: 3rem;
     text-transform: none;
     color:#fff;
-    
+
 }
 .text-slider p {
     color:#fff;
@@ -492,19 +492,48 @@ section.after-header {
 .treatments-card .card .treatments-text {
   padding: 5%;
 }
-/**/
+
+/** --------  Magnific Lightbox Popup  -------- */
+.mfp-fade.mfp-bg {
+	opacity: 0;
+	-webkit-transition: all 0.15s ease-out;
+	-moz-transition: all 0.15s ease-out;
+	transition: all 0.15s ease-out;
+}
+.mfp-fade.mfp-bg.mfp-ready {
+	opacity: 0.8;
+}
+.mfp-fade.mfp-bg.mfp-removing {
+	opacity: 0;
+}
+
+.mfp-fade.mfp-wrap .mfp-content {
+	opacity: 0;
+	-webkit-transition: all 0.15s ease-out;
+	-moz-transition: all 0.15s ease-out;
+	transition: all 0.15s ease-out;
+}
+.mfp-fade.mfp-wrap.mfp-ready .mfp-content {
+	opacity: 1;
+}
+.mfp-fade.mfp-wrap.mfp-removing .mfp-content {
+	opacity: 0;
+}
+
+
+/* ------------- Banners -------------------- */
 
 .mobile-banner {
-  display:none;  
+  display:none;
 }
 
 .bg-banner-home:before {
   content:"";
   display:block;
   position: absolute;
-  top: 0; 
+  top: 0;
   left: 0;
-  width: 100%; 
+  width: 100%;
   height: 100%;
   /* filter: contrast(.7) brightness(.7); */
   background-color:rgba(0, 0, 0, 0.5);
@@ -539,11 +568,11 @@ section.after-header {
     object-fit: cover;
     padding: 30px;
     }
-    
+
     section.after-header {
         margin-top:79px;
     }
-  
+
     .button.white {
         border: 2px solid #DC245E;
         color: #DC245E;
@@ -554,10 +583,10 @@ section.after-header {
 
     /*banner-slider-mobile*/
     .mobile-banner {
-      display:block;  
+      display:block;
     }
     .dekstop-banner {
-      display:none;  
+      display:none;
     }
     .mobile-banner .bg-banner {
         min-height: 40vh;
@@ -605,7 +634,7 @@ section.after-header {
         padding: 0;
     }
     .nav-mobile .mobile-menu {
-        margin-left: 0; 
+        margin-left: 0;
     }
     header nav{
         display: none;
@@ -652,7 +681,7 @@ section.after-header {
         max-height: 60px;
       transition:all 500ms ease;
     }
-  
+
     #nav-icon3 {
       width: 41px;
       height: 50px;
@@ -691,7 +720,7 @@ section.after-header {
 
 
 /* Icon 3 */
-  
+
 #nav-icon3 span:nth-child(1) {
   top: 0px;
 }
@@ -776,9 +805,9 @@ section.after-header {
     text-align:center;
     transition:all 500ms ease;
     top:15px;
-    
+
   }
-  
+
   .nav-mobile ul .main-mobile-menu span:after {
   width: 0;
   height: 0;
@@ -825,7 +854,7 @@ section.after-header {
     margin: auto;
     max-width: 100%;
   }
-  
+
   .video .cms-embed {
     width: 100%;
     border: 10px solid white;

@@ -1,96 +1,177 @@
 <!DOCTYPE html>
 <html>
 <head>
-
+    
   <title> Blog </title>
   <meta name="description" content=""/>
+  <meta name="keywords" content=""/>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <!-- gridlex -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/gridlex/2.7.1/gridlex.min.css">
   <!-- Google fonts -->
   <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,600" rel="stylesheet">
+
+  <link href="/assets/slick/slick.css" rel="stylesheet"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.css">
+
   <link href="/style.css" rel="stylesheet"/>
 
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-144466618-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
 
+      gtag('config', 'UA-144466618-1');
+    </script>
 
 </head>
 <body>
 
-
+  
   <!-- HEADER SECTION -->
-  <header class="grid-middle">
+  <header class="grid-middle headers">
     <div class="col-4_sm-12">
+    <div id="nav-icon3" class="nav-list-menu">
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+
       <a class="logo" href="/index">
         <img src="/images/body-lab-logo.png" />
       </a>
+      <div class="nav-mobile">
+          <ul class="mobile-menu">
+                <li class="main-mobile-menu"><a href="/index"> Home </a></li>
+                <li class="main-mobile-menu"><a href="/about"> About </a></li>
+                <li class="main-mobile-menu">
+                    <a href="javascript:void(0)"> Treatments </a><span class="pic arrow-right" align="right"></span>
+                    <ul class="mobile-sub-menu">
+                        <li><a href="/treatments/face-treatments">Face Treatments</a></li>
+                        <li><a href="/treatments/body-treatments">Body Treatments</a></li>
+                        <li><a href="/treatments/rejuvenation-treatments">Injectable Treatments</a></li>
+                    </ul>
+                </li>
+                <li class="main-mobile-menu"><a href="/promo"> Promo </a></li>
+                <li class="main-mobile-menu"><a href="/videos"> Videos </a></li>
+                <li class="main-mobile-menu"><a href="/uploads/combinepdf-6.pdf" target="_blank"> Prices </a></li>
+                <!--<li class="main-mobile-menu"><a href="/uploads/combinepdf-4.pdf" target="_blank"> Prices </a></li>-->
+                <li class="main-mobile-menu"><a href="/blog"> Blog</a></li>
+                <li class="main-mobile-menu"><a href="/contact"> Contact</a></li>
+            </ul>
+        </div>
     </div>
+
     <nav class="col-8_sm-12 right">
-      <a href="/index"> Home </a>
-      <a href="/about"> About </a>
-      <a href="/treatments"> Treatments </a>
-      <a href="/uploads/combinepdf-3.pdf" target="_blank"> Price List </a>
-      <a href="/contact"> Contact Us </a>
+        <ul class="nav-menu">
+            <li class="main-menu"><a href="/index"> Home </a></li>
+            <li class="main-menu"><a href="/about"> About </a></li>
+            <li class="main-menu">
+                <a href="/treatments"> Treatments </a>
+                <ul class="sub-menu sub-menu-desktop">
+                    <li><a href="/treatments/face-treatments">Face Treatments</a></li>
+                    <li><a href="/treatments/body-treatments">Body Treatments</a></li>
+                    <li><a href="/treatments/rejuvenation-treatments">Injectable Treatments</a></li>
+                </ul>
+            </li>
+            <li class="main-menu"><a href="/promo"> Promo </a></li>
+            <li class="main-menu"><a href="/videos"> Videos </a></li>
+            <!--<li class="main-menu"><a href="/uploads/combinepdf-4.pdf" target="_blank"> Prices </a></li>-->
+            <li class="main-menu"><a href="/uploads/combinepdf-6.pdf" target="_blank"> Prices </a></li>
+            <li class="main-menu"><a href="/blog"> Blog</a></li>
+            <li class="main-menu"><a href="/contact"> Contact</a></li>
+        </ul>
     </nav>
+
+
+
   </header>
+
 
   <!-- CONTENT GOES HERE -->
   <!-- banner -->
-<section class="padded bg-banner grid-middle" style="background-image:url('images/bodylab-10.jpeg');background-position: top;">
+<section class="padded bg-banner grid-middle" style="background-image:url(/images/bodylab-10.jpeg);background-position: top;">
   <div class="col right">
       <h2> Body Lab Blog </h2>
   </div>
 </section>
 <section class="padded editable grid-center">
-  
   <div class="col-9 padded">
-    <div class="post-image" style="background-image:url(/images/bodylab-1.png)"></div>
-    <h2> Best treatments for Wrinkles</h2>
-    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-    <a href="/2018/02/01/best-treatments-for-wrinkles.html" class="pink button">Read More </a>
-  </div>
-  
+    <div class="post-image" style="background-image:url(/uploads/pressotherapy.jpg)">&nbsp;</div>
+    <h2>Presotherapy - Full Body Detox and Slimming</h2>
+    <p>Pressotherapy is a very popular and completely painless technique used in medicine and aesthetic cosmetics to fight swelling and cellulite. It helps your body to get rid of toxins in a very natural way. The lymphatic system is stimulated by alternating compression and decompression cycles of the Pressotherapy equipment. Thus, it improves blood and lymphatic flow and increases extra fluid cleansing.</p><a class="pink button" href="/2018/11/13/presotherapy-full-body-detox-and-slimming.html">Read More </a></div>
   <div class="col-9 padded">
-    <div class="post-image" style="background-image:url(/images/bodylab-11.jpg)"></div>
-    <h2> Best treatments for Cellulite</h2>
-    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-    <a href="/2018/01/01/best-treatments-for-cellulite.html" class="pink button">Read More </a>
-  </div>
-  
+    <div class="post-image" style="background-image:url(/uploads/brazzilian-butt.jpg)">&nbsp;</div>
+    <h2>Bodylab Video Library</h2>
+    <p>Explore some of the body lab treatments by watching our treatment demonstrations in the video library.</p><a class="pink button" href="/2018/10/25/bodylab-video-library.html">Read More </a></div>
+  <div class="col-9 padded">
+    <div class="post-image" style="background-image:url(/uploads/20180412-IMG_0536.jpg)">&nbsp;</div>
+    <h2>Instant Glowing and Radiance? Oxygeneo Facial</h2>
+    <p>The Oxygeneo Facial has been in aesthetic cosmetics market for a while. It is still popular in beauty clinics all over the world. Many popular celebrities take it to be always ready for a red carpet appearance or a perfect photo session. This procedure is a natural choice for those who want to ready for an important event or a party. Let&rsquo;s look at Oxygeneo Facial and understand what makes is so great.</p><a class="pink button" href="/2018/10/19/instant-glowing-and-radiance-oxygeneo-facial.html">Read More </a></div>
+  <div class="col-9 padded">
+    <div class="post-image" style="background-image:url(/uploads/brazzilian-butt.jpg)">&nbsp;</div>
+    <h2>Brazilian Butt</h2>
+    <p>The curvy forms of a woman body always attract attention. The elegant gait of a beautiful lady can make any man fall in love. And the best way to seal the deal is to have an astonishing buttocks! BodyLab can make you the butt like the one of hot and tanned Brazilian ladies!</p><a class="pink button" href="/2018/10/19/brazilian-butt.html">Read More </a></div>
+  <div class="col-9 padded">
+    <div class="post-image" style="background-image:url(/uploads/shutterstock_1018475431.jpg)">&nbsp;</div>
+    <h2>Hollywood Laser Carbon Peel</h2>
+    <p>What is Hollywood Laser Carbon Peel? Hollywood Laser Carbon Peel is a safe and painless method which helps you to rejuvenate your skin, look younger and get rid of face blemish. It exfoliates the dead cells of epidermis very gently ensuring bactericidal effect. This technique is highly recommended for people suffering from acne, blackheads, enlarged pores and uneven skin tone. At BodyLab Bali we can remove all these undesirable skin problems and provide longstanding results.</p><a class="pink button" href="/2018/10/16/hollywood-laser-carbon-peel.html">Read More </a></div>
+  <div class="col-9 padded">
+    <div class="post-image" style="background-image:url(/images/bodylab-11.jpg)">&nbsp;</div>
+    <h2>Best Anti-Cellulite Treatment</h2>
+    <p>The vacuum roller massage is the ultimate technique to get rid of cellulite once and for all! Getting excited? And guess what? We, Body Lab, are the only company in Bali having necessary equipment and expertise to perform this massage!</p><a class="pink button" href="/2018/10/16/best-anti-cellulite-treatment.html">Read More </a></div>
+  <div class="col-9 padded">
+    <div class="post-image" style="background-image:url(/untitled-101.jpg)">&nbsp;</div>
+    <h2>Best Treatments for Wrinkles and Skin Tightening</h2>
+    <p>Aging is an inherent part of life. Unfortunately, our face is the first part to suffer from it. Weak blood flow to facial blood vessels, reduction of cell reproduction, stress, smoking and poor environmental conditions all lead to an increase in wrinkles and general deterioration of skin structure.</p><a class="pink button" href="/2018/02/01/best-treatments-for-wrinkles-and-skin-tightening.html">Read More </a></div>
+  <div class="col-9 padded">
+    <div class="post-image" style="background-image:url(/uploads/fullsizeoutput_2fc6.jpeg)">&nbsp;</div>
+    <h2>Fat Freezing Guaranteed and Permanent Solution to Your Fat Problem</h2>
+    <p>Nowadays, staying fit and healthy can be a real struggle. With the rise of fast food restaurants, easy-to-prepare processed, and ever-growing work hours, it is easy to fall into unhealthy habits.&nbsp; You don&rsquo;t have to be a nutrition specialist to realize how bad for our health this food can be. On the other hand, even those who have adopted healthy lifestyles might be suffering from the same weight gain or weight loss struggles.</p><a class="pink button" href="/2018/01/01/fat-freezing-guaranteed-and-permanent-solution-to-your-fat-problem.html">Read More </a></div>
 </section>
 
 
   <!-- Map Section -->
-  <section>
-      <iframe src="https://snazzymaps.com/embed/75116" width="100%" height="300px" style="border:none;"></iframe>
-  </section>
 
-  <footer class="grid padded dark" id="contact">
-    <div class="col-6_sm-12">
-      <h2> <span>Body Lab </span> | Seminyak Bali</h2>
-      <p> Body Lab is a medical spa located in the heart of Seminyak, Bali. We offer a variety of beauty and skincare treatments customised to your needs. Our highly trained therapists are providing the safest procedures and imlpementing the latest technologies in the beauty industry.</p>
-    </div>
-    <div class="col-3_sm-0">  </div>
-    <div class="col-3_sm-12">
-        <h3> Our Location</h3>
-        <p> <a href="https://www.google.co.id/maps/dir/''/body+lab/data=!4m5!4m4!1m0!1m2!1m1!1s0x2dd247222f91ac57:0x6d008ec0e828b46?sa=X&ved=0ahUKEwj15qTX08_bAhVLO48KHZ5CD8UQ9RcIswEwCw" target="_blank"> Jl. Laksamana Basangkasa No.10, <br />
-          Seminyak, Bali </a></p>
-        <p> Whats App: <a href="https://api.whatsapp.com/send?phone=6287761567070"> +62 877 6156 7070</a></p>
-        <p> Email: Bodylab.bali@gmail.com </p>
-        <p class="social-nav">
-            <a href="http://www.facebook.com/bodylab.bali" title="Facebook - BodyLab">
-                <img src="/images/facebook.png">
-            </a>
-            <a href="http://www.instagram.com/bodylabbali" title="Instagram - BodyLab"> <img src="/images/instagram.png"></a>
-            <a href="https://www.youtube.com/channel/UCVq4gMwTPlzIl-tf2Gxh-xA" title="Youtube - BodyLab"> <img src="/images/youtube.png"></a>
-        </p>
-    </div>
-  </footer>
+  <section>
+    <iframe src="https://snazzymaps.com/embed/75116" width="100%" height="300px" style="border:none;"></iframe>
+</section>
+
+<footer class="grid padded dark" id="contact">
+  <div class="col-6_sm-12">
+    <h2> <span>Body Lab </span> | Seminyak Bali</h2>
+    <p> Body Lab is a medical spa located in the heart of Seminyak, Bali. We offer a variety of beauty and skincare treatments customised to your needs. Our highly trained therapists are providing the safest procedures and imlpementing the latest technologies in the beauty industry.</p>
+  </div>
+  <div class="col-3_sm-0">  </div>
+  <div class="col-3_sm-12">
+      <h3> Our Location</h3>
+      <p> <a href="https://www.google.co.id/maps/dir/''/body+lab/data=!4m5!4m4!1m0!1m2!1m1!1s0x2dd247222f91ac57:0x6d008ec0e828b46?sa=X&ved=0ahUKEwj15qTX08_bAhVLO48KHZ5CD8UQ9RcIswEwCw" target="_blank"> Jl. Laksamana Basangkasa No.10, <br />
+        Seminyak, Bali </a></p>
+      <p> Whats App: <a href="https://api.whatsapp.com/send?phone=6287761567070"> +62 877 6156 7070</a></p>
+      <p> Email: Bodylab.bali@gmail.com </p>
+      <p class="social-nav">
+          <a href="http://www.facebook.com/bodylab.bali" title="Facebook - BodyLab">
+              <img src="/images/facebook.png">
+          </a>
+          <a href="http://www.instagram.com/bodylabbali" title="Instagram - BodyLab"> <img src="/images/instagram.png"></a>
+          <a href="https://www.youtube.com/channel/UCVq4gMwTPlzIl-tf2Gxh-xA" title="Youtube - BodyLab"> <img src="/images/youtube.png"></a>
+      </p>
+  </div>
+</footer>
+
 
 
 <!-- Scripts -->
 
 <!-- jQuery -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.0/jquery.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.js"></script>
+<script src="/assets/slick/slick.min.js"></script>
+<script src="/assets/main.js"></script>
 
 <!-- WhatsHelp.io widget -->
 <script type="text/javascript">
@@ -110,6 +191,66 @@
 
 <!-- Smooth Scrolling -->
 <script type="text/javascript">
+    //Sample slider
+    (function($){
+      $(document).ready(function(){
+
+        $('.dekstop-banner').slick({
+          dots: false,
+          infinite: true,
+          speed: 300,
+          slidesToShow: 1,
+          arrows: false,
+          autoplay: true,
+          autoplaySpeed: 3000,
+        });
+
+        $('.mobile-banner').slick({
+          dots: false,
+          infinite: true,
+          speed: 300,
+          slidesToShow: 1,
+          arrows: false,
+          autoplay: true,
+          autoplaySpeed: 3000,
+        });
+
+        $(window).scroll(function(){
+            if ($(window).scrollTop() >= 110) {
+                $('.headers').addClass('fixed-header');
+                $('body').addClass('scroll-header');
+            }
+            else {
+                $('.headers').removeClass('fixed-header');
+                $('body').removeClass('scroll-header');
+            }
+        });
+
+      });
+
+      $(document).ready(function(){
+    	$('.nav-list-menu').click(function(){
+    		$(this).toggleClass('open');
+    	});
+
+    	$("#nav-icon3").click(function(){
+            var target = $('.mobile-menu');
+            $(target).slideToggle();
+          });
+
+        $('.main-mobile-menu').click(function(){
+    		$(this).toggleClass('open');
+    	});
+
+    	$('.mobile-menu').height($(window).height());
+
+    });
+
+    })(jQuery);
+
+
+
+
   // Select all links with hashes
   $('a[href*="#"]')
   // Remove links that don't actually link to anything
@@ -155,7 +296,6 @@
           new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'id,ru', layout: google.translate.TranslateElement.FloatPosition.TOP_LEFT}, 'google_translate_element');
         }
         </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-                
 
 
 </body>

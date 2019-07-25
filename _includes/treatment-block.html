@@ -1,0 +1,17 @@
+<div class="grid">
+  <!--<div class="bg-image col-6_sm-12" style="background-image: url({{item.image_path}});"></div>-->
+  <div class="bg-image {{item.clssimg}} col-6_sm-12" style="background-image: url({{item.image_path}});"></div>
+  <div class="col-6_sm-12 padded">
+    <h2> {{item.title}}<span> {{item.title-highlighted}} </span></h2>
+    <h3> {{item.subtitle}}</h3>
+    <p> {{item.description_html}}  <span class="pink">Price IDR. {{item.price}}</span></p>
+
+    {% if item.video_id %}
+    <a class="button white popup-youtube" href="http://www.youtube.com/watch?v={{item.video_id}}">View Video</a>
+    </a>
+    {% endif %}
+
+    <a class="button white" href="/contact">Book Now</a>
+
+  </div>
+</div>

@@ -1,0 +1,48 @@
+---
+layout: default
+title: Body Lab Rejuvenation & Slimming Spa | Seminyak Bali
+description: >-
+  Body Lab is a medical spa located in the heart of Seminyak, Bali. We offer a
+  variety of beauty and skincare treatments customised to your needs. Our highly
+  trained therapists are providing the safest procedures and imlpementing the
+  latest technologies in the beauty industry.
+---
+
+<section class="padded center featured editable" id="body">
+  <h2>Slimming Treatments in Bali </h2>
+  <p>&nbsp;</p>
+  <p>We use cutting-edge aesthetic machines to help you create the tight, toned body you've always dreamed of.</p>
+  <p>Our experienced therapists can create a personalised treatment plan that will slim and sculpt your body with lasting results and minimal downtime.&nbsp;</p>
+
+  <h3> How to choose the right slimming treatment for you </h3>
+  <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
+
+  <h3> The most effective slimming treatment in Bali - Fat Freezing </h3>
+  <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
+
+  <h3> The most affordable slimming treatment in Bali - 3D Slimming </h3>
+  <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
+
+  <h3> The best treatment to reduce fat, cellulite and tighten skin at the same time - Express Super Slimming </h3>
+
+  <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
+
+  <h3> Need help choosing? </p>
+  <p> Our experiencesd staff can help you decide on the best treatments for you, just give us a call or book an appointment and we'll help you decide! </p>
+
+</section>
+
+<!-- Services grid section -->
+<section class="services-grid">
+  {% for item in site.data.body-treatments %}
+    {% if item.category contains 'Slimming' %}
+    {% include treatment-block.html %}
+    {% endif %}
+ {% endfor %}
+</section>
+
+<!-- Call to action -->
+<section class="padded center featured">
+  <h2> Only the best </h2>
+  <p> Body lab is Bali's only spa clinic to have medically certified practitioners, and uses only professionally recognised international cosmetic brands. To make a reservation, message us on whatsapp. </p>
+</section>

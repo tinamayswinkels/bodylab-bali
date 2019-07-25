@@ -1,0 +1,130 @@
+
+<!-- jQuery -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.0/jquery.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.js"></script>
+<script src="/assets/slick/slick.min.js"></script>
+<script src="/assets/main.js"></script>
+
+<!-- WhatsHelp.io widget -->
+<script type="text/javascript">
+  (function () {
+      var options = {
+          whatsapp: "+6287761567070", // WhatsApp number
+          call_to_action: "Message us", // Call to action
+          position: "right", // Position may be 'right' or 'left'
+      };
+      var proto = document.location.protocol, host = "whatshelp.io", url = proto + "//static." + host;
+      var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
+      s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
+      var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+  })();
+</script>
+<!-- /WhatsHelp.io widget -->
+
+<!-- Smooth Scrolling -->
+<script type="text/javascript">
+    //Sample slider
+    (function($){
+      $(document).ready(function(){
+
+        $('.dekstop-banner').slick({
+          dots: false,
+          infinite: true,
+          speed: 300,
+          slidesToShow: 1,
+          arrows: false,
+          autoplay: true,
+          autoplaySpeed: 3000,
+        });
+
+        $('.mobile-banner').slick({
+          dots: false,
+          infinite: true,
+          speed: 300,
+          slidesToShow: 1,
+          arrows: false,
+          autoplay: true,
+          autoplaySpeed: 3000,
+        });
+
+        $(window).scroll(function(){
+            if ($(window).scrollTop() >= 110) {
+                $('.headers').addClass('fixed-header');
+                $('body').addClass('scroll-header');
+            }
+            else {
+                $('.headers').removeClass('fixed-header');
+                $('body').removeClass('scroll-header');
+            }
+        });
+
+      });
+
+      $(document).ready(function(){
+    	$('.nav-list-menu').click(function(){
+    		$(this).toggleClass('open');
+    	});
+
+    	$("#nav-icon3").click(function(){
+            var target = $('.mobile-menu');
+            $(target).slideToggle();
+          });
+
+        $('.main-mobile-menu').click(function(){
+    		$(this).toggleClass('open');
+    	});
+
+    	$('.mobile-menu').height($(window).height());
+
+    });
+
+    })(jQuery);
+
+
+
+
+  // Select all links with hashes
+  $('a[href*="#"]')
+  // Remove links that don't actually link to anything
+  .not('[href="#"]')
+  .not('[href="#0"]')
+  .click(function(event) {
+    // On-page links
+    if (
+      location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '')
+      &&
+      location.hostname == this.hostname
+    ) {
+      // Figure out element to scroll to
+      var target = $(this.hash);
+      target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+      // Does a scroll target exist?
+      if (target.length) {
+        // Only prevent default if animation is actually gonna happen
+        event.preventDefault();
+        $('html, body').animate({
+          scrollTop: target.offset().top
+        }, 1000, function() {
+          // Callback after animation
+          // Must change focus!
+          var $target = $(target);
+          $target.focus();
+          if ($target.is(":focus")) { // Checking if the target was focused
+            return false;
+          } else {
+            $target.attr('tabindex','-1'); // Adding tabindex for elements not focusable
+            $target.focus(); // Set focus again
+          };
+        });
+      }
+    }
+  });
+</script>
+
+        <!-- This is for google analytics -->
+
+        <div id="google_translate_element"></div><script type="text/javascript">
+        function googleTranslateElementInit() {
+          new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'id,ru', layout: google.translate.TranslateElement.FloatPosition.TOP_LEFT}, 'google_translate_element');
+        }
+        </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
