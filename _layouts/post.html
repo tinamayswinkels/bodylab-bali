@@ -3,14 +3,12 @@ layout: default
 ---
 
 <!-- banner -->
-<section class="padded bg-banner" style="background-image:url('/images/bodylab-10.jpeg');background-position: top;">
-  <div class="sticky-pink">
-      <h2> {{page.title}} </h2>
-      <p> by Body Lab Seminyak</p>
-  </div>
-</section>
-<section class="padded editable grid-center">
+
+<section class="after-header light padded editable grid-center">
   <div class="col-9 post">
+    <div class="banner-image" style="background-image:url({{page.featured_image}});">
+        <h1> {{page.title}} </h1>
+    </div>
     {{content}}
   </div>
 </section>

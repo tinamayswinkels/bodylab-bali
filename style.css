@@ -10,7 +10,7 @@ body {
 }
 
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Muli', sans-serif;
   color: rgb(90, 90, 95);
 }
 
@@ -57,11 +57,24 @@ h2+p {
 }
 
 p {
-  margin-bottom: 0.5rem;
+  font-size: 1.1rem;
+  font-weight: 300;
+  line-height:1.4;
 }
+
+p:not(:last-child) {
+  margin-bottom: 1rem;
+}
+
 
 span.pink {
   color: #DC245E;
+}
+
+p a {
+  color: #DC245E;
+  text-decoration: none;
+  border-bottom: 1px solid;
 }
 
 ul,
@@ -74,6 +87,19 @@ li {
   padding-left: 1rem;
 }
 
+blockquote {
+  font-size: 1.5rem;
+  color: rgb(120,120,125);
+  margin-bottom: 1rem;
+  margin-left: 1rem;
+  /* border-left: 2px solid; */
+  padding-left: 2rem;
+  margin-right: 2rem;
+}
+blockquote p {
+  font-size: 1.5rem;
+  color: rgb(120,120,125);
+}
 
 /* Utility Classes */
 
@@ -225,6 +251,20 @@ footer a {
   padding: 64px 5%;
   margin: 1px 0;
 }
+.post .banner-image {
+  background-size: cover;
+  background-position: center;
+  padding: 25% 5%;
+  text-align:center;
+  margin-bottom: 2rem;
+}
+
+.banner-image h1 {
+  display: inline-block;
+  background-color: #DC245E;
+  padding: 0.5rem 2rem;
+  color: white;
+}
 
 .post-image {
   background-size: cover;
@@ -345,15 +385,18 @@ form label {
 
 
 /* blog posts */
+.post h1 {
+  font-size: 2.7rem;
+}
 
 .post h2 {
   font-weight: normal;
   color: #DC245E;
-  font-size: 2.2rem;
+  font-size: 1.7rem;
 }
 
 .post h3 {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   font-weight: 400;
   text-transform: none;
 }
