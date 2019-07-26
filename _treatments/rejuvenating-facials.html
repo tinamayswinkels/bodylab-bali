@@ -1,16 +1,19 @@
 ---
 layout: default
-title: Body Lab Rejuvenation & Slimming Spa | Seminyak Bali
+title: Rejuvenating Facial Treatments in Bali | Body Lab Seminyak
 description: >-
-  Body Lab is a medical spa located in the heart of Seminyak, Bali. We offer a
-  variety of beauty and skincare treatments customised to your needs. Our highly
+  Body Lab offers the highest quality rejuvenationg facial treatments in Bali.  Our highly
   trained therapists are providing the safest procedures and imlpementing the
   latest technologies in the beauty industry.
 keywords: Slimming Treatments, Weightloss Treatments, Bali Seminyak
+featured_image: /images/bodylab-1.png
+highlighted-title: Rejuvenating
+sub-title: Facials
+order: 1
 ---
 
 <section class="after-header padded editable featured grid" id="body">
-  <h2>Slimming Treatments in Bali </h2>
+  <h2>Rejuvenating Facial Treatments in Bali </h2>
   <p>&nbsp;</p>
   <p>We use cutting-edge aesthetic machines to help you create the tight, toned body you've always dreamed of. Our experienced therapists can create a personalised treatment plan that will slim and sculpt your body with lasting results and minimal downtime.&nbsp;</p>
 </section>
@@ -54,7 +57,7 @@ keywords: Slimming Treatments, Weightloss Treatments, Bali Seminyak
 <!-- Services grid section -->
 <section class="services-grid">
   {% for item in site.data.body-treatments %}
-    {% if item.category contains 'Slimming' %}
+    {% if item.category contains 'Rejuvenating Facials' %}
     {% include treatment-block.html %}
     {% endif %}
  {% endfor %}

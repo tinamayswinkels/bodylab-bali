@@ -9,13 +9,17 @@ _options:
     table: true
     embed: true
     italic: true
-    removeformat: true	 
+    removeformat: true
     link: true
     undo: true
     redo: true
-    underline: true	 
+    underline: true
     strike: true
-    subscript: true 	 
-    superscript: true 
+    subscript: true
+    superscript: true
     blockquote: true
     horizontalrule: true
+    
+collections:
+  treatments:
+    output: true

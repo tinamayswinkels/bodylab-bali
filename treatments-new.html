@@ -1,0 +1,43 @@
+---
+layout: default
+title: Body Lab Rejuvenation & Slimming Spa | Seminyak Bali
+description: >-
+  Body Lab is a medical spa located in the heart of Seminyak, Bali. We offer a
+  variety of beauty and skincare treatments customised to your needs. Our highly
+  trained therapists are providing the safest procedures and imlpementing the
+  latest technologies in the beauty industry.
+---
+
+
+
+<section class="after-header treatments-card light editable padded grid-center">
+        <div class="col-12">
+            <h2>Body Lab Bali Treatments</h2>
+            <h3>Located in the heart of Seminyak, we offer a variety of advanced face and body treatments customised to your needs. Our experienced therapists provide results-orientated procedures using the latest cosmetic technology.</h3>
+          </div>
+
+        {% for treatment in site.treatments %}
+        <div class="col-4_sm-12 padded-1 full-height" style="order:{{treatment.order}};">
+            <div class="card">
+            <div class="top-img-treatment">
+                <a href="{{treatment.url}}">
+                  <div class="card-image" style="background-image:url({{treatment.featured_image}});"></div>
+                </a>
+            </div>
+                <div class="treatments-text">
+                  <h2><span> {{treatment.highlighted-title}} </span> </br> {{treatment.sub-title}}</h2>
+                  {{treatment.description}}
+
+                <p><a class="button pink" href="{{treatment.url}}">Learn More </a></p>
+                </div>
+            </div>
+        </div>
+      {% endfor %}
+
+  </section>
+
+<!-- Call to action -->
+<section class="padded center featured">
+  <h2> Only the best </h2>
+  <p> Body lab is Bali's only spa clinic to have medically certified practitioners, and uses only professionally recognised international cosmetic brands. To make a reservation, message us on whatsapp. </p>
+</section>

@@ -80,9 +80,11 @@ li {
 .padded {
   padding: 5%;
 }
-
+.padded-1 {
+  padding: 1rem;
+}
 .padded-2 {
-  padding: 2%;
+  padding: 2rem;
 }
 
 .padded-horiz {
@@ -547,22 +549,16 @@ section.after-header {
   margin-top: 110px;
 }
 
-.treatments-card {
-  padding: 0 10% 5% 5%;
-  display: flex;
-}
-
-.treatments-card .grid {
-  display: flex;
-  flex-flow: nowrap;
-}
-
 .treatments-card .card {
   background: #fff;
-  width: 100%;
-  margin: 10px;
   padding: 0;
   transition: all .3s ease-in-out;
+}
+
+.card-image {
+  background-size: cover;
+  background-position: center;
+  padding-bottom:60%;
 }
 
 .treatments-card .card:hover {
@@ -574,6 +570,10 @@ section.after-header {
 
 .treatments-card .card .treatments-text {
   padding: 5%;
+}
+.full-height {
+  display: flex;
+  align-items: stretch;
 }
 
 
@@ -905,12 +905,7 @@ section.after-header {
     width: 450px;
     padding-right: 70px;
   }
-  /**/
-  .treatments-card .grid {
-    display: flex;
-    flex-flow: row wrap;
-  }
-  /**/
+
 }
 
 @media(max-width:676px) {

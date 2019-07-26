@@ -1,7 +1,8 @@
-
 - title:
   title-highlighted: Thermolift
   subtitle: Non-surgical facelift
+  category:
+    - Face Lifting
   price: '700.000'
   description_html: >-
     <p>Thermolift is most effective non-surgical method for facial
@@ -17,6 +18,8 @@
 - title:
   title-highlighted: Microcurrent Facial
   subtitle: Refine and tone
+  category:
+    - Rejuvenating Facial
   price: '450.000'
   description_html: >-
     <p>One of the latest innovations in the anti-aging industry, Microcurrent
@@ -29,10 +32,11 @@
     puffiness</li><li>Stimulates lymphatic drainage</li></ul><p>Duration: 60
     min</p>
   image_path: /images/bodylab-2.png
-
 - title:
   title-highlighted: Detox Facial
   subtitle: Comedo Extraction + Purification
+  category:
+    - Cleansing Facial
   price: '500.000'
   description_html: >-
     <p>This deep cleansing multi-step skin treatment is one of the best ways
@@ -48,6 +52,8 @@
 - title:
   title-highlighted: Hydra Facial
   subtitle: MULTI STEPS CLEANING REJUVENATION FACIAL
+  category:
+    - Rejuvenating Facial
   price: '700.000'
   description_html: >-
     <p>Hydra facial uses  technology to cleanse, lift,rejuvenate and hydrate skin while infusing special anti aging serums .Hydra facial contain next few steps: water vacuum cleansing ,microcurrents,radio frequency,ultrasound ,party pimples extraction and oxygenation with oxygen spray .This unique process helps improve the appearance of several skin concerns, including wrinkles and fine lines,  skin firmness ,texture, and pore congesion.Suitable for all skin types, this rejuvenating treatment is gentle, non-invasive, and effective immediately.</p><p><strong>BENEFITS:</strong></p><ul><li>Deep cleansing</li><li>Wrinkles smoothing</li><li>Skin tightening</li><li>Face slimming,V shape</li><li>Shrinking pores,bring anti aging serum deep to the cells</li><li>Partly pimples extraction</li><li>Oxygenation</li></ul><p>Duration: 90 min</p>
@@ -55,6 +61,8 @@
 - title:
   title-highlighted: Combination Facial
   subtitle: ULTRASOUND + COMEDO EXTRACTION
+  category:
+    - Cleansing Facial
   price: '600.000'
   description_html: >-
     <p>Body Lab Bali's signature facial combines parts of our Detox Facial and
@@ -70,6 +78,8 @@
 - title:
   title-highlighted: Fruit Acid Peel
   subtitle: 'FRESH, GLOWING SKIN'
+  category:
+    - Acid Peel
   price: '400.000'
   description_html: >-
     <p>Alpha Hydroxy Acid (AHA) facial peels can help you achieve a fresher,
@@ -85,6 +95,8 @@
 - title:
   title-highlighted: Oxygeneo Facial
   subtitle: 3-in-1 super facial
+  category:
+    - Rejuvenating Facial
   price: '700.000'
   description_html: >-
     <p>Oxygeneo is 3-in-1 super facial that exfoliates, nourishes and delivers
@@ -102,6 +114,8 @@
 - title:
   title-highlighted: Hollywood Carbon Peeling
   subtitle: 'Deep pores cleaning,brightening,'
+  category:
+    - Cleansing Facial
   price: '650.000'
   description_html: >-
     <p>The Carbon Laser Peel is highly beneficial for people with oily skin,
@@ -127,6 +141,8 @@
 - title:
   title-highlighted: Q Switched ClearLift laser
   subtitle: 'Brightening,rejuvenation,lifting'
+  category:
+    - Rejuvenating Facial
   price: '950.000'
   description_html: >-
     <p>Q Switched ClearLift Laser&nbsp; is an innovative treatment that takes
@@ -155,6 +171,8 @@
 - title:
   title-highlighted: Muscle stimulation
   subtitle: 'Tone, tighten and firm'
+  category:
+    - Face Lifting
   price: '400.000'
   description_html: >-
     <p>Muscle stimulation is one of the most effective ways to restore muscle
