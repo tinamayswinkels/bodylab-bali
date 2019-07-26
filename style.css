@@ -286,6 +286,8 @@ footer a {
   border: 2px solid white;
   margin-top: 1.5rem;
   transition: all 0.5s;
+  font-weight: normal;
+  font-size: 0.9rem;
 }
 
 .button.pink {
