@@ -19,7 +19,23 @@ _options:
     superscript: true
     blockquote: true
     horizontalrule: true
-    
+
+categories:
+  - Slimming
+  - Skin Tightening
+  - Lymphatic Drainage
+  - Muscle Tone
+  - Cellulite
+  - Hair Removal
+  - Face Lifting
+  - Rejuvenating Facial
+  - Cleansing Facial
+  - Acid Peel
+  - Injectable
+  - PRP
+  - Botox
+  - Fillers
+
 collections:
   treatments:
     output: true
