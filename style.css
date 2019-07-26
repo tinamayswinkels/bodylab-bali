@@ -156,13 +156,6 @@ h6 {
   margin-bottom: 1rem;
 }
 
-h2:not(:first-child),
-h3:not(:first-child),
-h4:not(:first-child),
-h5:not(:first-child),
-h6:not(:first-child) {
-  margin-top: 2rem;
-}
 
 .featured {
   background-color: #ff6683;
@@ -217,14 +210,9 @@ footer a {
 .bg-banner {
   background-size: cover;
   background-position: center;
-  min-height: 60vh;
+  min-height: 40vh;
   position: relative;
-  /*background-size: contain;*/
-  /*background-position: center;*/
-  /*min-height: 60vh;*/
-  /*position: relative;*/
-  /*background-repeat: no-repeat;*/
-  /*background-color: #eee;*/
+  background-color: #eee;
 }
 
 .bg-treatments {
@@ -296,7 +284,6 @@ footer a {
   display: inline-block;
   text-transform: uppercase;
   border: 2px solid white;
-  border-radius: 9px;
   margin-top: 1.5rem;
   transition: all 0.5s;
 }
@@ -319,7 +306,6 @@ footer a {
   border: 2px solid #DC245E;
   color: #DC245E;
   background: #fff;
-  border-radius: 1px;
 }
 
 .button.white:hover {
