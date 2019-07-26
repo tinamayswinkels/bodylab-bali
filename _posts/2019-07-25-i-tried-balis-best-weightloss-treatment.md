@@ -1,12 +1,8 @@
 ---
 layout: post
 title: I tried Bali's best weightloss treatment
-description: >-
-  Botox injection is one of the most popular procedures in the world with more
-  than 6 million procedures per year. We at BodyLab Bali are not an exemption.
-  We have a very skillful dermatologist who visits seminars in Europe and Asia
-  to improve his skills. We use only the approved Botox Allergan from the USA .
-featured_image: /uploads/botox_3.jpg
+description: "This article was originally featured in\n Bali Advertiser\_\_by Shari."
+featured_image: /uploads/33590222-de0b-4934-a908-b7a9d5d7686f.jpeg
 ---
 
 &nbsp;
