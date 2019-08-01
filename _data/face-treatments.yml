@@ -1,7 +1,7 @@
 - title:
   title-highlighted: Thermolift
   subtitle: Non-surgical facelift
-  category:
+  categories:
     - Face Lifting
   price: '700.000'
   description_html: >-
@@ -19,7 +19,7 @@
 - title:
   title-highlighted: Microcurrent Facial
   subtitle: Refine and tone
-  category:
+  categories:
     - Rejuvenating Facial
   price: '450.000'
   description_html: >-
@@ -37,7 +37,7 @@
 - title:
   title-highlighted: Detox Facial
   subtitle: Comedo Extraction + Purification
-  category:
+  categories:
     - Cleansing Facial
   price: '500.000'
   description_html: >-
@@ -55,7 +55,7 @@
 - title:
   title-highlighted: Hydra Facial
   subtitle: MULTI STEPS CLEANING REJUVENATION FACIAL
-  category:
+  categories:
     - Rejuvenating Facial
   price: '700.000'
   description_html: >-
@@ -65,7 +65,7 @@
 - title:
   title-highlighted: Combination Facial
   subtitle: ULTRASOUND + COMEDO EXTRACTION
-  category:
+  categories:
     - Cleansing Facial
   price: '600.000'
   description_html: >-
@@ -83,7 +83,7 @@
 - title:
   title-highlighted: Fruit Acid Peel
   subtitle: 'FRESH, GLOWING SKIN'
-  category:
+  categories:
     - Acid Peel
   price: '400.000'
   description_html: >-
@@ -101,7 +101,7 @@
 - title:
   title-highlighted: Oxygeneo Facial
   subtitle: 3-in-1 super facial
-  category:
+  categories:
     - Rejuvenating Facial
   price: '700.000'
   description_html: >-
@@ -121,7 +121,7 @@
 - title:
   title-highlighted: Hollywood Carbon Peeling
   subtitle: 'Deep pores cleaning,brightening,'
-  category:
+  categories:
     - Cleansing Facial
   price: '650.000'
   description_html: >-
@@ -149,7 +149,7 @@
 - title:
   title-highlighted: Q Switched ClearLift laser
   subtitle: 'Brightening,rejuvenation,lifting'
-  category:
+  categories:
     - Rejuvenating Facial
   price: '950.000'
   description_html: >-
@@ -180,7 +180,7 @@
 - title:
   title-highlighted: Muscle stimulation
   subtitle: 'Tone, tighten and firm'
-  category:
+  categories:
     - Face Lifting
   price: '400.000'
   description_html: >-
