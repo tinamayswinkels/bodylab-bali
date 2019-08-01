@@ -1,6 +1,6 @@
 - title: Fat Freezing
   title-highlighted: non-surgical fat removal
-  category:
+  categories:
     - Slimming
     - Skin Tightening
   price: '1.500.000'
@@ -21,7 +21,7 @@
 - title:
   title-highlighted: Brazilian Butt
   subtitle: 'LIFT, TONE + SMOOTH'
-  category:
+  categories:
     - Muscle Tone
   price: '550.000'
   description_html: >-
@@ -37,7 +37,7 @@
 - title:
   title-highlighted: 3D Slimming
   subtitle: TARGET PROBLEM AREAS
-  category:
+  categories:
     - Slimming
   price: '950.000'
   description_html: >-
@@ -57,7 +57,7 @@
 - title:
   title-highlighted: Vacuum Roller Massage
   subtitle: CELLULITE FIGHTER
-  category:
+  categories:
     - Cellulite
     - Skin Tightening
   price: '550.000'
@@ -76,7 +76,7 @@
 - title:
   title-highlighted: Express Super Slimming
   subtitle: PERMANENT FAT REMOVAL
-  category:
+  categories:
     - Slimming
   price: '1.100.000'
   description_html: >-
@@ -86,7 +86,7 @@
 - title:
   title-highlighted: Lifted Arms
   subtitle: COMBINATION TREATMENT
-  category:
+  categories:
     - Skin Tightening
   price: '650.000'
   description_html: >-
@@ -104,7 +104,7 @@
 - title:
   title-highlighted: Pressotherapy
   subtitle: DETOXIFICATION AND LYMPH DRAINAGE
-  category:
+  categories:
     - Lymphatic Drainage
   price: '550.000'
   description_html: >-
@@ -122,7 +122,7 @@
 - title:
   title-highlighted: Laser Hair Removal
   subtitle: PERMANENT HAIR REMOVAL
-  category:
+  categories:
     - Hair Removal
   price: 'xxx.000'
   description_html: >-
@@ -143,7 +143,7 @@
 - title:
   title-highlighted: Velashape
   subtitle: 'CELLILITE KILLER ,SKIN TIGHTENING'
-  category:
+  categories:
     - Cellulite
   price: '650.000'
   description_html: >-
@@ -167,7 +167,7 @@
 - title:
   title-highlighted: Isogey Lean Abs
   subtitle: 'MUSCLE TONE'
-  category:
+  categories:
     - Muscle Tone
   price: '650.000'
   description_html: >-
@@ -177,7 +177,7 @@
 - title:
   title-highlighted: Isogey Brazilian Butt
   subtitle: 'BUTT LIFT'
-  category:
+  categories:
     - Muscle Tone
   price: '650.000'
   description_html: >-
