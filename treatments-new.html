@@ -17,8 +17,8 @@ description: >-
           </div>
 
         {% assign sorted-treatments = (site.treatments | sort: 'order') %}
-        {% for treatment in site.treatments %}
-        <div class="col-4_sm-12 padded-1 full-height" style="order:{{treatment.order}};">
+        {% for treatment in sorted-treatments %}
+        <div class="col-4_sm-12 padded-1 full-height">
             <div class="card">
             <div class="top-img-treatment">
                 <a href="{{treatment.url}}">
