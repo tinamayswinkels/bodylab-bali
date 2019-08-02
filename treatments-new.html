@@ -16,7 +16,7 @@ description: >-
             <h3>Located in the heart of Seminyak, we offer a variety of advanced face and body treatments customised to your needs. Our experienced therapists provide results-orientated procedures using the latest cosmetic technology.</h3>
           </div>
 
-        {% assign sorted-treatments = (site.treatments | sort: 'order') %}
+        {% assign sorted-treatments = site.treatments | sort: 'order' %}
         {% for treatment in sorted-treatments %}
         <div class="col-4_sm-12 padded-1 full-height">
             <div class="card">
