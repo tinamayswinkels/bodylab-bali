@@ -6,7 +6,7 @@ description: >-
   than 6 million procedures per year. We at BodyLab Bali are not an exemption.
   We have a very skillful dermatologist who visits seminars in Europe and Asia
   to improve his skills. We use only the approved Botox Allergan from the USA .
-featured_image: /uploads/botox_3.jpg
+featured_image: /uploads/20190215-img-6954-1.jpg
 ---
 
 Botox
