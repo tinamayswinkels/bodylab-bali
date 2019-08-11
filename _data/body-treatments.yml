@@ -138,7 +138,8 @@
   title-highlighted: Laser Hair Removal
   subtitle: PERMANENT HAIR REMOVAL
   categories:
-  price: xxx.000
+    - Hair Removal
+  price: from 263.000
   description_html: >-
     <p>Laser hair removal will give you smoother skin and permanent hair
     reduction. The light from the laser will destroy hair follicles in a matter
