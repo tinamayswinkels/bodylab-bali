@@ -6,7 +6,7 @@ description: >-
   extracting, and hydrating the skin. The special super serums with nourishing
   ingredients are used to create an instant glow, taking into consideration the
   specific needs of every patient.
-featured_image: /uploads/27475bd9-9873-477b-ada8-0c9f16b12f66-1.jpg
+featured_image: /uploads/27475bd9-9873-477b-ada8-0c9f16b12f66-2.jpg
 ---
 
 ## &nbsp;
