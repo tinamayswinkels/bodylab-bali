@@ -24,8 +24,8 @@
                         <li><a href="/treatments/injectable-rejuvenation">All Injectable Treatments</a></li>
                         <hr> 
                         
-                        {% assign sorted-treatments = site.treatments | sort: 'order' %}
-                        {% for treatment in sorted-treatments %}
+                        <!--{% assign sorted-treatments = site.treatments | sort: 'order' %}-->
+                        {% for treatment in site.treatments %}
       
                          <li> <a href="{{treatment.url}}"> {{treatment.highlighted-title}} </a> </li>
  
