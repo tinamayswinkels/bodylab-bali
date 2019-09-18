@@ -8,169 +8,36 @@ description: >-
   latest technologies in the beauty industry.
 ---
 
-<section class="after-header treatments-card light editable padded grid-center">
-    <div class="col-12">
+<section class="after-header treatments-card light padded grid-center">
+    <div class="col-12 editable">
       <h2>Body Lab Bali Treatments</h2>
       <h3>Located in the heart of Seminyak, we offer a variety of advanced face and body treatments customised to your needs. Our experienced therapists provide results-oriented procedures using the latest cosmetic technology available.</h3>
     </div>
-    <div class="col-4_sm-12 padded-1 full-height" style="order:6;">
-      <div class="card">
-        <div class="top-img-treatment">
-          <div class="card-image" style="background-image:url(/images/bigstock-172226675.jpg);">&nbsp;</div>
+    
+    
+     {% for treatment in site.treatments %}
+        <div class="col-4_sm-12 padded-1 full-height" style="order:{{treatment.order}};">
+            <div class="card">
+            <div class="top-img-treatment">
+                <a href="{{treatment.url}}">
+                  <div class="card-image" style="background-image:url({{treatment.featured_image}});"></div>
+                </a>
+            </div>
+                <div class="treatments-text">
+                  <h2><span> {{treatment.highlighted-title}} </span> </br> {{treatment.sub-title}}</h2>
+                  {{treatment.description}}
+
+                <p><a class="button white" href="{{treatment.url}}">Learn More </a></p>
+                </div>
+            </div>
         </div>
-        <div class="treatments-text">
-          <h2><span> Rejuvenation &amp; Glowing </span><br />Facials</h2>At Body Lab Bali we use the latest technology to treat the unique needs of our clients. Specialising in Anti-Ageing, we understand that each of our patients require a personalized solution to address their specific skin concerns. Whether you're looking for a non-surgical face lift, a deep cleansing treatment or an effective facial to make your skin glow for a special event, Body Lab Bali offers a comprehensive range of advanced skin solutions administered by highly trained cosmetic specialists
-          <p><a class="button white" href="/treatments/acid-peels.html">Learn More </a></p>
-        </div>
-      </div>
-    </div>
-    <div class="col-4_sm-12 padded-1 full-height" style="order:1;">
-      <div class="card">
-        <div class="top-img-treatment">
-          <div class="card-image" style="background-image:url(/images/bodylab-8.jpeg);">&nbsp;</div>
-        </div>
-        <div class="treatments-text">
-          <h2><span> All Body </span><br />Treatments</h2>Body Treatments At Body Lab Bali we use cutting-edge aesthetic machines to help you create the slim, tight, toned body you have always dreamed of. We offer a wide range of treatments include weight-loss, cellulite reduction, body shaping, laser hair removal, skin tightening and more. Our experienced therapists will create a personalised plan that will slim and sculpt your body with lasting results and minimal downtime.
-          <p><a class="button white" href="/treatments/body-treatments.html">Learn More </a></p>
-        </div>
-      </div>
-    </div>
-    <div class="col-4_sm-12 padded-1 full-height" style="order:1;">
-      <div class="card">
-        <div class="top-img-treatment">
-          <div class="card-image" style="background-image:url(/uploads/istock-495037993.jpg);">&nbsp;</div>
-        </div>
-        <div class="treatments-text">
-          <h2><span> Muscle tone </span><br />Facial</h2>Botox is one of our most popular treatments at Body Lab Bali.&nbsp; We use only the highest quality Allergan Botox from USA and all injectables are administered by an experienced medical professional. Effects last about three to eight months, depending on what concern you are addressing. Book your session at Body Lab Bali to look younger for longer!
-          <p><a class="button white" href="/treatments/botox.html">Learn More </a></p>
-        </div>
-      </div>
-    </div>
-    <div class="col-4_sm-12 padded-1 full-height" style="order:5;">
-      <div class="card">
-        <div class="top-img-treatment">
-          <div class="card-image" style="background-image:url(/uploads/shutterstock-676355974.jpg);">&nbsp;</div>
-        </div>
-        <div class="treatments-text">
-          <h2><span> Cellulite </span><br />Treatments</h2>At Body Lab Bali you can finally banish cellulite for good! We offer the latest and most effective aesthetic technology to devise a unique, personalised treatment plan that will help you get rid of that pesky cellulite, smooth and tighten your skin and improve the overall tone of your thighs, tummy and arms.
-          <p><a class="button white" href="/treatments/cellulite.html">Learn More </a></p>
-        </div>
-      </div>
-    </div>
-    <div class="col-4_sm-12 padded-1 full-height" style="order:6;">
-      <div class="card">
-        <div class="top-img-treatment">
-          <div class="card-image" style="background-image:url(/images/bodylab-6.png);">&nbsp;</div>
-        </div>
-        <div class="treatments-text">
-          <h2><span> Cleansing </span><br />Facials</h2>Body Lab offers the highest quality cleansing facial treatments in Bali. Our highly trained therapists are providing the safest procedures and implementing the latest technologies in the beauty industry.
-          <p><a class="button white" href="/treatments/cleansing-facials.html">Learn More </a></p>
-        </div>
-      </div>
-    </div>
-    <div class="col-4_sm-12 padded-1 full-height" style="order:7;">
-      <div class="card">
-        <div class="top-img-treatment">
-          <div class="card-image" style="background-image:url(/images/bodylab-7.jpeg);">&nbsp;</div>
-        </div>
-        <div class="treatments-text">
-          <h2><span> Face Lifting, Toning </span><br />&amp; Contouring</h2>We use the latest non-surgical technology to restore the architecture of your face and accomplish a wide range of rejuvenation goals, creating a profoundly sculpted, youthful effect.
-          <p><a class="button white" href="/treatments/face-lifting-contouring.html">Learn More </a></p>
-        </div>
-      </div>
-    </div>
-    <div class="col-4_sm-12 padded-1 full-height" style="order:2;">
-      <div class="card">
-        <div class="top-img-treatment">
-          <div class="card-image" style="background-image:url(/uploads/shutterstock-221623813.jpg);">&nbsp;</div>
-        </div>
-        <div class="treatments-text">
-          <h2><span> All Face </span><br />Treatments</h2>Body Lab offers the highest quality face treatments in Bali. Our highly trained therapists provide the safest procedures with the latest technologies in the beauty industry.
-          <p><a class="button white" href="/treatments/face-treatments.html">Learn More </a></p>
-        </div>
-      </div>
-    </div>
-    <div class="col-4_sm-12 padded-1 full-height" style="order:1;">
-      <div class="card">
-        <div class="top-img-treatment">
-          <div class="card-image" style="background-image:url(/uploads/shutterstock-473324575-1.jpg);">&nbsp;</div>
-        </div>
-        <div class="treatments-text">
-          <h2><span> Fillers </span><br />Treatments</h2>At Body Lab Bali we offer a range of injectable treatments that can help you restore a youthful look by filling lines, restoring volume to the skin, and plumping any given area of your face. We use only the highest quality injectables imported from USA. Using the safest procedures, in just minutes, you will be able to erase years off your appearance, and enjoy results that last.
-          <p><a class="button white" href="/treatments/fillers.html">Learn More </a></p>
-        </div>
-      </div>
-    </div>
-    <div class="col-4_sm-12 padded-1 full-height" style="order:3;">
-      <div class="card">
-        <div class="top-img-treatment">
-          <div class="card-image" style="background-image:url(/uploads/botox-3.jpg);">&nbsp;</div>
-        </div>
-        <div class="treatments-text">
-          <h2><span> Injectable </span><br />Rejuvenation</h2>Body Lab offers the highest quality injectable rejuvenation treatments in Bali. Our highly trained therapists are providing the safest procedures and implementing the latest technologies in the beauty industry.
-          <p><a class="button white" href="/treatments/injectable-rejuvenation.html">Learn More </a></p>
-        </div>
-      </div>
-    </div>
-    <div class="col-4_sm-12 padded-1 full-height" style="order:8;">
-      <div class="card">
-        <div class="top-img-treatment">
-          <div class="card-image" style="background-image:url(/images/pressotherapy-contraindications1.jpg);">&nbsp;</div>
-        </div>
-        <div class="treatments-text">
-          <h2><span> Lymphatic </span><br />Drainage</h2>Body Lab offers the highest quality lymphatic drainage treatments in Bali. Lymphatic Drainage treatments are fantastic to reduce cellulite, eliminate fluid retention in the body and support weight-loss treatments. Our highly trained therapists will help you devise a personalised plan to combine Lymphatic Drainage with our slimming and skin tightening treatments, so you can achieve the lean, toned, slim body you have always wanted.
-          <p><a class="button white" href="/treatments/lymphatic-drainage.html">Learn More </a></p>
-        </div>
-      </div>
-    </div>
-    <div class="col-4_sm-12 padded-1 full-height" style="order:6;">
-      <div class="card">
-        <div class="top-img-treatment">
-          <div class="card-image" style="background-image:url(/images/Mio4.JPEG);">&nbsp;</div>
-        </div>
-        <div class="treatments-text">
-          <h2><span> Muscle Tone </span><br />Treatments</h2>Body Lab offers the highest quality muscle toning treatments in Bali. At Body Lab Bali you can finally get that toned and lean physique you have always wanted. We use the latest technologies, administered by our expert aestheticians, to efficiently target the muscle groups that will reshape and sculpt your thighs, abs, arms and glutes, with no pain or sweat!
-          <p><a class="button white" href="/treatments/muscle-tone.html">Learn More </a></p>
-        </div>
-      </div>
-    </div>
-    <div class="col-4_sm-12 padded-1 full-height" style="order:8;">
-      <div class="card">
-        <div class="top-img-treatment">
-          <div class="card-image" style="background-image:url(/uploads/shutterstock-1307035156.jpg);">&nbsp;</div>
-        </div>
-        <div class="treatments-text">
-          <h2><span> PRP Vampire </span><br />Facial</h2>Platelet Rich Plasma Facial is one of our most popular Anti-Aging and skin-glowing treatments. This exclusive technology increases collagen and elastin production, reducing wrinkles and expression lines, and giving you visible results in only one session. At Body Lab Bali we use only the safest procedures and all injectables are administered by an experienced medical professional.
-          <p><a class="button white" href="/treatments/rejuvenating-facials.html">Learn More </a></p>
-        </div>
-      </div>
-    </div>
-    <div class="col-4_sm-12 padded-1 full-height" style="order:7;">
-      <div class="card">
-        <div class="top-img-treatment">
-          <div class="card-image" style="background-image:url(/images/c700x420.jpg);">&nbsp;</div>
-        </div>
-        <div class="treatments-text">
-          <h2><span> Skin Tightening </span><br />Treatments</h2>Helping you look younger for longer is part of our mission. At Body Lab Bali we continuously research and import from around the world the latest aesthetic technology available. We are proud to offer Liftera and Endymed therapy, two of the most cutting-edge treatments available to tighten, tone and lift your skin. Body Lab offers the highest quality skin tightening treatments in Bali. Our highly trained therapists are providing the safest procedures and implementing the latest technologies in the beauty industry.
-          <p><a class="button white" href="/treatments/skin-tightening.html">Learn More </a></p>
-        </div>
-      </div>
-    </div>
-    <div class="col-4_sm-12 padded-1 full-height" style="order:4;">
-      <div class="card">
-        <div class="top-img-treatment">
-          <div class="card-image" style="background-image:url(/images/a2477ac755b028fd629ebc2be7ffb3c4.JPEG);">&nbsp;</div>
-        </div>
-        <div class="treatments-text">
-          <h2><span> Weight loss </span><br />Treatments</h2>Body Lab offers the highest quality slimming &amp; weight-loss treatments in Bali. Our highly trained therapists provide the safest procedures, using the latest technologies in the beauty industry.
-          <p><a class="button white" href="/treatments/slimming.html">Learn More </a></p>
-        </div>
-      </div>
-    </div>
+            
+    {% endfor %}
+    
   </section>
 
 <!-- Call to action -->
-<section class="padded center featured">
+<section class="padded center featured editable">
   <h2> Only the best </h2>
   <p> Body lab is Bali's only spa clinic to have medically certified practitioners, and uses only professionally recognised international cosmetic brands. To make a reservation, message us on whatsapp. </p>
 </section>
