@@ -1,51 +1,53 @@
 - title:
   title-highlighted: Thermolift
   subtitle: Non-surgical facelift
-  category:
+  categories:
     - Face Lifting
+    - Skin Tightening
+    - Rejuvenating Facial
   price: '700.000'
   description_html: >-
-    <p>Thermolift is most effective non-surgical method for facial
-    rejuvenation. Using focused radio frequency to heat the skin at different
-    levels, this painless procedure stimulates collagen production, resulting
-    in a more youthful visage. After only one treatment you can feel your skin
-    is tighter and firmer. Thermolift can be done once a week for up to 3-7
+    <p>Thermolift is most effective non-surgical method for facial rejuvenation.
+    Using focused radio frequency to heat the skin at different levels, this
+    painless procedure stimulates collagen production, resulting in a more
+    youthful visage. After only one treatment you can feel your skin is tighter
+    and firmer. Thermolift can be done once a week for up to 3-7
     sessions.</p><p><strong>BENEFITS:</strong></p><ul><li>Lifted, firmed and
     tightened skin</li><li>Collagen and elastane production</li><li>Skin
     tightening and toning</li><li>Reduces the appearance of fine lines and
     wrinkles</li></ul><p>Duration: 60 min</p>
   image_path: /IMG_9017.JPG
-  video_id: LC_BRreBM64
+  video_id: Y74mttdXF1I
 - title:
   title-highlighted: Microcurrent Facial
   subtitle: Refine and tone
-  category:
+  categories:
     - Rejuvenating Facial
   price: '450.000'
   description_html: >-
     <p>One of the latest innovations in the anti-aging industry, Microcurrent
-    Facials send soft electrical waves through the skin to stimulate the
-    facial muscles and produce collagen in the dermis layer. This gentle
-    procedure can be done 2-4 times a week, for up to 10
+    Facials send soft electrical waves through the skin to stimulate the facial
+    muscles and produce collagen in the dermis layer. This gentle procedure can
+    be done 2-4 times a week, for up to 10
     sessions.</p><p><strong>BENEFITS:</strong></p><ul><li>Improves muscle tone
     in face and neck</li><li>Lifts jaws and eyebrows</li><li>Reduces the
     appearance of fine lines and wrinkles</li><li>Reduces
     puffiness</li><li>Stimulates lymphatic drainage</li></ul><p>Duration: 60
     min</p>
   image_path: /images/bodylab-2.png
-  video_id: LC_BRreBM64
+  video_id: Dlf5pUrjIqQ
 - title:
-  title-highlighted: Detox Facial
+  title-highlighted: Oxygen Detox Facial
   subtitle: Comedo Extraction + Purification
-  category:
+  categories:
     - Cleansing Facial
   price: '500.000'
   description_html: >-
-    <p>This deep cleansing multi-step skin treatment is one of the best ways
-    to purify your skin and remove blackheads and pimples. After a deep
-    cleanse, exfoliation and facial massage, our trained therapist will gently
-    extract blackheads before nourishing the skin with rich nutrition serums.
-    Expect to walk out the door with clean, fresh and glowing
+    <p>This deep cleansing multi-step skin treatment is one of the best ways to
+    purify your skin and remove blackheads and pimples. After a deep cleanse,
+    exfoliation and facial massage, our trained therapist will gently extract
+    blackheads before nourishing the skin with rich nutrition serums. Expect to
+    walk out the door with clean, fresh and glowing
     skin.</p><p><strong>BENEFITS:</strong></p><ul><li>Clears clogged pores,
     blackheads and pimples</li><li>Removes dirt and oil</li><li>Hydrates
     skin</li><li>Remove dead skin cells</li><li>Stimulates lymphatic
@@ -55,36 +57,49 @@
 - title:
   title-highlighted: Hydra Facial
   subtitle: MULTI STEPS CLEANING REJUVENATION FACIAL
-  category:
+  categories:
     - Rejuvenating Facial
+    - Cleansing Facial
   price: '700.000'
   description_html: >-
-    <p>Hydra facial uses  technology to cleanse, lift,rejuvenate and hydrate skin while infusing special anti aging serums .Hydra facial contain next few steps: water vacuum cleansing ,microcurrents,radio frequency,ultrasound ,party pimples extraction and oxygenation with oxygen spray .This unique process helps improve the appearance of several skin concerns, including wrinkles and fine lines,  skin firmness ,texture, and pore congesion.Suitable for all skin types, this rejuvenating treatment is gentle, non-invasive, and effective immediately.</p><p><strong>BENEFITS:</strong></p><ul><li>Deep cleansing</li><li>Wrinkles smoothing</li><li>Skin tightening</li><li>Face slimming,V shape</li><li>Shrinking pores,bring anti aging serum deep to the cells</li><li>Partly pimples extraction</li><li>Oxygenation</li></ul><p>Duration: 90 min</p>
+    <p>Hydra facial uses technology to cleanse, lift,rejuvenate and hydrate skin
+    while infusing special anti aging serums .Hydra facial contain next few
+    steps: water vacuum cleansing ,microcurrents,radio frequency,ultrasound
+    ,party pimples extraction and oxygenation with oxygen spray .This unique
+    process helps improve the appearance of several skin concerns, including
+    wrinkles and fine lines, skin firmness ,texture, and pore congesion.Suitable
+    for all skin types, this rejuvenating treatment is gentle, non-invasive, and
+    effective immediately.</p><p><strong>BENEFITS:</strong></p><ul><li>Deep
+    cleansing</li><li>Wrinkles smoothing</li><li>Skin tightening</li><li>Face
+    slimming,V shape</li><li>Shrinking pores,bring anti aging serum deep to the
+    cells</li><li>Partly pimples
+    extraction</li><li>Oxygenation</li></ul><p>Duration: 90 min</p>
   image_path: /uploads/dybra.jpg
-  video_id: LC_BRreBM64
+  video_id: Yp2LA0OUjng
 - title:
   title-highlighted: Combination Facial
   subtitle: ULTRASOUND + COMEDO EXTRACTION
-  category:
+  categories:
     - Cleansing Facial
   price: '600.000'
   description_html: >-
     <p>Body Lab Bali's signature facial combines parts of our Detox Facial and
     Ultrasonic facial. This is one and the most effective cosmetic procedures
-    for gently cleansing the skin. The procedure is suitable for all skin
-    types and clients with sensitive skin can expect no redness and soreness -
-    just beautifully refreshed skin.</p><p><strong>BENEFITS:
+    for gently cleansing the skin. The procedure is suitable for all skin types
+    and clients with sensitive skin can expect no redness and soreness - just
+    beautifully refreshed skin.</p><p><strong>BENEFITS:
     </strong></p><ul><li>Gently clears blackheads and pimples</li><li>Removes
-    dead skin cells</li><li>Stimulates lymphatic drainage</li><li>Improves
-    skin tone</li><li>Hydrates&nbsp; and nourishes skin</li></ul><p>Duration:
-    90 min</p>
+    dead skin cells</li><li>Stimulates lymphatic drainage</li><li>Improves skin
+    tone</li><li>Hydrates&nbsp; and nourishes skin</li></ul><p>Duration: 90
+    min</p>
   image_path: /uploads/combination-facial.jpg
   video_id: LC_BRreBM64
 - title:
   title-highlighted: Fruit Acid Peel
   subtitle: 'FRESH, GLOWING SKIN'
-  category:
+  categories:
     - Acid Peel
+    - Rejuvenating Facial
   price: '400.000'
   description_html: >-
     <p>Alpha Hydroxy Acid (AHA) facial peels can help you achieve a fresher,
@@ -101,96 +116,253 @@
 - title:
   title-highlighted: Oxygeneo Facial
   subtitle: 3-in-1 super facial
-  category:
+  categories:
     - Rejuvenating Facial
+    - Cleansing Facial
   price: '700.000'
   description_html: >-
     <p>Oxygeneo is 3-in-1 super facial that exfoliates, nourishes and delivers
-    skin oxygenation. Similar to microdermabrasion, the Oxygeneo exfoliates
-    the upper skin layer to remove dead cells, preparing it to absorb
-    nutrient-rich active ingredients.</p><p>CO2 bubbles are then applied to
-    the skin, creating a physiological response, that sends oxygen-rich blood
-    to the area, increasing capillary flow and skin metabolism. Expect to see
-    younger looking skin after your very first
+    skin oxygenation. Similar to microdermabrasion, the Oxygeneo exfoliates the
+    upper skin layer to remove dead cells, preparing it to absorb nutrient-rich
+    active ingredients.</p><p>CO2 bubbles are then applied to the skin, creating
+    a physiological response, that sends oxygen-rich blood to the area,
+    increasing capillary flow and skin metabolism. Expect to see younger looking
+    skin after your very first
     treatment.</p><p><strong>BENEFITS:</strong></p><ul><li>Renews youthful
     glow</li><li>Increases collagen production</li><li>Reduces
-    hyper-pigmentation</li><li>Improves skin cell production</li><li>Reduces
-    the appearance of wrinkles</li></ul><p>Duration: 90 min</p>
+    hyper-pigmentation</li><li>Improves skin cell production</li><li>Reduces the
+    appearance of wrinkles</li></ul><p>Duration: 90 min</p>
   image_path: /uploads/20180412-IMG_0568.jpg
-  video_id: LC_BRreBM64
+  video_id: Q0L-_H9m2Xs
 - title:
   title-highlighted: Hollywood Carbon Peeling
   subtitle: 'Deep pores cleaning,brightening,'
-  category:
+  categories:
     - Cleansing Facial
+    - Rejuvenating Facial
   price: '650.000'
   description_html: >-
     <p>The Carbon Laser Peel is highly beneficial for people with oily skin,
     blackheads, enlarged pores, dull skin and acne on the face or body. It is
     also an excellent way to exfoliate and refresh your skin, providing an
-    instant glow and leaving skin feeling softer, smoother and firmer with
-    fine lines &amp; wrinkles reduced.</p><p>It works by applying a layer of
-    liquid carbon to the skin, where it penetrates deep into the pores. Laser
-    light is highly attracted to the carbon particles. When the laser is
-    passed over the area, it destroys the carbon, taking dead skin cells,
-    contaminants and oil with it.</p><p>The facial has been dubbed the
-    &ldquo;Hollywood Peel&rdquo; because there are several A-list fans of the
-    treatment &ndash; including Angelina Jolie and Kim Kardashian. It&rsquo;s
-    success is down to it&rsquo;s immediate positive effects without any
-    down-time or discomfort and as a result it&rsquo;s now being used by many
-    celebs just before a red carpet event. It&rsquo;s so effective at
-    combatting active acne that just 4 treatments is enough to clear even the
-    most stubborn spots.</p><p><strong>PERFECT FOR</strong>:</p><p>▪ Active
-    acne &nbsp; &nbsp;▪ Acne scars</p><p>▪ Large pores &nbsp; &nbsp;▪ Melasma
-    and pigmentation</p><p>▪ Age spots. &nbsp; &nbsp; &nbsp; ▪
-    Freckles</p><p>Duration: 60 min</p>
+    instant glow and leaving skin feeling softer, smoother and firmer with fine
+    lines &amp; wrinkles reduced.</p><p>It works by applying a layer of liquid
+    carbon to the skin, where it penetrates deep into the pores. Laser light is
+    highly attracted to the carbon particles. When the laser is passed over the
+    area, it destroys the carbon, taking dead skin cells, contaminants and oil
+    with it.</p><p>The facial has been dubbed the &ldquo;Hollywood Peel&rdquo;
+    because there are several A-list fans of the treatment &ndash; including
+    Angelina Jolie and Kim Kardashian. It&rsquo;s success is down to it&rsquo;s
+    immediate positive effects without any down-time or discomfort and as a
+    result it&rsquo;s now being used by many celebs just before a red carpet
+    event. It&rsquo;s so effective at combatting active acne that just 4
+    treatments is enough to clear even the most stubborn
+    spots.</p><p><strong>PERFECT FOR</strong>:</p><ul><li>Active acne &nbsp;
+    &nbsp;</li><li>Acne scars &nbsp;</li><li>Large pores &nbsp;
+    &nbsp;</li><li>Melasma and pigmentation</li><li>&nbsp;Age
+    spots</li><li>&nbsp;Freckles</li></ul><p>Duration: 60 min</p>
   image_path: /uploads/shutterstock_1018475431.jpg
-  video_id: LC_BRreBM64
+  video_id: ZvuzO6M9ha4
 - title:
   title-highlighted: Q Switched ClearLift laser
   subtitle: 'Brightening,rejuvenation,lifting'
-  category:
+  categories:
     - Rejuvenating Facial
   price: '950.000'
   description_html: >-
     <p>Q Switched ClearLift Laser&nbsp; is an innovative treatment that takes
     years off of your face in just minutes, often referred to as the
-    &lsquo;Lunchtime Facelift&rsquo; the treatment is highly controlled with
-    no pain and no downtime, but still providing similar results to chemical
-    peeling and laser resurfacing. The laser heats deep beneath the skin (up
-    to 3mm in depth), so all the skin healing happens underneath the
-    epidermis, without damaging the upper layers of the epidermis at
-    all.</p><p>It is becoming an increasingly popular facial rejuvenation
-    treatment, people love the results of the ClearLift seeing benefits with
-    skin tightening, reduction of pigment and fine lines. The laser uses a
-    1064nm pixel Q-Switched laser to create tiny ablative or treatment areas.
-    Within these tiny areas, localised &lsquo;damage&rsquo; has occurred,
-    which stimulates a healing response. As these areas heal, it causes the
-    stimulation of new healthy tissue to grow, as well as enhancing the
-    production of collagen and other elastin fibres. This helps skin to
-    regenerate and creates a more youthful appearance, improves skin texture
-    and tone, reduces the appearance of wrinkles and fine lines, and helps
-    with pigmentation removal.</p><p>Q switched clearlift laser we recommended
-    to do once a 3 weeks and for best result repeat 3-4
-    times.</p><p><strong>BENEFITS:</strong></p><ul><li>Helps in the
-    reduction of fine lines and wrinkles,shinks the pores.</li><li>Brightening skin, reduction of melasma and other pigment
-    lesions.</li><li>Helps to lift and tighten the skin.</li><li>Gentle exfoliation, rejuvenation</li></ul><p>Duration: 60 min</p>
+    &lsquo;Lunchtime Facelift&rsquo; the treatment is highly controlled with no
+    pain and no downtime, but still providing similar results to chemical
+    peeling and laser resurfacing. The laser heats deep beneath the skin (up to
+    3mm in depth), so all the skin healing happens underneath the epidermis,
+    without damaging the upper layers of the epidermis at all.</p><p>It is
+    becoming an increasingly popular facial rejuvenation treatment, people love
+    the results of the ClearLift seeing benefits with skin tightening, reduction
+    of pigment and fine lines. The laser uses a 1064nm pixel Q-Switched laser to
+    create tiny ablative or treatment areas. Within these tiny areas, localised
+    &lsquo;damage&rsquo; has occurred, which stimulates a healing response. As
+    these areas heal, it causes the stimulation of new healthy tissue to grow,
+    as well as enhancing the production of collagen and other elastin fibres.
+    This helps skin to regenerate and creates a more youthful appearance,
+    improves skin texture and tone, reduces the appearance of wrinkles and fine
+    lines, and helps with pigmentation removal.</p><p>Q switched clearlift laser
+    we recommended to do once a 3 weeks and for best result repeat 3-4
+    times.</p><p><strong>BENEFITS:</strong></p><ul><li>Helps in the reduction of
+    fine lines and wrinkles,shinks the pores.</li><li>Brightening skin,
+    reduction of melasma and other pigment lesions.</li><li>Helps to lift and
+    tighten the skin.</li><li>Gentle exfoliation,
+    rejuvenation</li></ul><p>Duration: 60 min</p>
   image_path: /uploads/IMG_9212.jpg
-  video_id: LC_BRreBM64
+  video_id: uDOVbWqJN9o
 - title:
-  title-highlighted: Muscle stimulation
-  subtitle: 'Tone, tighten and firm'
-  category:
-    - Face Lifting
-  price: '400.000'
+  title-highlighted: LED Rejuvenation Mas
+  subtitle: 'ANTI AGING ,ACNE CARE'
+  categories:
+    - Rejuvenating Facial
+  price: '350.000'
   description_html: >-
-    <p>Muscle stimulation is one of the most effective ways to restore muscle
-    tone and lost volume. By applying gentle electrical pulses and currents to
-    the face, we're essentially able to exercise the muscles. As a result,
-    your face will feel much more toned and
-    lifted.</p><p><strong>BENEFITS:</strong></p><ul><li>Improves face
-    contour</li><li>Smoothes wrinkles</li><li>Tones and lifts</li><li>Reduces
-    puffiness</li><li>Alleviates muscle spasms</li></ul><p>Duration: 45
-    min</p>
-  image_path: /images/bodylab-1.png
-  video_id: LC_BRreBM64
+    <p>LED therapy it is a process that emits infrared lights on your face in
+    different wavelengths or spectrums. What those wavelengths are is determined
+    by the specific kind of treatment you&rsquo;re looking for from LED light
+    therapy.</p><p>Light therapy stimulated the skin tissue to regenerate with
+    new skin cells. Light therapy also increased blood circulation, collagen
+    production, and general healing of the skin. So what kind of results were
+    researchers noticing? That light treatment actually helped to repair sun
+    damage, reduce signs of aging, and treat rosacea.</p><p>Red light helps
+    increase collagen production. And since collagen is what makes your skin
+    have that young supple look, this is one of the biggest benefits. The red
+    light also increases blood flow to the skin and capillaries on the face.
+    This promotes healing and rejuvenation, all things you want when it comes to
+    having younger-looking skin. Red light is also used to treat scarring and
+    rosacea.&nbsp;</p><p>Blue&nbsp; light is able to generate a high energy form
+    of oxygen that attacks the bacteria in your skin. And that bacteria is what
+    causes acne. And considering the high rate of success researchers have found
+    in clinical studies, blue light as an acne treatment has proven
+    results!</p><p>White light Of all the lights, this is the most powerful, as
+    it penetrates the deepest into your skin. White light is able to tighten
+    your skin as its base layer and reduce inflammation. This gives your skin
+    that smooth, healthy glow we all try so hard to achieve!</p><p>Benefits of
+    LED therapy:</p><ul><li>Reducing the appearance of fine lines and wrinkles:
+    by stimulating collagen and elastin production</li><li>Reducing the
+    appearance of scars and other skin ailments, such as rosacea: by deeply
+    penetrating the skin and promoting growth of skin cells</li><li>Treating
+    acne: by fighting off and killing the bacteria under your skin</li></ul>
+  image_path: /uploads/led-mask.jpg
+  video_id: hgrExi__mWo
+- title:
+  title-highlighted: Transion
+  subtitle: FACE CONTOURING
+  categories:
+    - Face Lifting
+    - Rejuvenating Facial
+    - Muscle Tone
+  price: '600.000'
+  description_html: >-
+    <p>Transion facial contouring&nbsp;</p><p>If you're looking to define and
+    lift your facial features, reducing any fat pockets on the chin area, cheeks
+    or jaw line, Transion Facial Contouring is your best option!</p><p>Transion
+    treatment consists on gentle electrical stimulation which enhances the
+    muscle tone and the blood circulation in the targeted areas. The muscular
+    activity leads to a rapid strengthening of the facial muscles, providing a
+    noticeable lift of sagging areas, which once improved, gives a renewed
+    youthful look to the whole face</p><p>The Transion treatment is also capable
+    of reducing any excess fat tissue present in your face. We recommend 4-8
+    sessions of only 45 minutes to achieve harmonious and long lasting
+    results.</p><p>Benefits:</p><p>&bull;General face
+    contouring</p><p>&bull;Reduction of fat pockets in the
+    face</p><p>&bull;Increases muscle tone</p><p>&bull;Boosts the flow of
+    oxygen</p><p>&bull;Improves blood circulation</p><p>&bull;Restoring a stable
+    tone of the subcutaneous layer of the skin</p>
+  image_path: /uploads/img-9391.jpg
+  video_id: 1yOMVUr-554
+- title:
+  title-highlighted: Isogei
+  subtitle: NON SURGICAL FACE LIFT
+  categories:
+    - Face Lifting
+    - Muscle Tone
+    - Rejuvenating Facial
+  price: '600.000'
+  description_html: >-
+    <p>Isogei non-surgical Face Lift&nbsp;</p><p>Isogei Face Lift is the
+    non-invasive, natural way to give your face a toned, plump, youthful
+    appearance!</p><p>Isogei Face Lift delivers delicate yet powerful electric
+    stimulation to the muscles in your face, creating what we call an isometric
+    contraction. This targeted contraction tightens and tones the muscles that
+    form the facial features, which creates fantastic results in case of
+    sagginess in the skin and hollowed cheeks</p><p>In just two or three 60
+    minutes sessions per week, you will see visible results. Even after the very
+    first treatment, you will see an immediate improvement in the tone and
+    suppleness of your face</p><p>Isogei Face Lift gives you this unique
+    isometric muscle stimulation, which improves the blood circulation and
+    oxygen supply to the tissues, which in turn enhances cell renewal and
+    cleansing of the skin, making it more elastic and
+    bright</p><p>Benefits:</p><p>&bull;Non-surgical face
+    lift&nbsp;</p><p>&bull;Tones and lifts the facial and neck
+    muscles&nbsp;</p><p>&bull;Skin tone enhancing</p><p>&bull;Boosts cell
+    renewal and makes skin brighter and more supple</p>
+  image_path: /uploads/img-9289.jpg
+  video_id: C7cAjsbnHa8
+- title:
+  title-highlighted: Hydra Facial MD
+  subtitle: CLEANSING&GLOWING HOLLYWOOD FACIAL
+  categories:
+    - Rejuvenating Facial
+  price: 1.000.000
+  description_html: >-
+    <p>Hydra Facial MD&reg; is the hottest facial in Hollywood at the
+    moment!</p><p>HydraFacial MD&reg; uses exclusive USA patented technology to
+    cleanse, extract, and hydrate. HydraFacial super serums are made with
+    nourishing ingredients that create an instantly gratifying glow.</p><p>HOW
+    IT WORKS:</p><p>CLEANSE + PEEL</p><p>Uncover a new layer of skin with gentle
+    exfoliation and relaxing resurfacing.</p><p>EXTRACT + HYDRATE</p><p>Remove
+    debris from pores with painless suction motion. Nourish with intense
+    moisturizers that deeply hydrate you skin.</p><p>FUSE +
+    PROTECT</p><p>Saturate the skin&rsquo;s surface with antioxidants and
+    peptides to maximize your glow.</p><p>Immediate, Visible
+    Results</p><p>&bull; No Downtime, No Discomfort</p><p>&bull; Effective For
+    Every Skin Type</p><p>&bull; Reduces the Appearance of Fine Lines &amp;
+    Wrinkles</p><p>&bull; Detoxifies, Transforms, and Protects Skin</p><p>&bull;
+    Addresses Specific Skin Concerns</p><p>Top Performing
+    Ingredients:</p><p>&ndash; Horse Chestnut Seed Extract: one of the most
+    potent antioxidants.</p><p>&ndash; Arnica Flower Extract: known for its
+    calming properties is beneficial for dry, irritated skin.</p><p>&ndash;
+    Salicylic Acid:an exfoliating agent, sloughing away dead skin cells. This is
+    extremely effective when targeting oily and congested skin because it helps
+    reduce the build-up of dirt and sebum within the pores.</p><p>-Algae
+    Extract: rich in hydrating antioxidants that will leave skin feeling soft,
+    smooth, and radiant. Algae also helps detoxify and replenish the skin with
+    essential vitamins and minerals.</p><p>&ndash; Low Molecular Weight
+    Hyaluronic Acid: a naturally occurring substance that helps to hydrate and
+    plump the skin. LMW Hyaluronic Acid is able to keep skin hydrated longer
+    while significantly decreasing the appearance of fine lines and
+    wrinkles.</p>
+  image_path: /uploads/27475bd9-9873-477b-ada8-0c9f16b12f66.jpg
+  video_id: TMXkrV4xmbg
+- title:
+  title-highlighted: Linfogei
+  subtitle: LYMPHATIC DRAINAGE
+  categories:
+    - Lymphatic Drainage
+    - Rejuvenating Facial
+  price: '650.000'
+  description_html: >-
+    <p>Linfogei face lymphatic drainage&nbsp;</p><p>It is the leading technology
+    in the market of aesthetic medicine in all lymphatic drainage
+    treatments.</p><p>Our top of the range machine "Vip Lipo Line Duo"&nbsp;
+    uses electric impulses transmitted to the nerve nodes and muscle fibers,
+    creating pressure in the lymphatic vessels, which boosts and enhances the
+    natural drainage and cleansing systems in your
+    body</p><p>Benefits:</p><p>-Reduces and prevents water retention and
+    swelling on the face&nbsp;</p><p>-Eliminates swelling and inflammation in
+    the face after long flights&nbsp;</p><p>-Powerful detox effect, specially
+    after drinking alcohol</p><p>-Improves blood circulation and lymphatic
+    drainage</p><p>-Rejuvenation effect&nbsp;</p><p>Treatment can be done 2-4
+    times per week.</p>
+  image_path: /uploads/img-9904.jpg
+  video_id: Lr3ucA_hLSk
+- title:
+  title-highlighted: Microcurrents Microgei
+  subtitle: ANTI AGING
+  categories:
+    - Rejuvenating Facial
+    - Lymphatic Drainage
+  price: '600.000'
+  description_html: >-
+    <p>Microcurrent Facial is a new clinically tested innovation created to make
+    your face look much younger and more fresh with the help of low-frequency
+    current impulses (also called microcurrents). Microcurrents significantly
+    improve skin tone, restore water balance, remove &lsquo;double chin&rsquo;
+    and have other significant aesthetic effects.</p><p>During Microcurrent
+    Microgei Facial a specialist uses two prongs which send a certain amount of
+    microcurrents to the predetermined zone. They imitate natural body current
+    by stimulating the muscle underneath the skin. Microcurrrents trigger
+    natural reactions in your body at a cellular level enhancing production of
+    collagen and elastin, providing great circulatory
+    effect.</p><p>Benefits:</p><ul><li>Improves muscle tone in face and
+    neck</li><li>Lifts jaws and eyebrows</li><li>Reduces the appearance of fine
+    lines and wrinkles</li><li>Reduces puffiness</li><li>Stimulates lymphatic
+    drainage</li></ul>
+  image_path: /uploads/img-6852-1.jpg
+  video_id: PNGsV9tDyY0
