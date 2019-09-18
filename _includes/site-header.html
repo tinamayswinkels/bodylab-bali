@@ -19,9 +19,18 @@
                 <li class="main-mobile-menu">
                     <a href="javascript:void(0)"> Treatments </a><span class="pic arrow-right" align="right"></span>
                     <ul class="mobile-sub-menu">
-                        <li><a href="/treatments/face-treatments">Face Treatments</a></li>
-                        <li><a href="/treatments/body-treatments">Body Treatments</a></li>
-                        <li><a href="/treatments/injectable-rejuvenation">Injectable Treatments</a></li>
+                        <li><a href="/treatments/face-treatments">All Face Treatments</a></li>
+                        <li><a href="/treatments/body-treatments">All Body Treatments</a></li>
+                        <li><a href="/treatments/injectable-rejuvenation">All Injectable Treatments</a></li>
+                        <hr> 
+                        
+                        {% assign sorted-treatments = ( site.treatments | sort: 'order' ) %}
+                        {% for treatment in sorted-treatments %}
+      
+                         <li> <a href="{{treatment.url}}"> {{treatment.highlighted-title}} </a> </li>
+ 
+                         {% endfor %}
+                         
                     </ul>
                 </li>
                 <li class="main-mobile-menu"><a href="/promo"> Promo </a></li>
