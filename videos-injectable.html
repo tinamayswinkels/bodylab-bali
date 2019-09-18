@@ -19,7 +19,7 @@ featured_image: /uploads/33590222-de0b-4934-a908-b7a9d5d7686f.jpeg
   {% for item in site.data.injectable-treatments %}
 
     <div class="col-6_sm-12 padded-1">
-        <h3> {{item.highlighted-title}}</h3>
+        <h3> {{item.title}}<span> {{item.title-highlighted}} </span></h3>
         <div class="light responsive-video">
             <iframe width="100%" height="315" src="https://www.youtube.com/embed/{{item.video_id}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
         </div>
