@@ -52,6 +52,13 @@
                     <li><a href="/treatments/face-treatments">Face Treatments</a></li>
                     <li><a href="/treatments/body-treatments">Body Treatments</a></li>
                     <li><a href="/treatments/injectable-rejuvenation">Injectable Treatments</a></li>
+                    
+                        {% assign sorted-treatments = site.treatments | sort: 'order' %}
+                        {% for treatment in sorted-treatments %}
+      
+                         <li> <a href="{{treatment.url}}"> {{treatment.highlighted-title}} </a> </li>
+ 
+                         {% endfor %}
                 </ul>
             </li>
             <li class="main-menu"><a href="/promo"> Promo </a></li>
