@@ -901,7 +901,7 @@ section.after-header {
   .main-mobile-menu.open .mobile-sub-menu {
     visibility: visible;
     opacity: 1;
-    height: 200px;
+    height: auto;
     margin: 0;
     position: relative;
     margin: 0;
