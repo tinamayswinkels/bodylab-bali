@@ -208,11 +208,12 @@ footer a {
 
 .bg-image,
 .bg-banner {
-  background-size: cover;
-  background-position: center;
-  min-height: 40vh;
-  position: relative;
-  background-color: #eee;
+    background-size: contain;
+    background-position: center;
+    min-height: 40vh;
+    position: relative;
+    /* background-color: #ffecec; */
+    background-repeat: no-repeat;
 }
 
 .bg-treatments {
