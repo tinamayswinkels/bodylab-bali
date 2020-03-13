@@ -109,27 +109,6 @@
   image_path: /uploads/27475bd9-9873-477b-ada8-0c9f16b12f66.jpg
   video_id: TMXkrV4xmbg
 - title:
-  title-highlighted: Oxygeneo Facial
-  subtitle: 3-in-1 super facial
-  categories:
-    - Rejuvenating Facial
-    - Cleansing Facial
-  price: '800.000'
-  description_html: >-
-    <p>Oxygeneo is a 3-in-1 super facial that exfoliates, nourishes and delivers
-    skin oxygenation. Similar to microdermabrasion, the Oxygeneo exfoliates the
-    upper skin layer to remove dead cells, preparing it to absorb nutrient-rich
-    active ingredients.</p><p>CO2 bubbles are then applied to the skin, creating
-    a physiological response, that sends oxygen-rich blood to the area,
-    increasing capillary flow and skin metabolism. Expect to see younger looking
-    skin after your very first
-    treatment.</p><p><strong>BENEFITS:</strong></p><ul><li>Renews youthful
-    glow</li><li>Increases collagen production</li><li>Reduces
-    hyper-pigmentation</li><li>Improves skin cell production</li><li>Reduces the
-    appearance of wrinkles</li></ul><p>Duration: 90 min</p>
-  image_path: /uploads/20180412-IMG_0568.jpg
-  video_id: Q0L-_H9m2Xs
-- title:
   title-highlighted: Microdermabrasion Detox Oxygen Facial⁣ ⁣
   subtitle: 'TOTAL CLEANSING,GLOWING'
   categories:
@@ -152,6 +131,27 @@
     ⁣</li><li>Full pimples extraction</li><li>Oxygenation</li></ul>
   image_path: /uploads/img-1218-1.jpg
   video_id: XVwwlhoJCOM
+- title:
+  title-highlighted: Oxygeneo Facial
+  subtitle: 3-in-1 super facial
+  categories:
+    - Rejuvenating Facial
+    - Cleansing Facial
+  price: '800.000'
+  description_html: >-
+    <p>Oxygeneo is a 3-in-1 super facial that exfoliates, nourishes and delivers
+    skin oxygenation. Similar to microdermabrasion, the Oxygeneo exfoliates the
+    upper skin layer to remove dead cells, preparing it to absorb nutrient-rich
+    active ingredients.</p><p>CO2 bubbles are then applied to the skin, creating
+    a physiological response, that sends oxygen-rich blood to the area,
+    increasing capillary flow and skin metabolism. Expect to see younger looking
+    skin after your very first
+    treatment.</p><p><strong>BENEFITS:</strong></p><ul><li>Renews youthful
+    glow</li><li>Increases collagen production</li><li>Reduces
+    hyper-pigmentation</li><li>Improves skin cell production</li><li>Reduces the
+    appearance of wrinkles</li></ul><p>Duration: 90 min</p>
+  image_path: /uploads/20180412-IMG_0568.jpg
+  video_id: Q0L-_H9m2Xs
 - title:
   title-highlighted: Hollywood Carbon Peeling
   subtitle: 'Deep pores cleaning, brightening,'
@@ -200,6 +200,24 @@
   image_path: /uploads/img-0443.jpg
   video_id: AnX5a6hduv8
 - title:
+  title-highlighted: Combination Facial
+  subtitle: ULTRASOUND + COMEDO EXTRACTION
+  categories:
+    - Cleansing Facial
+  price: '650.000'
+  description_html: >-
+    <p>Body Lab Bali's signature facial combines parts of our Detox Facial and
+    Ultrasonic facial. This is one and the most effective cosmetic procedures
+    for gently cleansing of the skin. The procedure is suitable for all skin
+    types and clients with sensitive skin can expect no redness and soreness -
+    just beautifully refreshed skin.</p><p><strong>BENEFITS:
+    </strong></p><ul><li>Gently clears blackheads and pimples</li><li>Removes
+    dead skin cells</li><li>Stimulates lymphatic drainage</li><li>Improves skin
+    tone</li><li>Hydrates&nbsp; and nourishes skin</li></ul><p>Duration: 90
+    min</p>
+  image_path: /uploads/combination-facial.jpg
+  video_id: LC_BRreBM64
+- title:
   title-highlighted: Fruit Acid Peel
   subtitle: 'FRESH, GLOWING SKIN'
   categories:
@@ -219,23 +237,39 @@
   image_path: /uploads/fruit.jpg
   video_id: LC_BRreBM64
 - title:
-  title-highlighted: Combination Facial
-  subtitle: ULTRASOUND + COMEDO EXTRACTION
+  title-highlighted: ME LINE Melasma Peeling
+  subtitle: REDUCE ANY HYPERPIGMENTATION
   categories:
-    - Cleansing Facial
-  price: '650.000'
+    - Acid Peel
+  price: '750.000'
   description_html: >-
-    <p>Body Lab Bali's signature facial combines parts of our Detox Facial and
-    Ultrasonic facial. This is one and the most effective cosmetic procedures
-    for gently cleansing of the skin. The procedure is suitable for all skin
-    types and clients with sensitive skin can expect no redness and soreness -
-    just beautifully refreshed skin.</p><p><strong>BENEFITS:
-    </strong></p><ul><li>Gently clears blackheads and pimples</li><li>Removes
-    dead skin cells</li><li>Stimulates lymphatic drainage</li><li>Improves skin
-    tone</li><li>Hydrates&nbsp; and nourishes skin</li></ul><p>Duration: 90
-    min</p>
-  image_path: /uploads/combination-facial.jpg
-  video_id: LC_BRreBM64
+    <p>Having clear, dark-spots free skin is possible with ME LINE Melasma
+    Peeling. ⁣</p><p>⁣Exclusive to Body Lab Bali, ME LINE is a revolutionary
+    treatment to drastically reduce hyperpigmentation caused by different
+    factors: sun exposure, hormones, trauma, age &amp; acne.⁣</p><p>What is
+    hyperpigmentation?⁣</p><p>Hyperpigmentation occurs by increased melanin
+    levels&nbsp; in the skin due to melanocyte hyperactivity. This is a sign of
+    photo-aging due to excessive sun exposure.⁣</p><p>⁣Melasma and/or chloasma
+    are specific type of&nbsp; hyperpigmentation, which can be very challenging
+    to treat due to their tendency to recur, and ME LINE Melasma Peeling is the
+    most efficient way to treat it!⁣</p><p>⁣How does it work?⁣</p><p>The skin is
+    cleaned and degreased, after which a peeling mask is applied for the
+    recommended period of time suggested by your trained aesthetician. The
+    product will be applied as a thicker layer in the areas where dark-spots are
+    located.⁣</p><p>At the end of the treatment the peeling mask will be removed
+    with a compress and a moisturizer, a day cream and an SPF will be
+    applied.⁣</p><p>⁣The top-quality ingredients have a deep clarifying &amp;
+    anti-inflammatory effect and are designed to potentiate each, penetrating
+    the skin optimally to reach the right depth and reduce
+    hyper-pigmentation.⁣</p><p>⁣Benefits:⁣</p><p>-Excellent results in 95% of
+    hyperpigmentation cases⁣</p><p>-Safe for all skin types and acne prone
+    skin⁣</p><p>-Suitable for all pigmentation including melasma, PIH (Post
+    Inflammatory Hyperpigmentation) and sun damage.⁣</p><p>⁣</p><p>The skin may
+    become red and flaky post-treatment. The skin shedding process normally
+    begins about 48 hours after application and will last for 3-4 days. During
+    this time you will apply a 50+ SPF lotion to protect your skin.⁣</p>
+  image_path: /uploads/img-0404.jpg
+  video_id: vhAHizkzJLQ
 - title:
   title-highlighted: Hydra Facial
   subtitle: MULTI STEPS CLEANING REJUVENATION FACIAL
@@ -485,40 +519,6 @@
     the mouth⁣⁣</p><p>-Wrinkles reduction⁣</p><p>⁣</p>
   image_path: /uploads/img-0520.jpg
   video_id: l48SVX-RzEg
-- title:
-  title-highlighted: ME LINE Melasma Peeling
-  subtitle: REDUCE ANY HYPERPIGMENTATION
-  categories:
-    - Acid Peel
-  price: '750.000'
-  description_html: >-
-    <p>Having clear, dark-spots free skin is possible with ME LINE Melasma
-    Peeling. ⁣</p><p>⁣Exclusive to Body Lab Bali, ME LINE is a revolutionary
-    treatment to drastically reduce hyperpigmentation caused by different
-    factors: sun exposure, hormones, trauma, age &amp; acne.⁣</p><p>What is
-    hyperpigmentation?⁣</p><p>Hyperpigmentation occurs by increased melanin
-    levels&nbsp; in the skin due to melanocyte hyperactivity. This is a sign of
-    photo-aging due to excessive sun exposure.⁣</p><p>⁣Melasma and/or chloasma
-    are specific type of&nbsp; hyperpigmentation, which can be very challenging
-    to treat due to their tendency to recur, and ME LINE Melasma Peeling is the
-    most efficient way to treat it!⁣</p><p>⁣How does it work?⁣</p><p>The skin is
-    cleaned and degreased, after which a peeling mask is applied for the
-    recommended period of time suggested by your trained aesthetician. The
-    product will be applied as a thicker layer in the areas where dark-spots are
-    located.⁣</p><p>At the end of the treatment the peeling mask will be removed
-    with a compress and a moisturizer, a day cream and an SPF will be
-    applied.⁣</p><p>⁣The top-quality ingredients have a deep clarifying &amp;
-    anti-inflammatory effect and are designed to potentiate each, penetrating
-    the skin optimally to reach the right depth and reduce
-    hyper-pigmentation.⁣</p><p>⁣Benefits:⁣</p><p>-Excellent results in 95% of
-    hyperpigmentation cases⁣</p><p>-Safe for all skin types and acne prone
-    skin⁣</p><p>-Suitable for all pigmentation including melasma, PIH (Post
-    Inflammatory Hyperpigmentation) and sun damage.⁣</p><p>⁣</p><p>The skin may
-    become red and flaky post-treatment. The skin shedding process normally
-    begins about 48 hours after application and will last for 3-4 days. During
-    this time you will apply a 50+ SPF lotion to protect your skin.⁣</p>
-  image_path: /uploads/img-0404.jpg
-  video_id: vhAHizkzJLQ
 - title:
   title-highlighted: Microdermabrasion
   subtitle: 'GLOWING,CLEANSING,EXFOLIATION'
