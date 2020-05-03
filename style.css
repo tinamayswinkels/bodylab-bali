@@ -16,7 +16,7 @@ body {
 
 img {
   max-width: 100%;
-  height: auto;
+  height: auto;g
 }
 
 
@@ -212,7 +212,7 @@ footer a {
     background-position: center;
     min-height: 40vh;
     position: relative;
-    /* background-color: #ffecec; */
+     background-color: #ffecec; 
     background-repeat: no-repeat;
 }
 
