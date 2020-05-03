@@ -1,14 +1,27 @@
 ---
 layout: default
-body-treatments: 
+title: BodyLab Promotions May 2020
+promo-treatments: 
+    - title: test treatment 
+      image_path: image path 
+      description_html: <p> this is a short description </p>
 ---
 
 <section class="after-header">
     <div class="grid">
         
-        {% for treatment in page.treatments %}
-         <div class="bg-image col-6_sm-12" style="background-image: url({{treatment.}});"></div>
-         <h2> {{treatment.title}}</h2>
+        {% for treatment in page.body-treatments %}
+        
+         <div class="col-6_sm-12 padded"> 
+             <div class="bg-image" style="background-image: url({{treatment.image_path}});"></div>
+             <h2>  <span> {{treatment.title}}</span> </h2>
+         
+
+            {{treatment.description_html}}
+        
+            <a class="button white" href="/contact">Book Now</a>
+        
+        </div>
          
          {% endfor %}
   
