@@ -7,6 +7,10 @@ featured_image: /uploads/dsc08774-2.jpg
 
 This article was originally featured in Bali Advertiser &nbsp;by Shari
 
+&nbsp;
+
+![](/uploads/dsc08774-4.jpg){: width="1200" height="802"}
+
 **Kim Kardashian’s favourite non-invasive facelift treatment is now available in Bali at the Body Lab with the latest equipment using RF (radio-frequency) for the strongest effects for skin tightening called EndyMed, which can now treat you without pain and requires less treatments.**
 
 I went to the Body Lab and was a bit surprised that a staff member approached me with a thermal gun and pointed it at my forehead to make sure I didn’t have a fever. Negative\! No Coronavirus. I could enter.&nbsp; After checking in at reception I waited a few minutes in their chic waiting lounge looking at the posters for various treatments available. Then a therapist named Desy approached me and escorted me upstairs to a white room with a bright pink blanket on the treatment bed. Looking around, everything was clean and sterile.
