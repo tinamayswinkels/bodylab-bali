@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My experience Endymed at Body Lab bali
+title: My experience Endymed at Body Lab bali april 2020
 description: "This article was originally featured in Bali Advertiser\_\_by Shari"
 featured_image: /uploads/dsc08774-2.jpg
 ---
@@ -31,4 +31,4 @@ Immediately after treatment, the target area may look tighter and more lifted. H
 
 If you’re not pleased looking at the face in your mirror, then it’s time to change the way you look by going to Body Lab and coming home feeling happy. Wonderful services with highly trained staff. The newly renovated clinic is more spacious in a clean chic style.
 
-[...](https://www.baliadvertiser.biz/endymed-at-the-bodylab/){: target="_blank"}
+[…](https://www.baliadvertiser.biz/endymed-at-the-bodylab/){: target="_blank"}
