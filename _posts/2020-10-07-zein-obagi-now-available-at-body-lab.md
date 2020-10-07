@@ -38,6 +38,8 @@ KEY INGREDIENTS:
 
 **ZO Calming Toner**
 
+![](/uploads/obagi-calming-toner.jpg){: width="420" height="420"}
+
 *IDR 650.000,-*
 
 Calming, pH balanced toner that removes impurities and invigorates weak and sensitive skin.
@@ -53,6 +55,8 @@ KEY INGREDIENTS:
 * Sodium hyaluronate, sodium PCA, panthenol and allantoin: Exclusive blend of conditioners, moisturizers and hydrators helps soothe treated skin
 
 **ZO Exfoliating Polish**
+
+![](/uploads/obagi-exfoliating-polish.jpg){: width="369" height="369"}
 
 *IDR 1.000.000,-*
 
