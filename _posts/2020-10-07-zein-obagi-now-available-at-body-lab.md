@@ -54,6 +54,8 @@ KEY INGREDIENTS:
 * Hamamelis virginiana (witch hazel): Visibly reduces pore size&nbsp;
 * Sodium hyaluronate, sodium PCA, panthenol and allantoin: Exclusive blend of conditioners, moisturizers and hydrators helps soothe treated skin
 
+&nbsp;
+
 **ZO Exfoliating Polish**
 
 ![](/uploads/obagi-exfoliating-polish.jpg){: width="369" height="369"}
