@@ -15,7 +15,7 @@ Obagi’s skin care products are some of the most effective hyperpigmentation, a
 
 **ZO Daily Power Defense**
 
-![](/uploads/obagi-daily-power-defense-1.jpg){: width="374" height="378"}
+![](/uploads/obagi-daily-power-defense.jfif){: width="480" height="480"}
 
 *IDR 1.900.000,-*
 
