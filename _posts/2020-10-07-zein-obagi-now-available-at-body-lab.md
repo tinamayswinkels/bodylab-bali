@@ -9,7 +9,7 @@ featured_image: /ZEIN OBAGI.jpg
 
 Our skin ages for a variety of different roasons. Many of the causes of skin aging are entirely natural and cannot altered. The first signs of aging start to become apparent from around the age of 25. Fine lines appear first and wrinkles, a loss of volume and a loss of elasticity become noticeable over time. Accordingly, the best time to start using skin care products with antioxidants such as stabilized vitamin C, vitamin E, etc is right around college graduation.
 
-Obagi’s skin care products are some of the most effective hyperpigmentation, anti wrinkle , and anti aginf treatments on the market. This word-renowned brand has one of the highest rates of efficacy. Obagi system have been specifically formulated to transform the skin from within, resulting in younger, healthier looking skin. Obagi products are designed to help minimize the appearance of premature skin aging, skin damage, hyperpigmentaion, acne and sun damage and are currently available at Body Lab\!
+Obagi’s skin care products are some of the most effective hyperpigmentation, anti wrinkle , and anti aginf treatments on the market. This word-renowned brand has one of the highest rates of efficacy. Obagi system have been specifically formulated to transform the skin from within, resulting in younger, healthier looking skin. Obagi products are designed to help minimize the appearance of premature skin aging, skin damage, hyperpigmentaion, acne and sun damage and are currently available at Body Lab
 
 &nbsp;
 
