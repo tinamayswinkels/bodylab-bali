@@ -2,7 +2,7 @@
 layout: post
 title: Zein Obagi Now Available at Body Lab
 description:
-featured_image: /uploads/dsc08774-2.jpg
+featured_image: /ZEIN OBAGI.jpg
 ---
 
 &nbsp;
