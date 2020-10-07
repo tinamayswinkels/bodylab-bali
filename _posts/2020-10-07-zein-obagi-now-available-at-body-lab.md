@@ -1,11 +1,16 @@
 ---
 layout: post
 title: Zein Obagi Now Available at Body Lab
-description:
+description: >-
+  Our skin ages for a variety of different roasons. Many of the causes of skin
+  aging are entirely natural and cannot altered. The first signs of aging start
+  to become apparent from around the age of 25. Fine lines appear first and
+  wrinkles, a loss of volume and a loss of elasticity become noticeable over
+  time. Accordingly, the best time to start using skin care products with
+  antioxidants such as stabilized vitamin C, vitamin E, etc is right around
+  college graduation.
 featured_image: /ZEIN OBAGI.jpg
 ---
-
-&nbsp;
 
 Our skin ages for a variety of different roasons. Many of the causes of skin aging are entirely natural and cannot altered. The first signs of aging start to become apparent from around the age of 25. Fine lines appear first and wrinkles, a loss of volume and a loss of elasticity become noticeable over time. Accordingly, the best time to start using skin care products with antioxidants such as stabilized vitamin C, vitamin E, etc is right around college graduation.
 
