@@ -23,7 +23,7 @@
 - title:
   title-highlighted: Dermal Fillers
   subtitle: INJECTABLES
-  price: 4.200.000
+  price: 3.700.000 - 4.500.000
   description_html: >-
     <p>Dermal fillers are gel-like substances that are injected beneath the skin
     to help to diminish facial lines and restore volume and fullness in the
@@ -45,17 +45,18 @@
 - title:
   title-highlighted: Skin Boosters
   subtitle: HYDRATE AND PLUMP
-  price: 2.500.000
+  price: 2.500.000-3.300.000
   description_html: >-
     <p>Skin Boosters are micro-injections of very smooth dermal filler that
-    contains hyaluronic acid. The hyaluronic acid is soft and absorbs water and
-    brings deep skin hydration to the treated areas, giving it improved
-    firmness, elasticity, and smoothness. Pores and scars become more refined
-    and skin tone improves significantly. Typically, Skin Booster lasts for
-    about six months.&nbsp;</p><p><strong>BENEFITS:</strong></p><ul><li>Radiant
-    and hydrated skin</li><li>Improves elasticity</li><li>Reduces acne
-    scarring</li><li>Refines and firms</li><li>Reduces fine wrinkles on the
-    cheeks and face</li></ul><p>Duration: 30 min</p>
+    contains hyaluronic acid. The hyaluronic acid is a soft substance that
+    absorbs water and brings deep skin hydration to the treated areas, improving
+    its firmness, elasticity, and smoothness. Pores and scars become more
+    refined and skin tone improves significantly. Typically, Skin Booster
+    results last for about six
+    months.&nbsp;</p><p><strong>BENEFITS:</strong></p><ul><li>Radiant and
+    hydrated skin</li><li>Improves elasticity</li><li>Reduces acne
+    scarring</li><li>Refines and firms skin</li><li>Reduces fine wrinkles and
+    expression lines</li></ul><p>Duration: 30 min</p>
   image_path: /uploads/meso-v-shape--face-slimming--cheeks--double-chin-2.jpeg
   video_id: 4U5Ewt_NViw
   categories:
@@ -65,13 +66,14 @@
   subtitle: VAMPIRE FACIAL
   price: 2.500.000
   description_html: >-
-    <p>The vampire facial, also known as the Platelet-Rich Plasma(PRP facial),
+    <p>The Platelet-Rich Plasma (PRP facial), also known as the vampire facial,
     includes drawing blood from your arm, separating the platelets, and then
-    injecting them into your skin via microneedling and injections . The doctor
-    runs the needle pen over your face while squirting the platelets into the
-    mini injection holes. Since the platelets are high in growth hormone, and
-    the microneedling stimulates the skin to regenerate, the entire procedure is
-    meant to aid cell turnover.</p><p><strong>Benefits of PRP Facial
+    injecting them into your skin via microneedling injections. The doctor runs
+    the needle pen over your face while squirting the platelets into the mini
+    injection holes. Since the platelets are high in growth hormone, and the
+    microneedling stimulates the skin to regenerate, the entire procedure is
+    meant to aid cell turnover and give you a radiant, youthful
+    visage.</p><p><strong>Benefits of PRP Facial
     Rejuvenation:</strong></p><ul><li>Increases collagen
     production</li><li>Reduction of fine lines and wrinkles</li><li>Firmer,
     tighter skin</li><li>Improves moisture retention</li><li>Enhances skin tone
@@ -91,15 +93,14 @@
   description_html: >-
     <p>PRP (platelet-rich plasma) therapy for hair loss is a three-step medical
     treatment in which a person&rsquo;s blood is drawn, processed, and then
-    injected into their scalp⁠</p><p>PRP injections trigger natural hair growth
+    injected into their scalp⁠.</p><p>PRP injections trigger natural hair growth
     and maintain its strength by increasing&nbsp; both the blood supply to the
     hair follicle and the thickness of the hair shaft.⁠</p><p>⁠For more severe
     cases, this effective approach can be combined with other hair loss
-    procedures or medications.&nbsp;</p><p>⁠PRP is BEST solution for hair loss
-    and to boost healthy &amp; strong hair growth
-    .</p><p>⁠Benefits:</p><p>&bull;prevention of hair
-    loss,</p><p>&bull;enhancement of the growth of new hair</p><p>&bull;stronger
-    and shinier hair</p>
+    procedures or medications.&nbsp;</p><p>⁠PRP is the BEST solution for hair
+    loss and to boost healthy &amp; strong hair growth
+    .</p><p>⁠Benefits:</p><ul><li>Prevention of hair loss</li><li>Enhancement of
+    new hair growth</li><li>Stronger and shinier hair</li></ul>
   image_path: /uploads/prp-hair-growth.jpg
   video_id: uHbbdybUA-0
   categories:
@@ -108,7 +109,7 @@
 - title:
   title-highlighted: Meso V shape
   subtitle: FAT BURNER
-  price: '550.000'
+  price: '700.000'
   description_html: >-
     <p>Meso V shape is our signature treatment to help you get rid of unwanted
     fat tissue in your face and highlight your best features!</p><p>Our unique
@@ -129,3 +130,85 @@
   categories:
     - Injectable
     - Face Lifting
+- title:
+  title-highlighted: Meso GLOW
+  subtitle: 'LIFTING,GLOWING'
+  price: 1.700.000
+  description_html: >-
+    <p>⠀Meso Glow is a form of mesotherapy treatment where small amounts of
+    botox and different cocktails of antioxidants and amino acids are injected
+    in specific areas that will result in facial rejuvenation, skin tightening,
+    and a deep face lifting effect.</p><p>⠀Meso Glow is an innovative treatment
+    consisting of a series of micro-injections into the mid-layers of the skin
+    to nourish and revitalise it.</p><p>This innovative process can be used to
+    cover the entire facial surface and is particularly useful in areas where
+    normal injections are not possible such as the upper and lower eyelids.
+    ⠀</p><p>Benefits:</p><ul><li>&nbsp;Boost elasticity and firmness to the
+    skin</li><li>Revitalizes &amp;
+    nourishes</li><li>*Skin-rejuvenation</li><li>Illuminating skin
+    tone</li><li>Prevents skin ageing</li><li>Tightening</li><li>&nbsp;Improves
+    skin softness</li><li>Moisture and balances skin tone</li><li>Collagen &amp;
+    Elastin booster</li></ul>
+  image_path: /uploads/img-2037.jpg
+  video_id: v=xwfVVmfh-ag
+  categories:
+    - Injectable
+    - Botox
+    - Face Lifting
+- title:
+  title-highlighted: Meso dermaheal ANTI HAIR LOSE
+  subtitle: with EPN microneedling
+  price: '900.000'
+  description_html: >-
+    <p>EPN is the abbreviation of Electroporation Needle. It is a therapy to
+    rejuvenate the skin using micro needles stimulating the mesoderm (middle
+    layer of skin) without any scarring and boosting the natural skin healing
+    process and the collagen rearranging process. It is the newest innovative
+    drug delivering device to deliver the drug directly to the skin, to give
+    appropriate stimulation to the area without damage of the skin.</p><p>Meso
+    dermaheal anti hair lose with EPN microneedling</p><p>DermaHeal HL is a
+    powerful anti-hair loss prevention by mesotherapy. It promotes hair regrowth
+    and also does scalp care. It prevents hair loss and alopecia which is a
+    common problem in aged men and women. It increases hair growth by
+    revitalizing the hair follicles and restoring and improving blood
+    circulation. The hair thickness and fullness is also increased and also it
+    provides moisture and nourishes to hair and scalp.</p><p>Dermaheal HL is a
+    hair serum with a unique composition for anti-hair loss. It contains 56
+    substances including 13 vitamins (vitamin A, B1, K, etc.), 5 minerals and 4
+    nucleic acids.</p><p>Principle of EPN pen :</p><p>When injecting microneedle
+    electrodes 0-2.0mm depth below the skin surface ,it induces precise drug
+    delivery throughout pores&nbsp; .Microneedle electrodes induces
+    electroporation instantly to deliver a drug throughout mcro-pores on the
+    dermal fibroblast membranes.</p><p>Benefits of Dermaheal Meso anti hair lose
+    with EPN microneedling :</p><ul><li>prevention of hair
+    loss</li><li>enhancement of the growth of new hair</li></ul>
+  image_path: /uploads/20190810-img-8137.jpg
+  video_id: CgcB70iSjx0
+  categories:
+    - Injectable
+- title:
+  title-highlighted: Super Multi-Vitamin Beauty Cocktail
+  subtitle: IV treatment
+  price: '900.000'
+  description_html: >-
+    <p>Introducing: Super Multi-Vitamin Beauty Cocktail IV treatment.</p><p>At
+    BodyLab Bali we want you to support your beauty from inside out!</p><p>We
+    use CernevitTM as a powerful IV infusion to boost your system with a potent
+    cocktail of multivitamins.</p><p>CernevitTM contains a mixture of 12
+    water-soluble and fat-soluble vitamins combined with mixed micelles, that
+    when absorbed via an intravenous route, yields amazing benefits for your
+    skin, hair, nails and immense system.</p><p>Active ingredients
+    :</p><p>Retinol; Colecalciferol; Alpha tocopheryl acetate; Ascorbic acid;
+    Thiamine; Riboflavine sodium phosphate; Pyridoxine hydrochloride;
+    Cyanocobalamin; Folic acid; Dexpanthenol; Biotin;
+    Nicotinamide</p><p>Benefits:&nbsp;</p><p>&bull; Improves the health of skin
+    damaged by acne, hyperpigmentation due to UV light exposure and other
+    inflammatory processes by stimulating collagen production and maintaining
+    skin moisture.</p><p>&bull; Anti aging&nbsp;</p><p>&bull; Improve skin, hair
+    and nails quality&nbsp;</p><p>&bull; Improve immunity system</p><p>&bull;
+    Cure hangover&nbsp;</p><p>We recommend to do it once a week.For best results
+    up to 5 sessions.</p>
+  image_path: /uploads/20190810-img-8184-1.jpg
+  video_id: x8pfmABmIVg
+  categories:
+    - Injectable
