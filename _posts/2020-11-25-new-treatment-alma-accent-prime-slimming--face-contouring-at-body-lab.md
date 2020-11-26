@@ -8,7 +8,7 @@ description: >-
   for the belly area. It is also the best treatment for contouring the face as
   it is using powerful RF energy which will tighten, contour, and reduce visible
   lines and wrinkles.
-featured_image:
+featured_image: /uploads/Alma Accent Prime Sliming(1).JPG
 ---
 
 ### What is Alma Accent Prime Slimming & Face Contouring?
