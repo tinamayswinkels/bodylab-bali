@@ -29,7 +29,7 @@ The beauty of radio-frequency is that it is suitable for most people - the depth
 
 All energy based bio-stimulative treatments naturally require a course of several sessions (from five to twelve) and will induce benefits gradually over some months. Look at it as similar to&nbsp; joining a skin gym - great results are not achieved in one singular session.
 
-Key benefits of EndyMed<sup>&trade;</sup> can include:
+Key benefits of Radio-Frequency can include:
 
 * A non-invasive procedure.
 * No damage to surrounding tissues.
@@ -40,6 +40,6 @@ Key benefits of EndyMed<sup>&trade;</sup> can include:
 
 &nbsp;
 
-**The Body Lab is committed to helping you achieve all of your beauty goals. **
+\*\*The Body Lab is committed to helping you achieve all of your beauty goals. \*\*
 
 **Visit us for a free consultation.**
