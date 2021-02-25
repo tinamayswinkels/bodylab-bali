@@ -5,8 +5,6 @@ description: Benefits of hyaluronic acid
 featured_image: /uploads/screen-shot-2021-02-25-at-4-35-50-pm.png
 ---
 
-&nbsp;
-
 Hyaluronic acid is a naturally occurring substance in our bodies that miraculously holds 1000x its weight in water & attracts moisture to our skin.<br>Unfortunately, as we age, hyaluronic production diminishes. When used topically, it is one of the most beneficial ingredients in skincare because it works to keep EVERY aspect of your skin functioning properly.<br>Hyaluronic acid can also be injected as a filler into your skin by a trained licensed professional to correct volume loss, to fill fine lines and wrinkles & reduce sagging in the skin.
 
 Facts:
