@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hyaluronic Acid
-description: Benefits of hyaluronic acid and skin boosters
+description: Benefits of Hyaluronic Acid and Skin Boosters
 featured_image: /uploads/screen-shot-2021-02-25-at-4-35-50-pm.png
 ---
 
