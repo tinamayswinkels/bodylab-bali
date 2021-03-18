@@ -7,56 +7,57 @@ description: >-
   trained therapists are providing the safest procedures and imlpementing the
   latest technologies in the beauty industry.
 ---
-<section class="padded bg-banner grid-middle after-header" style="background-image:url('images/elena-deodato.jpg');background-position: top;">
-</section>
 <section class="editable grid after-header">
     <div class="col-6_sm-12 padded featured">
       <h2>&nbsp;</h2>
-      <h2>Online Consultation - Frequently Asked Questions</h2>
+      <h2>Online Consultation - FAQ</h2>
       <p>Hello! Welcome to the Body Lab. My name is Elena and I will be your assistant.
         May we kindly have the following information:
       </p>
-      <h4>&nbsp;</h4>
+      <section class="padded bg-banner grid-middle after-header" style="background-image:url('images/elena-deodato.jpg');background-position: top;">
+      </section>
     </div>
     <div class="col-6_sm-12 padded light">
-      <form action="https://formspree.io/f/xoqporva" method="POST">
+      <form action="https://formspree.io/bodylab.consultation@gmail.com" method="POST">
         <p>&nbsp;</p>
           <label for="name">
-            Name
+            Name*
           </label>
-            <input id="name" type="text" placeholder="Name" name="name" />
+            <input id="name" type="text" placeholder="Name" name="name" required/>
           <label for="age">
-            Age
+            Age*
           </label>
-            <input id="age" type="number" placeholder="Age" name="age" />
+            <input id="age" type="number" placeholder="Age" name="age" required/>
           <label for="nationality">
-            Nationality
+            Nationality*
           </label>
-            <input id="nationality" type="text" placeholder="Nationality" name="nationality" />
+            <input id="nationality" type="text" placeholder="Nationality" name="nationality" required/>
           <label for="allergy">
-            Any Allergies
+            Any Allergies*
           </label>
-            <input id="allergy" type="text" placeholder="Allergies" name="allergy" />
+            <input id="allergy" type="text" placeholder="Allergies" name="allergy" required />
           <label for="pregnant">
-            Are you pregnant or Breastfeeding?
+            Are you pregnant or Breastfeeding?*
           </label>
-            <select name="pregnant" id="pregnant">
-              <option value="Yes">Yes</option>
-              <option value="No" selected>No</option>
-            </select>
+          <br>
+          <select name="pregnant" id="pregnant" required>
+            <option value="Yes">Yes</option>
+            <option value="No" selected>No</option>
+          </select>
           <label for="stay">
-            How Long are you planning to stay in Bali?
+            How Long are you planning to stay in Bali?*
           </label>
-            <input id="stay" type="text" placeholder="e.g (1 week, 1 month)" name="stay" />
+            <input id="stay" type="text" placeholder="e.g (1 week, 1 month)" name="stay" required />
           <label for="email">
-            Your Email
+            Your Email*
           </label> 
-            <input id="email" type="email" placeholder="Email" name="_replyto" /> 
+            <input id="email" type="email" placeholder="Email" name="_replyto" required /> 
           <label for="treatment">
             How may I help you today?<br>
             Please select an option below to start your journey:
           </label>
-          <select name="treatment" id="treatment">
+          <br>
+          <select name="treatment" id="treatment" required>
             <option value="" selected hidden>Choose</option>
             <option value="Body Treatment">Body Treatment</option>
             <option value="Face Treatment">Face Treatment</option>
@@ -65,7 +66,9 @@ description: >-
           <label for="concern">
             May I know your main concern
           </label>
-          <select name="concern" id="concern">
+          <br>
+          <select name="concern" id="concern" required>
+            <option value="" selected hidden>Choose</option>
             <optgroup label="Body">
                 <option value="Body - Fat Reduction">Fat Reduction</option>
                 <option value="Body - Cellulite Reduction">Cellulite Reduction</option>
