@@ -9,14 +9,14 @@ description: >-
 ---
 <section class="editable grid after-header">
     <div class="col-6_sm-12 padded featured">
-      <h2><span>Online Consultation - FAQ</span></h2>
+      <h2 style="text-align: center;"><span>Online Consultation - FAQ</span></h2>
       <img width="2436" height="1625" src="/images/elena-deodato.jpg" />
-      <p>Hello! Welcome to the Body Lab. My name is Elena and I will be your assistant.
+      <p style="margin-top: 7px;">Hello! Welcome to the Body Lab. My name is Elena and I will be your assistant.
         May we kindly have the following information:
       </p>
     </div>
     <div class="col-6_sm-12 padded light">
-      <form action="https://formspree.io/f/xoqporva" method="POST">
+      <form action="/thanks" method="POST">
         <p>&nbsp;</p>
           <label for="name">
             Name*
@@ -97,9 +97,8 @@ description: >-
           </label>
           <textarea name="main_objectives" id="main_objectives" placeholder="I would like to..."></textarea> 
           <input class="button" type="submit" value="Submit" />
-        <!--base32-c9gq6t9k68pk8cb16tkq8rkbcdppedhjexnkad1hdmv6mx1k6hhpww9j61u6peb3dtr3ce3qegr2urk1edjk6cg-base32-->
-        <!-- <input style="display:none" type="text" name="_gotcha" />  -->
-        <!-- <input type="hidden" value="/thanks" name="_next" /> -->
+          <input type="hidden" name="_to" value="bodylab.consultation@gmail.com">
+          <input type="text" name="_gotcha" style="display: none;">
       </form>
     </div>
   </section>
