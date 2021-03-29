@@ -16,7 +16,7 @@ description: >-
       </p>
     </div>
     <div class="col-6_sm-12 padded light">
-      <form action="/thanks" method="POST">
+      <form action="/thanks" method="POST" enctype="multipart/form-data">
         <p>&nbsp;</p>
           <label for="name">
             Name*
@@ -96,6 +96,8 @@ description: >-
             What are the main objectives you are trying to achieve through these treatments?
           </label>
           <textarea name="main_objectives" id="main_objectives" placeholder="I would like to..."></textarea> 
+          <label for="photo">Please attach a photo of your area or areas of concern.</label><br>
+          <input type="file" name="photo" id="photo">
           <input class="button" type="submit" value="Submit" />
           <input type="hidden" name="_to" value="bodylab.consultation@gmail.com">
           <input type="text" name="_gotcha" style="display: none;">
