@@ -57,6 +57,6 @@ Temporary side effects for the areas that are treated may include:
 
 Side effects may persist for a few days to a few weeks after treatment. Your doctor may recommend that you take an analgesic medication to relieve pain or other discomfort.
 
-**The Body Lab is committed to helping you achieve all of your beauty goals. **
+\*\*The Body Lab is committed to helping you achieve all of your beauty goals. \*\*
 
 **Visit us for a free consultation to see if you are a good candidate for this procedure.**
