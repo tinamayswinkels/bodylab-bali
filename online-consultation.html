@@ -16,7 +16,11 @@ description: >-
       </p>
     </div>
     <div class="col-6_sm-12 padded light">
-      <form action="/thanks" method="POST" enctype="multipart/form-data">
+      <form 
+        action="https://formspree.io/f/mayawrgd" 
+        method="POST" 
+        enctype="multipart/form-data"
+      >
         <p>&nbsp;</p>
           <label for="name">
             Name*
@@ -97,9 +101,9 @@ description: >-
           </label>
           <textarea name="main_objectives" id="main_objectives" placeholder="I would like to..."></textarea> 
           <label for="photo">Please attach a photo of your area or areas of concern.</label><br>
-          <input type="file" name="photo" id="photo">
+          <input type="file" name="photo" id="photo" accept="image/png, image/jpeg">
           <input class="button" type="submit" value="Submit" />
-          <input type="hidden" name="_to" value="bodylab.consultation@gmail.com">
+          <!-- <input type="hidden" name="_to" value="bodylab.consultation@gmail.com"> -->
           <input type="text" name="_gotcha" style="display: none;">
       </form>
     </div>
