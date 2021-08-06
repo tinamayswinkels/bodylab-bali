@@ -28,7 +28,7 @@ h3 {
   font-family: 'Poppins', sans-serif;
 }
 
-h2 {
+h1, h2 {
   font-size: 2rem;
   line-height: 1.2;
 }
