@@ -1,10 +1,7 @@
 ---
 layout: default
 title: BodyLab Promotions August 2021
-promo-treatments:
- - title: 
-   image_path: 
-   description_html:
+treatment_image: 
 ---
 
 <section class="after-header padded">
@@ -13,20 +10,19 @@ promo-treatments:
     </h1>
     <div class="grid">
         
-        {% for treatment in page.promo-treatments %}
-        
          <div class="col-6_sm-12 padded"> 
-             <div class="bg-image" style="background-image: url({{treatment.image_path}}); margin-bottom: 2rem;"></div>
-             <h2>  <span> {{treatment.title}}</span> </h2>
+             <div class="bg-image" style="background-image: url({{treatment_image}}); margin-bottom: 2rem;"></div>
+        </div>
+         <div class="col-6_sm-12 padded"> 
+             <div class="bg-image" style="background-image: url({{treatment_image}}); margin-bottom: 2rem;"></div>
+             <h2>  <span> August Promos </span> </h2>
          
 
-            {{ treatment.description_html }}
+            <p> You will get extra discount 5%* if you come with
+      one of your friend to our clinic </p>
         
             <a class="button white" href="/contact">Book Now</a>
         
         </div>
-         
-         {% endfor %}
-  
     </div>
 </section>
