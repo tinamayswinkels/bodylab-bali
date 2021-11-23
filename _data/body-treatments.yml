@@ -269,28 +269,23 @@
     anti cellulite body wrapping or presotherapy detox hot body wrap.</p>
   image_path: /uploads/img-0241-1.jpg
   video_id: pW2GNrZbBY
-- title: Pressotherapy
-  title-highlighted: Pressotherapy infared body wrap
-  subtitle: DETOXIFICATION AND LYMPH DRAINAGE
+- title: Brazilian-Butt
+  title-highlighted: Brazilian Butt
+  subtitle: LIFT, TONE + SMOOTH
   categories:
-    - Lymphatic Drainage
-    - Slimming
-    - Skin Tightening
-  price: '800.000'
+    - Muscle Tone
+    - Cellulite
+  price: '700.000'
   description_html: >-
-    <p>Pressotherapy detox body wrap is an exclusive detoxifying treatment that
-    encourages lymphatic drainage. Because it flushes the body of toxins and
-    broken fat cells, we recommend this therapy in conjunction with our Fat
-    Freezing and 3D Slimming treatments.</p><p>Pressotherapy combines lymphatic
-    vessels pressure with high temperatures of up to 60 degrees to tone, improve
-    circulation and increase lymphatic
-    drainage.</p><p><strong>BENEFITS:</strong></p><ul><li>Slimming and
-    detoxifying</li><li>Reduces water retention and bloating</li><li>Diminishes
-    pain and swelling after long flights</li><li>Reduces
-    cellulite</li><li>Improves body contour</li><li>Tones the
-    skin</li></ul><p>Duration: 60 min</p>
-  image_path: /uploads/soins-corps-pressotherapie.jpg
-  video_id: zBolZguJ-fE
+    <p>Brazilian Butt is a signature treatment that combines muscle stimulation
+    and vacuum roller massage to achieve a tight and toned butt. This popular
+    treatment uses electrical impulses to &ldquo;work&rdquo; the gluteal
+    muscles, and vacuum roller to fight cellulite and sagging
+    skin.</p><p><strong>BENEFITS:</strong></p><ul><li>Builds the
+    muscle&nbsp;</li><li>Lifts buttocks&nbsp;</li><li>Reduces
+    cellulite</li><li>Tightens sagging skin</li></ul><p>Duration: 50 min</p>
+  image_path: /uploads/brazzilian-butt.jpg
+  video_id: qY7St8z4hjw
 - title: Body-Wrapping
   title-highlighted: Anti Cellulite Body Wrapping
   subtitle: DETOX,REDUCE CELLULITE,SLIMMING,FIRMING
@@ -322,23 +317,28 @@
     treatments. Available only at Body Lab.</p>
   image_path: /uploads/dsc08839.jpg
   video_id: iFvgGY1ZEAs
-- title: Brazilian-Butt
-  title-highlighted: Brazilian Butt
-  subtitle: LIFT, TONE + SMOOTH
+- title: Pressotherapy
+  title-highlighted: Pressotherapy infared body wrap
+  subtitle: DETOXIFICATION AND LYMPH DRAINAGE
   categories:
-    - Muscle Tone
-    - Cellulite
-  price: '700.000'
+    - Lymphatic Drainage
+    - Slimming
+    - Skin Tightening
+  price: '800.000'
   description_html: >-
-    <p>Brazilian Butt is a signature treatment that combines muscle stimulation
-    and vacuum roller massage to achieve a tight and toned butt. This popular
-    treatment uses electrical impulses to &ldquo;work&rdquo; the gluteal
-    muscles, and vacuum roller to fight cellulite and sagging
-    skin.</p><p><strong>BENEFITS:</strong></p><ul><li>Builds the
-    muscle&nbsp;</li><li>Lifts buttocks&nbsp;</li><li>Reduces
-    cellulite</li><li>Tightens sagging skin</li></ul><p>Duration: 50 min</p>
-  image_path: /uploads/brazzilian-butt.jpg
-  video_id: qY7St8z4hjw
+    <p>Pressotherapy detox body wrap is an exclusive detoxifying treatment that
+    encourages lymphatic drainage. Because it flushes the body of toxins and
+    broken fat cells, we recommend this therapy in conjunction with our Fat
+    Freezing and 3D Slimming treatments.</p><p>Pressotherapy combines lymphatic
+    vessels pressure with high temperatures of up to 60 degrees to tone, improve
+    circulation and increase lymphatic
+    drainage.</p><p><strong>BENEFITS:</strong></p><ul><li>Slimming and
+    detoxifying</li><li>Reduces water retention and bloating</li><li>Diminishes
+    pain and swelling after long flights</li><li>Reduces
+    cellulite</li><li>Improves body contour</li><li>Tones the
+    skin</li></ul><p>Duration: 60 min</p>
+  image_path: /uploads/soins-corps-pressotherapie.jpg
+  video_id: zBolZguJ-fE
 - title:
   title-highlighted: Xlase Plus Diode Laser
   subtitle: PERMANET HAIR REMOVAL
