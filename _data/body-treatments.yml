@@ -1,24 +1,3 @@
-- title: fat-freezing
-  title-highlighted: Fat Freezing/Cool Sculpting
-  subtitle: non-surgical permanent fat removal
-  categories:
-    - Slimming
-    - Cellulite
-  price: 6.500.000 for 4 cups
-  description_html: >-
-    <p>Fat freezing is a non-invasive alternative to liposuction. Through the
-    controlled application of cooling cups with temperature ranging from +5 to
-    -11 &deg;C, the procedure reduces fat cell volume by up to 30%</p><p>By the
-    end of the freezing treatment, the targeted fat cells gradually die off and
-    are expelled through the body&rsquo;s natural elimination process. For this
-    reason, the end result can be seen up to three months later. Fat Freezing
-    sessions can be done only once per month. This treatment is recommended in
-    conjunction with
-    Pressotherapy.&nbsp;</p><p><strong>BENEFITS:</strong></p><ul><li>Reduction
-    of fat tissue</li><li>Body shaping and contouring</li><li>Skin tightening
-    and toning</li><li>Cellulite reduction</li></ul><p>Duration: 45 min</p>
-  image_path: /uploads/33590222-de0b-4934-a908-b7a9d5d7686f-1.jpeg
-  video_id: XisjNsHDQQQ
 - title:
   title-highlighted: Cristal Cryolipolisis
   subtitle: Permanent Fat Removal
@@ -51,6 +30,32 @@
     increase in self-esteem due to an improvement in their appearance.</li></ul>
   image_path: /uploads/ice-teste-126-2-olts9opo9yyb9oisceabt1lcvw36b44es2y79vtfls.jpg
   video_id:
+- title:
+  title-highlighted: Alma Accent Prime Sliming
+  subtitle: Slimming/Instant fat removal/Skin tightening
+  categories:
+    - Slimming
+    - Lymphatic Drainage
+  price: 2.000.000
+  description_html: >-
+    <p>Target Fat Cells⁣Cold Shear Wave &amp; Hot Ultrasound⁣⁣</p><p>What is
+    Alma Accent Prime? ⁣Accent Prime is a system for ultrasound and radio
+    frequency modeling of the body .⁣Accent Prime is the latest body shaping
+    system of Alma Lasers, which ranks among the top 10 innovative systems in
+    2020⁣⁣</p><p>The Accent Prime system makes it possible to treat the face and
+    body, thanks to the combination of two technologies - RF waves with the
+    highest safe power and ultrasonic impulses. This wave is called Shear wave
+    which allows to selectively target fat cells, while leaving surrounding
+    tissue unharmed. ⁣The shear wave vibrations disrupt fat cell membranes,
+    leading to gradual breakdown and release of stored fat. Damaged fat cells
+    are then disposed of the body through the lymphatic system. As a result of
+    these processes it becomes possible to form a firmer and well-sculptured
+    form of the body⁣⁣</p><p>Benefits:</p><ul><li>Reduce 2-6 cm per session
+    ⁣*</li><li>Permanent fat removal ⁣</li><li>Skin tightening ⁣</li><li>Body
+    shaping ⁣</li><li>Immediate results⁣</li></ul><p><em>*Result may vary
+    according to the individual's constitution</em></p>
+  image_path: /uploads/alma-1.jpeg
+  video_id: hX1sQZS2mGw
 - title: Endymed
   title-highlighted: Endymed Skin Tightening
   subtitle: PERMAMENT SKIN TIGHTENING
@@ -90,32 +95,27 @@
     experienced team!</p>
   image_path: /uploads/dsc08723-1.jpg
   video_id: TRHkbeomMSU
-- title:
-  title-highlighted: Alma Accent Prime Sliming
-  subtitle: Slimming/Instant fat removal/Skin tightening
+- title: Fat Freezing
+  title-highlighted: Fat Freezing/Cool Sculpting
+  subtitle: non-surgical permanent fat removal
   categories:
     - Slimming
-    - Lymphatic Drainage
-  price: 2.000.000
+    - Cellulite
+  price: 6.500.000 for 4 cups
   description_html: >-
-    <p>Target Fat Cells⁣Cold Shear Wave &amp; Hot Ultrasound⁣⁣</p><p>What is
-    Alma Accent Prime? ⁣Accent Prime is a system for ultrasound and radio
-    frequency modeling of the body .⁣Accent Prime is the latest body shaping
-    system of Alma Lasers, which ranks among the top 10 innovative systems in
-    2020⁣⁣</p><p>The Accent Prime system makes it possible to treat the face and
-    body, thanks to the combination of two technologies - RF waves with the
-    highest safe power and ultrasonic impulses. This wave is called Shear wave
-    which allows to selectively target fat cells, while leaving surrounding
-    tissue unharmed. ⁣The shear wave vibrations disrupt fat cell membranes,
-    leading to gradual breakdown and release of stored fat. Damaged fat cells
-    are then disposed of the body through the lymphatic system. As a result of
-    these processes it becomes possible to form a firmer and well-sculptured
-    form of the body⁣⁣</p><p>Benefits:</p><ul><li>Reduce 2-6 cm per session
-    ⁣*</li><li>Permanent fat removal ⁣</li><li>Skin tightening ⁣</li><li>Body
-    shaping ⁣</li><li>Immediate results⁣</li></ul><p><em>*Result may vary
-    according to the individual's constitution</em></p>
-  image_path: /uploads/alma-1.jpeg
-  video_id: hX1sQZS2mGw
+    <p>Fat freezing is a non-invasive alternative to liposuction. Through the
+    controlled application of cooling cups with temperature ranging from +5 to
+    -11 &deg;C, the procedure reduces fat cell volume by up to 30%</p><p>By the
+    end of the freezing treatment, the targeted fat cells gradually die off and
+    are expelled through the body&rsquo;s natural elimination process. For this
+    reason, the end result can be seen up to three months later. Fat Freezing
+    sessions can be done only once per month. This treatment is recommended in
+    conjunction with
+    Pressotherapy.&nbsp;</p><p><strong>BENEFITS:</strong></p><ul><li>Reduction
+    of fat tissue</li><li>Body shaping and contouring</li><li>Skin tightening
+    and toning</li><li>Cellulite reduction</li></ul><p>Duration: 45 min</p>
+  image_path: /uploads/33590222-de0b-4934-a908-b7a9d5d7686f-1.jpeg
+  video_id: XisjNsHDQQQ
 - title: express-super-slimming
   title-highlighted: Express Super Slimming
   subtitle: PERMANENT FAT REMOVAL
@@ -135,26 +135,6 @@
     tone</li><li>Lymphatic drainage</li></ul><p>Duration: 120 min</p>
   image_path: /uploads/express_super_slimming.jpeg
   video_id: ZiOvsrCudrs
-- title: 3d-slimming
-  title-highlighted: 3D Slimming
-  subtitle: TARGET PROBLEM AREAS
-  categories:
-    - Slimming
-  price: 1.000.000
-  description_html: >-
-    <p>3D Slimming uses unique ultrasound cavitation technology, combined with
-    vacuum roller infrared function, to break down fat and smooth the skin. Once
-    the fat cells are broken down, your lymphatic system picks up this waste
-    material (the broken fat cells) and essentially flushes it from your body.
-    The results are visible immediately after treatment but full elimination of
-    these fat cells can take up to seven days. This treatment is best done once
-    a week in conjunction with
-    Pressotherapy.</p><p><strong>BENEFITS:</strong></p><ul><li>Fat
-    blasting</li><li>Body shaping and contouring</li><li>Skin tightening and
-    toning</li><li>Cellulite reduction</li><li>Non
-    invasive</li></ul><p>Duration: 90 min</p>
-  image_path: /uploads/shutterstock-599775113.jpg
-  video_id: h6_R0jnADak
 - title:
   title-highlighted: Transion Body Contouring
   subtitle: Abs & Arms or Thighs & Abs
