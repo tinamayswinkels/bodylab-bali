@@ -95,6 +95,25 @@
     experienced team!</p>
   image_path: /uploads/dsc08723-1.jpg
   video_id: TRHkbeomMSU
+- title: Express Super Slimming
+  title-highlighted: Express Super Slimming
+  subtitle: PERMANENT FAT REMOVAL
+  categories:
+    - Slimming
+    - Cellulite
+    - Muscle Tone
+  price: 1.400.000
+  description_html: >-
+    <p>Express Super Slimming with the wonderful Italian machine Vip Lipo Line
+    Duo which uses super powerful fat cavitation and transion lymphatic drainage
+    technologies, combined with potent muscle stimulation.</p><p>We guarantee
+    you instant results of minus 2-6 cm right after treatment. For best results
+    we recommend to commit to 6 treatments, once a
+    week.</p><p><strong>BENEFITS:</strong></p><ul><li>Visible cellulite and fat
+    pockets reduction</li><li>Figure re-shaping</li><li>Muscle
+    tone</li><li>Lymphatic drainage</li></ul><p>Duration: 120 min</p>
+  image_path: /uploads/express_super_slimming.jpeg
+  video_id: ZiOvsrCudrs
 - title: Fat Freezing
   title-highlighted: Fat Freezing/Cool Sculpting
   subtitle: non-surgical permanent fat removal
@@ -116,25 +135,6 @@
     and toning</li><li>Cellulite reduction</li></ul><p>Duration: 45 min</p>
   image_path: /uploads/33590222-de0b-4934-a908-b7a9d5d7686f-1.jpeg
   video_id: XisjNsHDQQQ
-- title: Express Super Slimming
-  title-highlighted: Express Super Slimming
-  subtitle: PERMANENT FAT REMOVAL
-  categories:
-    - Slimming
-    - Cellulite
-    - Muscle Tone
-  price: 1.400.000
-  description_html: >-
-    <p>Express Super Slimming with the wonderful Italian machine Vip Lipo Line
-    Duo which uses super powerful fat cavitation and transion lymphatic drainage
-    technologies, combined with potent muscle stimulation.</p><p>We guarantee
-    you instant results of minus 2-6 cm right after treatment. For best results
-    we recommend to commit to 6 treatments, once a
-    week.</p><p><strong>BENEFITS:</strong></p><ul><li>Visible cellulite and fat
-    pockets reduction</li><li>Figure re-shaping</li><li>Muscle
-    tone</li><li>Lymphatic drainage</li></ul><p>Duration: 120 min</p>
-  image_path: /uploads/express_super_slimming.jpeg
-  video_id: ZiOvsrCudrs
 - title:
   title-highlighted: Transion Body Contouring
   subtitle: Abs & Arms or Thighs & Abs
@@ -179,7 +179,7 @@
     toxins&nbsp;</li></ul><p>Duration: 60 min</p>
   image_path: /uploads/20190609-img-7058.jpg
   video_id: Cmag6myPNzs
-- title: pressotherapy
+- title: Pressotherapy
   title-highlighted: Pressotherapy infared body wrap
   subtitle: DETOXIFICATION AND LYMPH DRAINAGE
   categories:
