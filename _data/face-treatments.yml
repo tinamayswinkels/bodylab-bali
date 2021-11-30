@@ -244,6 +244,25 @@
   image_path: /uploads/dybra.jpg
   video_id: Yp2LA0OUjng
 - title:
+  title-highlighted: Fat Freezing Double Chin
+  subtitle: Permanent Fat Removal for Double Chin
+  categories:
+    - Fat reduction
+  price:
+  description_html: >-
+    <p>Fat freezing is a non-invasive alternative to liposuction. Through the
+    controlled application of cooling cups with temperature ranging from +5 to
+    -11 &deg;C, the procedure reduces fat cell volume by up to 30%.</p><p>By the
+    end of the freezing treatment, the targeted fat cells gradually die off and
+    are expelled through the body&rsquo;s natural elimination process. For this
+    reason, the end result can be seen up to three months later. Fat Freezing
+    sessions can be done only once per month. This treatment is recommended in
+    conjunction with Pressotherapy.</p><p>BENEFITS:</p><ul><li>Reduction of fat
+    tissue</li><li>Chin shaping and contouring</li><li>Skin tightening and
+    toning</li></ul>
+  image_path: /uploads/fat-freezing-double-chin.jpg
+  video_id:
+- title:
   title-highlighted: Microdermabrasion
   subtitle: GLOWING/CLEANSING/EXFOLIATION
   categories:
@@ -564,22 +583,3 @@
     2-4 times per week.</p>
   image_path: /uploads/img-9904.jpg
   video_id: Lr3ucA_hLSk
-- title:
-  title-highlighted: Fat Freezing Double Chin
-  subtitle: Permanent Fat Removal for Double Chin
-  categories:
-    - Fat reduction
-  price:
-  description_html: >-
-    <p>Fat freezing is a non-invasive alternative to liposuction. Through the
-    controlled application of cooling cups with temperature ranging from +5 to
-    -11 &deg;C, the procedure reduces fat cell volume by up to 30%.</p><p>By the
-    end of the freezing treatment, the targeted fat cells gradually die off and
-    are expelled through the body&rsquo;s natural elimination process. For this
-    reason, the end result can be seen up to three months later. Fat Freezing
-    sessions can be done only once per month. This treatment is recommended in
-    conjunction with Pressotherapy.</p><p>BENEFITS:</p><ul><li>Reduction of fat
-    tissue</li><li>Chin shaping and contouring</li><li>Skin tightening and
-    toning</li></ul>
-  image_path: /uploads/fat-freezing-double-chin.jpg
-  video_id:
