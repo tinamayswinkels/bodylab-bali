@@ -1,7 +1,7 @@
 - title:
   title-highlighted: Profhilo
   subtitle: SKIN REJUVENATION
-  price: 7.000.000
+  price:
   description_html: >-
     <p>Profhilo is an anti-aging injectable treatment that contains hyaluronic
     acid for skin rejuvenation, hydration and elasticity. Profhilo's unique
@@ -42,28 +42,28 @@
   video_id:
   categories:
     -
-- title:
-  title-highlighted: Botox
-  subtitle: LOOK YOUNGER FOR LONGER
-  price: 85.000 Per Unit
-  description_html: >-
-    <p>Botox is one of our most popular treatments at Body Lab Bali. Botox
-    blocks nerve activity in the muscles, causing a temporary reduction in
-    muscle activity, which in turn reduces wrinkles and sagging.</p><p>We use
-    only the highest quality Allergan Botox from USA and all injectables are
-    administered by an experienced medical professional.</p><p>Effects last
-    about three to eight months, depending on what concern you are
-    addressing.</p><p>Where can we use the Botox to look
-    younger?</p><ul><li>Forehead between the eyes, frown lines.</li><li>Eyebrows
-    (to combat droopiness)</li><li>Crows feet&nbsp;</li><li>Smokers line on the
-    upper lip&nbsp;</li><li>Age lines on the neck&nbsp;</li></ul><p>Botox can
-    also be used to treat excessive underarm sweating.</p><p>Duration: 30
-    min</p>
-  image_path: /uploads/istock-495037992.jpg
-  video_id: LC_BRreBM64
-  categories:
-    - Injectable
-    - Botox
+    - title:
+      title-highlighted: Botox
+      subtitle: LOOK YOUNGER FOR LONGER
+      price: 85.000 Per Unit
+      description_html: >-
+        <p>Botox is one of our most popular treatments at Body Lab Bali. Botox
+        blocks nerve activity in the muscles, causing a temporary reduction in
+        muscle activity, which in turn reduces wrinkles and sagging.</p><p>We
+        use only the highest quality Allergan Botox from USA and all injectables
+        are administered by an experienced medical professional.</p><p>Effects
+        last about three to eight months, depending on what concern you are
+        addressing.</p><p>Where can we use the Botox to look
+        younger?</p><ul><li>Forehead between the eyes, frown
+        lines.</li><li>Eyebrows (to combat droopiness)</li><li>Crows
+        feet&nbsp;</li><li>Smokers line on the upper lip&nbsp;</li><li>Age lines
+        on the neck&nbsp;</li></ul><p>Botox can also be used to treat excessive
+        underarm sweating.</p><p>Duration: 30 min</p>
+      image_path: /uploads/istock-495037992.jpg
+      video_id: LC_BRreBM64
+      categories:
+        - Injectable
+        - Botox
 - title:
   title-highlighted: Dermal Fillers
   subtitle: INJECTABLES
