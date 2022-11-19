@@ -1,5 +1,5 @@
 ---
-layout: Promo
+layout: Video
 title: Black Friday !
 description: >-
   Better watch yourself because black Friday is here!, come and join the fun
