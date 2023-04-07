@@ -12,7 +12,6 @@ description: >-
   undesirable skin problems and provide longstanding results.
 featured_image: /uploads/shutterstock_1018475431.jpg
 ---
-
 #### What is Hollywood Laser Carbon Peel?
 
 Hollywood Laser Carbon Peel is a safe and painless method which helps you to rejuvenate your skin, look younger and get rid of face blemish. It exfoliates the dead cells of epidermis very gently ensuring bactericidal effect. This technique is highly recommended for people suffering from acne, blackheads, enlarged pores and uneven skin tone. At BodyLab Bali we can remove all these undesirable skin problems and provide longstanding results.
@@ -39,4 +38,4 @@ You can notice the results from the first procedure, and it gets better after a 
 
 Many Hollywood stars have already taken this procedure, among the most popular are Angelina Jolie and Kim Kardashian. &nbsp;
 
-<br>&nbsp;
+<br>
