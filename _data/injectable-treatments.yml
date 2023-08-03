@@ -89,7 +89,7 @@
 - title:
   title-highlighted: Skin Boosters
   subtitle: Biorevitalization
-  price: 2.500.000-9.000.000
+  price:
   description_html: >-
     <p>Skin Boosters are micro-injections of very smooth dermal filler that
     contains hyaluronic acid. The hyaluronic acid is a soft substance that
@@ -108,7 +108,7 @@
 - title: 'PRP Facial (platelet-rich plasma) '
   title-highlighted: PRP Facial
   subtitle: Vampire Facial
-  price: 2.500.000
+  price:
   description_html: >-
     <p>The Platelet-Rich Plasma (PRP facial), also known as the vampire facial,
     includes drawing blood from your arm, separating the platelets, and then
@@ -133,16 +133,16 @@
 - title: PRP Hair (Platelet Rich Plasma)
   title-highlighted: PRP Hair
   subtitle: Hair Growth
-  price: 2.500.000
+  price:
   description_html: >-
     <p>PRP (platelet-rich plasma) therapy for hair loss is a three-step medical
-    treatment in which a person&rsquo;s blood is drawn, processed, and then
-    injected into their scalp⁠.</p><p>PRP injections trigger natural hair growth
-    and maintain its strength by increasing&nbsp; both the blood supply to the
-    hair follicle and the thickness of the hair shaft.⁠</p><p>⁠For more severe
-    cases, this effective approach can be combined with other hair loss
-    procedures or medications.&nbsp;</p><p>⁠PRP is the BEST solution for hair
-    loss and to boost healthy &amp; strong hair growth
+    treatment in which a person’s blood is drawn, processed, and then injected
+    into their scalp⁠.</p><p>PRP injections trigger natural hair growth and
+    maintain its strength by increasing&nbsp; both the blood supply to the hair
+    follicle and the thickness of the hair shaft.⁠</p><p>⁠For more severe cases,
+    this effective approach can be combined with other hair loss procedures or
+    medications.&nbsp;</p><p>⁠PRP is the BEST solution for hair loss and to
+    boost healthy &amp; strong hair growth
     .</p><p>⁠Benefits:</p><ul><li>Prevention of hair loss</li><li>Enhancement of
     new hair growth</li><li>Stronger and shinier hair</li></ul>
   image_path: /uploads/dsc08263.JPG
@@ -153,7 +153,7 @@
 - title:
   title-highlighted: Meso Face Slimming Injections
   subtitle: Fat Burner
-  price: 650.000 - 700.000
+  price:
   description_html: >-
     <p>Meso V shape is our signature treatment to help you get rid of unwanted
     fat tissue in your face and highlight your best features!</p><p>Our unique
@@ -177,7 +177,7 @@
 - title:
   title-highlighted: Meso Hair Microneedling
   subtitle: With EPN Electroportation Microneedling
-  price: 1.200.000
+  price:
   description_html: >-
     <p>EPN is the abbreviation of Electroporation Needle. It is a therapy to
     rejuvenate the skin using micro needles stimulating the mesoderm (middle
@@ -208,7 +208,7 @@
 - title:
   title-highlighted: Super Multi-Vitamin IV
   subtitle: Immune Booster, Beauty Cocktail
-  price: '900.000'
+  price:
   description_html: >-
     <p>Introducing: Super Multi-Vitamin Beauty Cocktail IV treatment.</p><p>At
     BodyLab Bali we want you to support your beauty from inside out!</p><p>We
@@ -220,13 +220,13 @@
     :</p><p>Retinol; Colecalciferol; Alpha tocopheryl acetate; Ascorbic acid;
     Thiamine; Riboflavine sodium phosphate; Pyridoxine hydrochloride;
     Cyanocobalamin; Folic acid; Dexpanthenol; Biotin;
-    Nicotinamide</p><p>Benefits:&nbsp;</p><p>&bull; Improves the health of skin
+    Nicotinamide</p><p>Benefits:&nbsp;</p><p>• Improves the health of skin
     damaged by acne, hyperpigmentation due to UV light exposure and other
     inflammatory processes by stimulating collagen production and maintaining
-    skin moisture.</p><p>&bull; Anti aging&nbsp;</p><p>&bull; Improve skin, hair
-    and nails quality&nbsp;</p><p>&bull; Improve immunity system</p><p>&bull;
-    Cure hangover&nbsp;</p><p>We recommend to do it once a week.For best results
-    up to 5 sessions.</p>
+    skin moisture.</p><p>• Anti aging&nbsp;</p><p>• Improve skin, hair and nails
+    quality&nbsp;</p><p>• Improve immunity system</p><p>• Cure
+    hangover&nbsp;</p><p>We recommend to do it once a week.For best results up
+    to 5 sessions.</p>
   image_path: /uploads/dsc07974.jpg
   video_id: x8pfmABmIVg
   categories:
