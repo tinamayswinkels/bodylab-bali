@@ -147,7 +147,7 @@
   categories:
     - Rejuvenating Facial
     - Cleansing Facial
-  price: '850.000'
+  price:
   description_html: >-
     <p>Oxygeneo is a 3-in-1 super facial that exfoliates, nourishes and delivers
     skin oxygenation. Similar to microdermabrasion, the Oxygeneo exfoliates the
@@ -167,7 +167,7 @@
   subtitle: Deep Cleansing with Manual Extraction
   categories:
     - Cleansing Facial
-  price: '750.000'
+  price:
   description_html: >-
     <p>This deep cleansing multi-step skin treatment is one of the best ways to
     purify your skin and remove blackheads and pimples. After a deep cleanse,
@@ -185,7 +185,7 @@
   subtitle: 'Ultrasonic Scrubber Extraction '
   categories:
     - Cleansing Facial
-  price: '800.000'
+  price:
   description_html: >-
     <p>Body Lab Bali's signature facial combines parts of our Detox Facial and
     Ultrasonic facial. This is one and the most effective cosmetic procedures
@@ -226,15 +226,15 @@
   subtitle: Permanent Fat Removal for Double Chin
   categories:
     - Fat reduction
-  price: 950.000 - 1.500.000
+  price:
   description_html: >-
     <p>Fat freezing is a non-invasive alternative to liposuction. Through the
     controlled application of cooling cups with temperature ranging from +5 to
-    -11 &deg;C, the procedure reduces fat cell volume by up to 30%.</p><p>By the
-    end of the freezing treatment, the targeted fat cells gradually die off and
-    are expelled through the body&rsquo;s natural elimination process. For this
-    reason, the end result can be seen up to three months later. Fat Freezing
-    sessions can be done only once per month. This treatment is recommended in
+    -11 °C, the procedure reduces fat cell volume by up to 30%.</p><p>By the end
+    of the freezing treatment, the targeted fat cells gradually die off and are
+    expelled through the body’s natural elimination process. For this reason,
+    the end result can be seen up to three months later. Fat Freezing sessions
+    can be done only once per month. This treatment is recommended in
     conjunction with Pressotherapy.</p><p>BENEFITS:</p><ul><li>Reduction of fat
     tissue</li><li>Chin shaping and contouring</li><li>Skin tightening and
     toning</li></ul>
@@ -245,7 +245,7 @@
   subtitle: Exfoliating Treatment
   categories:
     - Cleansing Facial
-  price: '500.000'
+  price:
   description_html: >-
     <p>Microdermabrasion is a non-invasive procedure that uses tiny crystals to
     help remove the superficial layer of dead skin cells.⁣⁣ ⁣⁣ The procedure
@@ -255,7 +255,7 @@
     skin. This procedure is safe for any skin color. ⁣⁣ ⁣⁣ The goal of
     microdermabrasion is to make a person's complexion smoother, brighter, and
     make the skin appear more even.⁣⁣ ⁣⁣</p><p>Specially effective if you suffer
-    from:⁣⁣</p><ul><li>dullness in skin&rsquo;s complexion⁣⁣</li><li>uneven skin
+    from:⁣⁣</p><ul><li>dullness in skin’s complexion⁣⁣</li><li>uneven skin
     tone⁣⁣ uneven skin texture⁣⁣</li><li>age spots⁣⁣ dark spots that can form
     after acne</li><li>clears up⁣⁣ melasma, a common issue that forms dark spots
     or patches on the skin⁣⁣ ⁣⁣</li></ul><p>Duration: 30 minutes⁣ ⁣</p>
@@ -291,7 +291,7 @@
     - Acid Peel
     - acne
     - comedo
-  price: '700.000'
+  price:
   description_html: >-
     <p>Black Peel is a natural organic Peel based on black vinegar which is made
     through the fermentation of black rice, contains organic acid, high
@@ -314,7 +314,7 @@
   subtitle: Hyperpigmentation Reducing
   categories:
     - Acid Peel
-  price: '800.000'
+  price:
   description_html: >-
     <p>Having clear, dark-spots free skin is possible with ME LINE Melasma
     Peeling. ⁣</p><p>⁣Exclusive to Body Lab Bali, ME LINE is a revolutionary
@@ -349,7 +349,7 @@
   categories:
     - Acid Peel
     - Rejuvenating Facial
-  price: '550.000'
+  price:
   description_html: >-
     <p>Alpha Hydroxy Acid (AHA) facial peels can help you achieve a fresher,
     more luminous complexion. As old skin cells shed, new cells grow but when
@@ -367,7 +367,7 @@
   subtitle: Rejuvenation with Lymphatic Drainage
   categories:
     - Rejuvenating Facial
-  price: '550.000'
+  price:
   description_html: >-
     <p>One of the latest innovations in the anti-aging industry, Microcurrent
     Facials send soft electrical waves through the skin to stimulate the facial
@@ -442,7 +442,7 @@
   subtitle: Excess Fat Reduction with Lymphatic Drainage
   categories:
     - Lymphatic Drainage
-  price: '700.000'
+  price:
   description_html: >-
     <p>Transion treatment consists on gentle electrical stimulation which
     enhances the muscle tone and blood circulation in the targeted areas. The
@@ -464,7 +464,7 @@
   categories:
     - Lymphatic Drainage
     - Rejuvenating Facial
-  price: '650.000'
+  price:
   description_html: >-
     <p>Linfogei face lymphatic drainage&nbsp;</p><p>It is the leading technology
     in the market of aesthetic medicine in all lymphatic drainage
